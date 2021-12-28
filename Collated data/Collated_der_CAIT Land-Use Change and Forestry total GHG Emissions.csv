@@ -1,0 +1,4826 @@
+"country","year","value"
+"Afghanistan","1990",0
+"Afghanistan","1991",0
+"Afghanistan","1992",0
+"Afghanistan","1993",0
+"Afghanistan","1994",0
+"Afghanistan","1995",0
+"Afghanistan","1996",0
+"Afghanistan","1997",0
+"Afghanistan","1998",0
+"Afghanistan","1999",0
+"Afghanistan","2000",0
+"Afghanistan","2001",0
+"Afghanistan","2002",0
+"Afghanistan","2003",0
+"Afghanistan","2004",0
+"Afghanistan","2005",0
+"Afghanistan","2006",0
+"Afghanistan","2007",0
+"Afghanistan","2008",0
+"Afghanistan","2009",0
+"Afghanistan","2010",0
+"Afghanistan","2011",0
+"Afghanistan","2012",0
+"Afghanistan","2013",0
+"Afghanistan","2014",0
+"Albania","1990",0.14
+"Albania","1991",0.14
+"Albania","1992",0.14
+"Albania","1993",0.14
+"Albania","1994",0.14
+"Albania","1995",0.14
+"Albania","1996",0.13
+"Albania","1997",0.15
+"Albania","1998",0.14
+"Albania","1999",0.13
+"Albania","2000",0.19
+"Albania","2001",0.89
+"Albania","2002",0.89
+"Albania","2003",0.89
+"Albania","2004",0.89
+"Albania","2005",0.89
+"Albania","2006",-0.21
+"Albania","2007",-0.02
+"Albania","2008",-0.21
+"Albania","2009",-0.21
+"Albania","2010",-0.21
+"Albania","2011",-0.34
+"Albania","2012",-0.26
+"Albania","2013",-0.36
+"Albania","2014",-0.36
+"Algeria","1990",126.41
+"Algeria","1991",126.96
+"Algeria","1992",84.27
+"Algeria","1993",36.44
+"Algeria","1994",4.88
+"Algeria","1995",0.82
+"Algeria","1996",84.78
+"Algeria","1997",36.45
+"Algeria","1998",4.9
+"Algeria","1999",103.99
+"Algeria","2000",5.58
+"Algeria","2001",8.01
+"Algeria","2002",8.84
+"Algeria","2003",0.55
+"Algeria","2004",1.89
+"Algeria","2005",32.52
+"Algeria","2006",7.01
+"Algeria","2007",21.75
+"Algeria","2008",11.02
+"Algeria","2009",31.68
+"Algeria","2010",-6.74
+"Algeria","2011",-0.31
+"Algeria","2012",-0.21
+"Algeria","2013",-0.43
+"Algeria","2014",-0.4
+"Andorra","1990",-0.02
+"Andorra","1991",-0.02
+"Andorra","1992",-0.02
+"Andorra","1993",-0.02
+"Andorra","1994",-0.02
+"Andorra","1995",-0.02
+"Andorra","1996",-0.02
+"Andorra","1997",-0.02
+"Andorra","1998",-0.02
+"Andorra","1999",-0.02
+"Andorra","2000",-0.02
+"Andorra","2001",-0.03
+"Andorra","2002",-0.03
+"Andorra","2003",-0.03
+"Andorra","2004",-0.03
+"Andorra","2005",-0.03
+"Andorra","2006",-0.04
+"Andorra","2007",-0.04
+"Andorra","2008",0
+"Andorra","2009",0
+"Andorra","2010",-0.04
+"Andorra","2011",-0.02
+"Andorra","2012",-0.02
+"Andorra","2013",-0.02
+"Andorra","2014",-0.02
+"Angola","1990",108.1
+"Angola","1991",108.1
+"Angola","1992",108.1
+"Angola","1993",108.1
+"Angola","1994",108.1
+"Angola","1995",108.1
+"Angola","1996",110.62
+"Angola","1997",105.38
+"Angola","1998",115.94
+"Angola","1999",108.84
+"Angola","2000",108.32
+"Angola","2001",89.01
+"Angola","2002",106.72
+"Angola","2003",110.09
+"Angola","2004",120.51
+"Angola","2005",122.03
+"Angola","2006",95.96
+"Angola","2007",115.87
+"Angola","2008",99.03
+"Angola","2009",99.87
+"Angola","2010",104.35
+"Angola","2011",132.3
+"Angola","2012",100.22
+"Angola","2013",114.47
+"Angola","2014",94.28
+"Antigua and Barbuda","1990",-0.02
+"Antigua and Barbuda","1991",-0.02
+"Antigua and Barbuda","1992",-0.02
+"Antigua and Barbuda","1993",-0.02
+"Antigua and Barbuda","1994",-0.02
+"Antigua and Barbuda","1995",-0.02
+"Antigua and Barbuda","1996",-0.02
+"Antigua and Barbuda","1997",-0.02
+"Antigua and Barbuda","1998",-0.02
+"Antigua and Barbuda","1999",-0.02
+"Antigua and Barbuda","2000",-0.02
+"Antigua and Barbuda","2001",0
+"Antigua and Barbuda","2002",0
+"Antigua and Barbuda","2003",0
+"Antigua and Barbuda","2004",0
+"Antigua and Barbuda","2005",0
+"Antigua and Barbuda","2006",0.09
+"Antigua and Barbuda","2007",0.09
+"Antigua and Barbuda","2008",0.09
+"Antigua and Barbuda","2009",0.09
+"Antigua and Barbuda","2010",0.09
+"Antigua and Barbuda","2011",0.01
+"Antigua and Barbuda","2012",0.01
+"Antigua and Barbuda","2013",0.01
+"Antigua and Barbuda","2014",0.01
+"Argentina","1990",70.37
+"Argentina","1991",70.37
+"Argentina","1992",70.37
+"Argentina","1993",70.37
+"Argentina","1994",70.37
+"Argentina","1995",70.37
+"Argentina","1996",70.22
+"Argentina","1997",70.05
+"Argentina","1998",71.58
+"Argentina","1999",71.96
+"Argentina","2000",68.75
+"Argentina","2001",85.9
+"Argentina","2002",90.2
+"Argentina","2003",89.8
+"Argentina","2004",98.34
+"Argentina","2005",91.65
+"Argentina","2006",111.56
+"Argentina","2007",101.99
+"Argentina","2008",111.17
+"Argentina","2009",107.46
+"Argentina","2010",98.51
+"Argentina","2011",96.63
+"Argentina","2012",100.74
+"Argentina","2013",97.4
+"Argentina","2014",94.61
+"Armenia","1990",0.13
+"Armenia","1991",0.13
+"Armenia","1992",0.13
+"Armenia","1993",0.13
+"Armenia","1994",0.13
+"Armenia","1995",0.13
+"Armenia","1996",0.13
+"Armenia","1997",0.13
+"Armenia","1998",0.13
+"Armenia","1999",0.13
+"Armenia","2000",0.13
+"Armenia","2001",0.12
+"Armenia","2002",0.12
+"Armenia","2003",0.12
+"Armenia","2004",0.12
+"Armenia","2005",0.12
+"Armenia","2006",0.13
+"Armenia","2007",0.12
+"Armenia","2008",0.12
+"Armenia","2009",0.12
+"Armenia","2010",0.12
+"Armenia","2011",-0.15
+"Armenia","2012",-0.15
+"Armenia","2013",-0.15
+"Armenia","2014",-0.15
+"Australia","1990",1.32
+"Australia","1991",1.32
+"Australia","1992",1.32
+"Australia","1993",1.32
+"Australia","1994",1.32
+"Australia","1995",1.32
+"Australia","1996",2.61
+"Australia","1997",5.15
+"Australia","1998",3.55
+"Australia","1999",5.4
+"Australia","2000",0.28
+"Australia","2001",48.64
+"Australia","2002",48.8
+"Australia","2003",56.86
+"Australia","2004",44.86
+"Australia","2005",44.74
+"Australia","2006",10.54
+"Australia","2007",4.34
+"Australia","2008",0.43
+"Australia","2009",2.77
+"Australia","2010",0.32
+"Australia","2011",-67.86
+"Australia","2012",-67.41
+"Australia","2013",-65.3
+"Australia","2014",-66.52
+"Austria","1990",-11.86
+"Austria","1991",-11.86
+"Austria","1992",-11.86
+"Austria","1993",-11.86
+"Austria","1994",-11.86
+"Austria","1995",-11.86
+"Austria","1996",-11.86
+"Austria","1997",-11.86
+"Austria","1998",-11.86
+"Austria","1999",-11.86
+"Austria","2000",-11.86
+"Austria","2001",-7.09
+"Austria","2002",-7.09
+"Austria","2003",-7.09
+"Austria","2004",-7.09
+"Austria","2005",-7.09
+"Austria","2006",-4.16
+"Austria","2007",-4.16
+"Austria","2008",-4.16
+"Austria","2009",-4.16
+"Austria","2010",-4.16
+"Austria","2011",-4.89
+"Austria","2012",-4.89
+"Austria","2013",-4.89
+"Austria","2014",-4.89
+"Azerbaijan","1990",-1.12
+"Azerbaijan","1991",-1.12
+"Azerbaijan","1992",-1.15
+"Azerbaijan","1993",-1.15
+"Azerbaijan","1994",-1.15
+"Azerbaijan","1995",-1.15
+"Azerbaijan","1996",-1.15
+"Azerbaijan","1997",-1.15
+"Azerbaijan","1998",-1.14
+"Azerbaijan","1999",-1.15
+"Azerbaijan","2000",-1.13
+"Azerbaijan","2001",-0.94
+"Azerbaijan","2002",-0.94
+"Azerbaijan","2003",-0.95
+"Azerbaijan","2004",-0.95
+"Azerbaijan","2005",-0.95
+"Azerbaijan","2006",-7.46
+"Azerbaijan","2007",-7.46
+"Azerbaijan","2008",-7.46
+"Azerbaijan","2009",-7.46
+"Azerbaijan","2010",-7.46
+"Azerbaijan","2011",-8.47
+"Azerbaijan","2012",-8.47
+"Azerbaijan","2013",-8.47
+"Azerbaijan","2014",-8.47
+"Bahamas","1990",-1.37
+"Bahamas","1991",-1.37
+"Bahamas","1992",-1.37
+"Bahamas","1993",-1.37
+"Bahamas","1994",-1.37
+"Bahamas","1995",-1.37
+"Bahamas","1996",-1.37
+"Bahamas","1997",-1.37
+"Bahamas","1998",-1.36
+"Bahamas","1999",-1.36
+"Bahamas","2000",-1.34
+"Bahamas","2001",-0.92
+"Bahamas","2002",-0.93
+"Bahamas","2003",-0.96
+"Bahamas","2004",-0.81
+"Bahamas","2005",-0.87
+"Bahamas","2006",4.97
+"Bahamas","2007",4.96
+"Bahamas","2008",5.1
+"Bahamas","2009",4.98
+"Bahamas","2010",4.94
+"Bahamas","2011",0.54
+"Bahamas","2012",0.4
+"Bahamas","2013",0.5
+"Bahamas","2014",0.39
+"Bahrain","1990",0
+"Bahrain","1991",0
+"Bahrain","1992",0
+"Bahrain","1993",0
+"Bahrain","1994",0
+"Bahrain","1995",0
+"Bahrain","1996",0
+"Bahrain","1997",0
+"Bahrain","1998",0
+"Bahrain","1999",0
+"Bahrain","2000",0
+"Bahrain","2001",0
+"Bahrain","2002",0
+"Bahrain","2003",0
+"Bahrain","2004",0
+"Bahrain","2005",0
+"Bahrain","2006",0
+"Bahrain","2007",0
+"Bahrain","2008",0
+"Bahrain","2009",0
+"Bahrain","2010",0
+"Bahrain","2011",0
+"Bahrain","2012",0
+"Bahrain","2013",0
+"Bahrain","2014",0
+"Bangladesh","1990",32.37
+"Bangladesh","1991",32.37
+"Bangladesh","1992",32.37
+"Bangladesh","1993",32.37
+"Bangladesh","1994",32.37
+"Bangladesh","1995",32.37
+"Bangladesh","1996",32.35
+"Bangladesh","1997",32.31
+"Bangladesh","1998",32.4
+"Bangladesh","1999",32.46
+"Bangladesh","2000",32.27
+"Bangladesh","2001",31.37
+"Bangladesh","2002",31.25
+"Bangladesh","2003",31.28
+"Bangladesh","2004",31.46
+"Bangladesh","2005",31.29
+"Bangladesh","2006",21.13
+"Bangladesh","2007",21.2
+"Bangladesh","2008",21.13
+"Bangladesh","2009",20.92
+"Bangladesh","2010",20.97
+"Bangladesh","2011",29.07
+"Bangladesh","2012",28.84
+"Bangladesh","2013",29.08
+"Bangladesh","2014",29.22
+"Barbados","1990",-0.02
+"Barbados","1991",-0.02
+"Barbados","1992",-0.02
+"Barbados","1993",-0.02
+"Barbados","1994",-0.02
+"Barbados","1995",-0.02
+"Barbados","1996",-0.02
+"Barbados","1997",-0.02
+"Barbados","1998",-0.02
+"Barbados","1999",-0.02
+"Barbados","2000",-0.02
+"Barbados","2001",-0.01
+"Barbados","2002",-0.01
+"Barbados","2003",-0.01
+"Barbados","2004",-0.01
+"Barbados","2005",-0.01
+"Barbados","2006",0.06
+"Barbados","2007",0.06
+"Barbados","2008",0.06
+"Barbados","2009",0.06
+"Barbados","2010",0.06
+"Barbados","2011",0
+"Barbados","2012",0
+"Barbados","2013",0
+"Barbados","2014",0
+"Belarus","1990",-9.76
+"Belarus","1991",-9.76
+"Belarus","1992",-9.94
+"Belarus","1993",-9.94
+"Belarus","1994",-9.94
+"Belarus","1995",-9.94
+"Belarus","1996",-9.98
+"Belarus","1997",-10.04
+"Belarus","1998",-10.01
+"Belarus","1999",-9.85
+"Belarus","2000",-9.95
+"Belarus","2001",-18.3
+"Belarus","2002",-13.6
+"Belarus","2003",-18.16
+"Belarus","2004",-18.3
+"Belarus","2005",-18.24
+"Belarus","2006",-26.4
+"Belarus","2007",-26.69
+"Belarus","2008",-26.66
+"Belarus","2009",-26.6
+"Belarus","2010",-26.49
+"Belarus","2011",-0.61
+"Belarus","2012",-0.62
+"Belarus","2013",-0.7
+"Belarus","2014",-0.33
+"Belgium","1990",-3.75
+"Belgium","1991",-3.75
+"Belgium","1992",-3.75
+"Belgium","1993",-3.75
+"Belgium","1994",-3.75
+"Belgium","1995",-3.75
+"Belgium","1996",-3.75
+"Belgium","1997",-3.75
+"Belgium","1998",-3.75
+"Belgium","1999",-3.75
+"Belgium","2000",-3.19
+"Belgium","2001",-3.23
+"Belgium","2002",-3.23
+"Belgium","2003",-3.23
+"Belgium","2004",-3.23
+"Belgium","2005",-3.23
+"Belgium","2006",-2.61
+"Belgium","2007",-2.61
+"Belgium","2008",-2.61
+"Belgium","2009",-2.61
+"Belgium","2010",-2.61
+"Belgium","2011",-2.61
+"Belgium","2012",-2.63
+"Belgium","2013",-2.63
+"Belgium","2014",-2.63
+"Belize","1990",5.25
+"Belize","1991",5.25
+"Belize","1992",5.25
+"Belize","1993",5.25
+"Belize","1994",5.25
+"Belize","1995",5.25
+"Belize","1996",5.26
+"Belize","1997",5.02
+"Belize","1998",5.33
+"Belize","1999",5.22
+"Belize","2000",5.21
+"Belize","2001",5.93
+"Belize","2002",5.76
+"Belize","2003",7.15
+"Belize","2004",5.87
+"Belize","2005",7.05
+"Belize","2006",5.42
+"Belize","2007",6.39
+"Belize","2008",6.1
+"Belize","2009",5.36
+"Belize","2010",5.12
+"Belize","2011",2.51
+"Belize","2012",2.14
+"Belize","2013",3.75
+"Belize","2014",2.28
+"Benin","1990",15.22
+"Benin","1991",15.22
+"Benin","1992",15.22
+"Benin","1993",15.22
+"Benin","1994",15.22
+"Benin","1995",15.22
+"Benin","1996",15.34
+"Benin","1997",15.25
+"Benin","1998",15.96
+"Benin","1999",15.78
+"Benin","2000",15.46
+"Benin","2001",10.77
+"Benin","2002",11
+"Benin","2003",10.9
+"Benin","2004",10.91
+"Benin","2005",10.98
+"Benin","2006",10.94
+"Benin","2007",10.86
+"Benin","2008",10.91
+"Benin","2009",10.71
+"Benin","2010",10.83
+"Benin","2011",10.84
+"Benin","2012",10.73
+"Benin","2013",10.78
+"Benin","2014",10.83
+"Bhutan","1990",-4.09
+"Bhutan","1991",-4.09
+"Bhutan","1992",-4.09
+"Bhutan","1993",-4.09
+"Bhutan","1994",-4.09
+"Bhutan","1995",-4.09
+"Bhutan","1996",-4.09
+"Bhutan","1997",-4.09
+"Bhutan","1998",-4.08
+"Bhutan","1999",-4.06
+"Bhutan","2000",-4.09
+"Bhutan","2001",-4.39
+"Bhutan","2002",-4.4
+"Bhutan","2003",-4.4
+"Bhutan","2004",-4.4
+"Bhutan","2005",-4.4
+"Bhutan","2006",-2.93
+"Bhutan","2007",-2.85
+"Bhutan","2008",-2.93
+"Bhutan","2009",-2.93
+"Bhutan","2010",-2.9
+"Bhutan","2011",-3.8
+"Bhutan","2012",-3.76
+"Bhutan","2013",-3.81
+"Bhutan","2014",-3.79
+"Bolivia","1990",83.41
+"Bolivia","1991",83.41
+"Bolivia","1992",83.41
+"Bolivia","1993",83.41
+"Bolivia","1994",83.41
+"Bolivia","1995",83.41
+"Bolivia","1996",83.29
+"Bolivia","1997",83.68
+"Bolivia","1998",83.63
+"Bolivia","1999",88.32
+"Bolivia","2000",80.03
+"Bolivia","2001",77.39
+"Bolivia","2002",79.18
+"Bolivia","2003",79.28
+"Bolivia","2004",93.16
+"Bolivia","2005",85.69
+"Bolivia","2006",91.26
+"Bolivia","2007",94.55
+"Bolivia","2008",90.45
+"Bolivia","2009",87.93
+"Bolivia","2010",109.73
+"Bolivia","2011",91.92
+"Bolivia","2012",86.9
+"Bolivia","2013",85.88
+"Bolivia","2014",85.71
+"Bosnia and Herzegovina","1990",-7.86
+"Bosnia and Herzegovina","1991",-7.86
+"Bosnia and Herzegovina","1992",-7.86
+"Bosnia and Herzegovina","1993",-7.86
+"Bosnia and Herzegovina","1994",-7.86
+"Bosnia and Herzegovina","1995",-7.86
+"Bosnia and Herzegovina","1996",-7.84
+"Bosnia and Herzegovina","1997",-7.9
+"Bosnia and Herzegovina","1998",-7.83
+"Bosnia and Herzegovina","1999",-7.74
+"Bosnia and Herzegovina","2000",-7.69
+"Bosnia and Herzegovina","2001",0.17
+"Bosnia and Herzegovina","2002",0.14
+"Bosnia and Herzegovina","2003",0.51
+"Bosnia and Herzegovina","2004",0.14
+"Bosnia and Herzegovina","2005",0.14
+"Bosnia and Herzegovina","2006",0.14
+"Bosnia and Herzegovina","2007",0.32
+"Bosnia and Herzegovina","2008",0.14
+"Bosnia and Herzegovina","2009",0.14
+"Bosnia and Herzegovina","2010",0.14
+"Bosnia and Herzegovina","2011",0.2
+"Bosnia and Herzegovina","2012",0.24
+"Bosnia and Herzegovina","2013",0.14
+"Bosnia and Herzegovina","2014",0.15
+"Botswana","1990",45.8
+"Botswana","1991",45.8
+"Botswana","1992",45.8
+"Botswana","1993",45.8
+"Botswana","1994",45.8
+"Botswana","1995",45.8
+"Botswana","1996",57.57
+"Botswana","1997",68.43
+"Botswana","1998",77.74
+"Botswana","1999",62.7
+"Botswana","2000",51.08
+"Botswana","2001",33.23
+"Botswana","2002",108.34
+"Botswana","2003",46.69
+"Botswana","2004",25.77
+"Botswana","2005",48.56
+"Botswana","2006",32.82
+"Botswana","2007",53
+"Botswana","2008",31.48
+"Botswana","2009",18.84
+"Botswana","2010",17.87
+"Botswana","2011",33.61
+"Botswana","2012",28.4
+"Botswana","2013",56.05
+"Botswana","2014",22.38
+"Brazil","1990",891.29
+"Brazil","1991",891.29
+"Brazil","1992",891.29
+"Brazil","1993",891.29
+"Brazil","1994",891.29
+"Brazil","1995",891.29
+"Brazil","1996",889.47
+"Brazil","1997",891.91
+"Brazil","1998",902.65
+"Brazil","1999",896.48
+"Brazil","2000",881.3
+"Brazil","2001",1093.69
+"Brazil","2002",1097.25
+"Brazil","2003",1099.01
+"Brazil","2004",1100.93
+"Brazil","2005",1112.12
+"Brazil","2006",526.58
+"Brazil","2007",550.08
+"Brazil","2008",524.96
+"Brazil","2009",521.34
+"Brazil","2010",552.05
+"Brazil","2011",298.13
+"Brazil","2012",312.23
+"Brazil","2013",299.34
+"Brazil","2014",306.18
+"Brunei","1990",2.17
+"Brunei","1991",2.17
+"Brunei","1992",2.17
+"Brunei","1993",2.17
+"Brunei","1994",2.17
+"Brunei","1995",2.17
+"Brunei","1996",1.98
+"Brunei","1997",2.17
+"Brunei","1998",6.21
+"Brunei","1999",1.9
+"Brunei","2000",1.92
+"Brunei","2001",1.85
+"Brunei","2002",1.96
+"Brunei","2003",1.97
+"Brunei","2004",1.94
+"Brunei","2005",2.09
+"Brunei","2006",1.85
+"Brunei","2007",1.85
+"Brunei","2008",1.85
+"Brunei","2009",2.17
+"Brunei","2010",2
+"Brunei","2011",0.38
+"Brunei","2012",0.39
+"Brunei","2013",0.38
+"Brunei","2014",0.55
+"Bulgaria","1990",-11.19
+"Bulgaria","1991",-11.19
+"Bulgaria","1992",-11.19
+"Bulgaria","1993",-11.19
+"Bulgaria","1994",-11.19
+"Bulgaria","1995",-11.19
+"Bulgaria","1996",-11.2
+"Bulgaria","1997",-11.21
+"Bulgaria","1998",-11.19
+"Bulgaria","1999",-11.2
+"Bulgaria","2000",-11.15
+"Bulgaria","2001",-13.57
+"Bulgaria","2002",-13.73
+"Bulgaria","2003",-13.71
+"Bulgaria","2004",-13.68
+"Bulgaria","2005",-13.72
+"Bulgaria","2006",-9.85
+"Bulgaria","2007",-9.77
+"Bulgaria","2008",-9.89
+"Bulgaria","2009",-9.92
+"Bulgaria","2010",-9.9
+"Bulgaria","2011",-9.9
+"Bulgaria","2012",-9.82
+"Bulgaria","2013",-9.89
+"Bulgaria","2014",-9.91
+"Burkina Faso","1990",11.43
+"Burkina Faso","1991",11.43
+"Burkina Faso","1992",11.43
+"Burkina Faso","1993",11.43
+"Burkina Faso","1994",11.43
+"Burkina Faso","1995",11.43
+"Burkina Faso","1996",11.68
+"Burkina Faso","1997",11.62
+"Burkina Faso","1998",12.18
+"Burkina Faso","1999",11.8
+"Burkina Faso","2000",12
+"Burkina Faso","2001",9.78
+"Burkina Faso","2002",10.26
+"Burkina Faso","2003",9.83
+"Burkina Faso","2004",9.55
+"Burkina Faso","2005",9.92
+"Burkina Faso","2006",11.63
+"Burkina Faso","2007",11.62
+"Burkina Faso","2008",11.5
+"Burkina Faso","2009",11.24
+"Burkina Faso","2010",11.47
+"Burkina Faso","2011",9.3
+"Burkina Faso","2012",9.01
+"Burkina Faso","2013",9.1
+"Burkina Faso","2014",9.1
+"Burundi","1990",8.37
+"Burundi","1991",8.37
+"Burundi","1992",8.37
+"Burundi","1993",8.37
+"Burundi","1994",8.37
+"Burundi","1995",8.37
+"Burundi","1996",8.35
+"Burundi","1997",8.48
+"Burundi","1998",8.72
+"Burundi","1999",8.48
+"Burundi","2000",8.66
+"Burundi","2001",5.59
+"Burundi","2002",5.51
+"Burundi","2003",5.61
+"Burundi","2004",5.47
+"Burundi","2005",4.89
+"Burundi","2006",-1.34
+"Burundi","2007",-1.52
+"Burundi","2008",-0.76
+"Burundi","2009",-1.15
+"Burundi","2010",-1.23
+"Burundi","2011",2.3
+"Burundi","2012",2.38
+"Burundi","2013",2.53
+"Burundi","2014",2.26
+"Côte d'Ivoire","1990",-5.7
+"Côte d'Ivoire","1991",-5.7
+"Côte d'Ivoire","1992",-5.7
+"Côte d'Ivoire","1993",-5.7
+"Côte d'Ivoire","1994",-5.7
+"Côte d'Ivoire","1995",-5.7
+"Côte d'Ivoire","1996",-5.79
+"Côte d'Ivoire","1997",-5.62
+"Côte d'Ivoire","1998",-5.21
+"Côte d'Ivoire","1999",-5.24
+"Côte d'Ivoire","2000",-5.39
+"Côte d'Ivoire","2001",-9.02
+"Côte d'Ivoire","2002",-9.16
+"Côte d'Ivoire","2003",-9.02
+"Côte d'Ivoire","2004",-9.19
+"Côte d'Ivoire","2005",-9.03
+"Côte d'Ivoire","2006",5.54
+"Côte d'Ivoire","2007",5.71
+"Côte d'Ivoire","2008",5.68
+"Côte d'Ivoire","2009",5.52
+"Côte d'Ivoire","2010",5.49
+"Côte d'Ivoire","2011",5.5
+"Côte d'Ivoire","2012",5.59
+"Côte d'Ivoire","2013",5.77
+"Côte d'Ivoire","2014",5.47
+"Cambodia","1990",27.47
+"Cambodia","1991",27.47
+"Cambodia","1992",27.47
+"Cambodia","1993",27.47
+"Cambodia","1994",27.47
+"Cambodia","1995",27.47
+"Cambodia","1996",26.84
+"Cambodia","1997",27.84
+"Cambodia","1998",30.91
+"Cambodia","1999",29.42
+"Cambodia","2000",28.91
+"Cambodia","2001",30.86
+"Cambodia","2002",31.05
+"Cambodia","2003",31.03
+"Cambodia","2004",31.5
+"Cambodia","2005",31.47
+"Cambodia","2006",22.95
+"Cambodia","2007",23.48
+"Cambodia","2008",22.95
+"Cambodia","2009",23.1
+"Cambodia","2010",23.41
+"Cambodia","2011",23.5
+"Cambodia","2012",23.39
+"Cambodia","2013",24.57
+"Cambodia","2014",23.78
+"Cameroon","1990",113.16
+"Cameroon","1991",113.16
+"Cameroon","1992",113.16
+"Cameroon","1993",113.16
+"Cameroon","1994",113.16
+"Cameroon","1995",113.16
+"Cameroon","1996",113.09
+"Cameroon","1997",113.02
+"Cameroon","1998",115.07
+"Cameroon","1999",114.19
+"Cameroon","2000",113.93
+"Cameroon","2001",111.35
+"Cameroon","2002",111.62
+"Cameroon","2003",112.69
+"Cameroon","2004",111.66
+"Cameroon","2005",113.36
+"Cameroon","2006",111.84
+"Cameroon","2007",111.84
+"Cameroon","2008",111.29
+"Cameroon","2009",112.22
+"Cameroon","2010",111.24
+"Cameroon","2011",110.23
+"Cameroon","2012",110.27
+"Cameroon","2013",115.98
+"Cameroon","2014",113.42
+"Canada","1990",81.3
+"Canada","1991",81.3
+"Canada","1992",81.3
+"Canada","1993",81.3
+"Canada","1994",81.3
+"Canada","1995",81.3
+"Canada","1996",59.85
+"Canada","1997",41.99
+"Canada","1998",138.64
+"Canada","1999",71.96
+"Canada","2000",40.56
+"Canada","2001",224.1
+"Canada","2002",302.63
+"Canada","2003",296.37
+"Canada","2004",263.52
+"Canada","2005",267.39
+"Canada","2006",184.58
+"Canada","2007",166.48
+"Canada","2008",176.27
+"Canada","2009",127.74
+"Canada","2010",206.49
+"Canada","2011",67.94
+"Canada","2012",90.1
+"Canada","2013",151.52
+"Canada","2014",121.89
+"Cape Verde","1990",-0.4
+"Cape Verde","1991",-0.4
+"Cape Verde","1992",-0.4
+"Cape Verde","1993",-0.4
+"Cape Verde","1994",-0.4
+"Cape Verde","1995",-0.4
+"Cape Verde","1996",-0.4
+"Cape Verde","1997",-0.4
+"Cape Verde","1998",-0.4
+"Cape Verde","1999",-0.4
+"Cape Verde","2000",-0.4
+"Cape Verde","2001",0
+"Cape Verde","2002",0
+"Cape Verde","2003",0
+"Cape Verde","2004",0
+"Cape Verde","2005",0
+"Cape Verde","2006",-0.07
+"Cape Verde","2007",-0.07
+"Cape Verde","2008",-0.07
+"Cape Verde","2009",-0.07
+"Cape Verde","2010",-0.07
+"Cape Verde","2011",-0.17
+"Cape Verde","2012",-0.17
+"Cape Verde","2013",-0.17
+"Cape Verde","2014",-0.17
+"Central African Republic","1990",15.48
+"Central African Republic","1991",15.48
+"Central African Republic","1992",15.48
+"Central African Republic","1993",15.48
+"Central African Republic","1994",15.48
+"Central African Republic","1995",15.48
+"Central African Republic","1996",16.06
+"Central African Republic","1997",18.84
+"Central African Republic","1998",21.66
+"Central African Republic","1999",20.41
+"Central African Republic","2000",18.86
+"Central African Republic","2001",13.98
+"Central African Republic","2002",14.06
+"Central African Republic","2003",14.43
+"Central African Republic","2004",14.12
+"Central African Republic","2005",14.58
+"Central African Republic","2006",13.35
+"Central African Republic","2007",13.46
+"Central African Republic","2008",13.49
+"Central African Republic","2009",13.38
+"Central African Republic","2010",13.42
+"Central African Republic","2011",13.34
+"Central African Republic","2012",13.28
+"Central African Republic","2013",13.43
+"Central African Republic","2014",13.33
+"Chad","1990",9.51
+"Chad","1991",9.51
+"Chad","1992",9.51
+"Chad","1993",9.51
+"Chad","1994",9.51
+"Chad","1995",9.51
+"Chad","1996",9.93
+"Chad","1997",10.9
+"Chad","1998",14.23
+"Chad","1999",14.07
+"Chad","2000",11.81
+"Chad","2001",7.97
+"Chad","2002",8
+"Chad","2003",7.81
+"Chad","2004",7.78
+"Chad","2005",7.82
+"Chad","2006",26.38
+"Chad","2007",26.24
+"Chad","2008",26.14
+"Chad","2009",25.86
+"Chad","2010",26.06
+"Chad","2011",25.49
+"Chad","2012",25.48
+"Chad","2013",25.27
+"Chad","2014",25.21
+"Chile","1990",-12.48
+"Chile","1991",-12.48
+"Chile","1992",-12.48
+"Chile","1993",-12.48
+"Chile","1994",-12.48
+"Chile","1995",-12.48
+"Chile","1996",-12.5
+"Chile","1997",-12.39
+"Chile","1998",-12.44
+"Chile","1999",-12.42
+"Chile","2000",-12.54
+"Chile","2001",-7.03
+"Chile","2002",-6.95
+"Chile","2003",-6.95
+"Chile","2004",-6.98
+"Chile","2005",-6.89
+"Chile","2006",-7.48
+"Chile","2007",-7.27
+"Chile","2008",-7.37
+"Chile","2009",-7.34
+"Chile","2010",-7.4
+"Chile","2011",-105.08
+"Chile","2012",-104.99
+"Chile","2013",-105.16
+"Chile","2014",-104.94
+"China","1990",-320.97
+"China","1991",-320.97
+"China","1992",-320.97
+"China","1993",-320.97
+"China","1994",-320.97
+"China","1995",-320.97
+"China","1996",-320.81
+"China","1997",-320.92
+"China","1998",-320.64
+"China","1999",-320.85
+"China","2000",-320.59
+"China","2001",-338.21
+"China","2002",-339.38
+"China","2003",-335.5
+"China","2004",-338.63
+"China","2005",-339.34
+"China","2006",-395.11
+"China","2007",-395.14
+"China","2008",-393.15
+"China","2009",-394.44
+"China","2010",-395.45
+"China","2011",-311.9
+"China","2012",-311.73
+"China","2013",-312.08
+"China","2014",-311.08
+"Colombia","1990",148.88
+"Colombia","1991",148.88
+"Colombia","1992",148.88
+"Colombia","1993",148.88
+"Colombia","1994",148.88
+"Colombia","1995",148.88
+"Colombia","1996",148.75
+"Colombia","1997",149.08
+"Colombia","1998",149.1
+"Colombia","1999",148.88
+"Colombia","2000",149.22
+"Colombia","2001",170.55
+"Colombia","2002",170.29
+"Colombia","2003",170.69
+"Colombia","2004",170.32
+"Colombia","2005",170.2
+"Colombia","2006",163.42
+"Colombia","2007",163.72
+"Colombia","2008",163.42
+"Colombia","2009",163.44
+"Colombia","2010",163.42
+"Colombia","2011",17.98
+"Colombia","2012",18.22
+"Colombia","2013",18.15
+"Colombia","2014",19.52
+"Comoros","1990",0.06
+"Comoros","1991",0.06
+"Comoros","1992",0.06
+"Comoros","1993",0.06
+"Comoros","1994",0.06
+"Comoros","1995",0.06
+"Comoros","1996",0.06
+"Comoros","1997",0.06
+"Comoros","1998",0.06
+"Comoros","1999",0.06
+"Comoros","2000",0.06
+"Comoros","2001",0.08
+"Comoros","2002",0.08
+"Comoros","2003",0.08
+"Comoros","2004",0.08
+"Comoros","2005",0.09
+"Comoros","2006",0.07
+"Comoros","2007",0.07
+"Comoros","2008",0.08
+"Comoros","2009",0.07
+"Comoros","2010",0.07
+"Comoros","2011",0.07
+"Comoros","2012",0.07
+"Comoros","2013",0.07
+"Comoros","2014",0.07
+"Cook Islands","1990",-0.05
+"Cook Islands","1991",-0.05
+"Cook Islands","1992",-0.05
+"Cook Islands","1993",-0.05
+"Cook Islands","1994",-0.05
+"Cook Islands","1995",-0.05
+"Cook Islands","1996",-0.05
+"Cook Islands","1997",-0.05
+"Cook Islands","1998",-0.05
+"Cook Islands","1999",-0.05
+"Cook Islands","2000",-0.05
+"Cook Islands","2001",-0.01
+"Cook Islands","2002",-0.01
+"Cook Islands","2003",-0.01
+"Cook Islands","2004",-0.01
+"Cook Islands","2005",-0.01
+"Cook Islands","2006",-0.05
+"Cook Islands","2007",-0.05
+"Cook Islands","2008",-0.05
+"Cook Islands","2009",-0.05
+"Cook Islands","2010",-0.05
+"Cook Islands","2011",0
+"Cook Islands","2012",0
+"Cook Islands","2013",0
+"Cook Islands","2014",0
+"Costa Rica","1990",6.2
+"Costa Rica","1991",6.2
+"Costa Rica","1992",6.2
+"Costa Rica","1993",6.2
+"Costa Rica","1994",6.2
+"Costa Rica","1995",6.2
+"Costa Rica","1996",6.2
+"Costa Rica","1997",6.2
+"Costa Rica","1998",6.23
+"Costa Rica","1999",6.22
+"Costa Rica","2000",6.22
+"Costa Rica","2001",-7.42
+"Costa Rica","2002",-7.59
+"Costa Rica","2003",-7.62
+"Costa Rica","2004",-7.54
+"Costa Rica","2005",-7.63
+"Costa Rica","2006",-7.59
+"Costa Rica","2007",-7.6
+"Costa Rica","2008",-7.63
+"Costa Rica","2009",-7.56
+"Costa Rica","2010",-7.63
+"Costa Rica","2011",-11.37
+"Costa Rica","2012",-11.31
+"Costa Rica","2013",-11.32
+"Costa Rica","2014",-11.36
+"Croatia","1990",-11.61
+"Croatia","1991",-11.61
+"Croatia","1992",-11.61
+"Croatia","1993",-11.61
+"Croatia","1994",-11.61
+"Croatia","1995",-11.61
+"Croatia","1996",-11.61
+"Croatia","1997",-11.6
+"Croatia","1998",-11.55
+"Croatia","1999",-11.61
+"Croatia","2000",-11.59
+"Croatia","2001",-11.62
+"Croatia","2002",-11.62
+"Croatia","2003",-11.62
+"Croatia","2004",-11.62
+"Croatia","2005",-11.62
+"Croatia","2006",-9.58
+"Croatia","2007",-9.56
+"Croatia","2008",-9.58
+"Croatia","2009",-9.58
+"Croatia","2010",-9.58
+"Croatia","2011",-3.83
+"Croatia","2012",-3.83
+"Croatia","2013",-3.84
+"Croatia","2014",-3.84
+"Cuba","1990",-34.74
+"Cuba","1991",-34.74
+"Cuba","1992",-34.74
+"Cuba","1993",-34.74
+"Cuba","1994",-34.74
+"Cuba","1995",-34.74
+"Cuba","1996",-34.74
+"Cuba","1997",-34.75
+"Cuba","1998",-34.71
+"Cuba","1999",-34.7
+"Cuba","2000",-34.68
+"Cuba","2001",-32.68
+"Cuba","2002",-32.69
+"Cuba","2003",-32.69
+"Cuba","2004",-32.66
+"Cuba","2005",-32.59
+"Cuba","2006",37.76
+"Cuba","2007",37.73
+"Cuba","2008",37.71
+"Cuba","2009",37.8
+"Cuba","2010",37.72
+"Cuba","2011",-13.89
+"Cuba","2012",-13.97
+"Cuba","2013",-13.96
+"Cuba","2014",-13.96
+"Cyprus","1990",-0.07
+"Cyprus","1991",-0.07
+"Cyprus","1992",-0.07
+"Cyprus","1993",-0.07
+"Cyprus","1994",-0.07
+"Cyprus","1995",-0.07
+"Cyprus","1996",-0.07
+"Cyprus","1997",-0.07
+"Cyprus","1998",-0.07
+"Cyprus","1999",-0.07
+"Cyprus","2000",-0.07
+"Cyprus","2001",-0.11
+"Cyprus","2002",-0.11
+"Cyprus","2003",-0.11
+"Cyprus","2004",-0.11
+"Cyprus","2005",-0.11
+"Cyprus","2006",-0.39
+"Cyprus","2007",-0.39
+"Cyprus","2008",-0.39
+"Cyprus","2009",-0.39
+"Cyprus","2010",-0.39
+"Cyprus","2011",-0.3
+"Cyprus","2012",-0.3
+"Cyprus","2013",-0.3
+"Cyprus","2014",-0.3
+"Czech Republic","1990",-12.57
+"Czech Republic","1991",-12.56
+"Czech Republic","1992",-12.56
+"Czech Republic","1993",-12.55
+"Czech Republic","1994",-12.54
+"Czech Republic","1995",-12.54
+"Czech Republic","1996",-12.53
+"Czech Republic","1997",-12.53
+"Czech Republic","1998",-12.52
+"Czech Republic","1999",-12.52
+"Czech Republic","2000",-12.51
+"Czech Republic","2001",-12.28
+"Czech Republic","2002",-12.28
+"Czech Republic","2003",-12.28
+"Czech Republic","2004",-12.28
+"Czech Republic","2005",-12.28
+"Czech Republic","2006",-6.78
+"Czech Republic","2007",-6.77
+"Czech Republic","2008",-6.78
+"Czech Republic","2009",-6.78
+"Czech Republic","2010",-6.78
+"Czech Republic","2011",-12.5
+"Czech Republic","2012",-12.49
+"Czech Republic","2013",-12.5
+"Czech Republic","2014",-12.5
+"Democratic Republic of the Congo","1990",168.77
+"Democratic Republic of the Congo","1991",168.77
+"Democratic Republic of the Congo","1992",168.77
+"Democratic Republic of the Congo","1993",168.77
+"Democratic Republic of the Congo","1994",168.77
+"Democratic Republic of the Congo","1995",168.77
+"Democratic Republic of the Congo","1996",169.76
+"Democratic Republic of the Congo","1997",175.45
+"Democratic Republic of the Congo","1998",176.44
+"Democratic Republic of the Congo","1999",171.25
+"Democratic Republic of the Congo","2000",167.94
+"Democratic Republic of the Congo","2001",162.58
+"Democratic Republic of the Congo","2002",164.02
+"Democratic Republic of the Congo","2003",165.77
+"Democratic Republic of the Congo","2004",168.92
+"Democratic Republic of the Congo","2005",167.87
+"Democratic Republic of the Congo","2006",172.45
+"Democratic Republic of the Congo","2007",165.46
+"Democratic Republic of the Congo","2008",167.66
+"Democratic Republic of the Congo","2009",168.26
+"Democratic Republic of the Congo","2010",170.39
+"Democratic Republic of the Congo","2011",171.12
+"Democratic Republic of the Congo","2012",165.6
+"Democratic Republic of the Congo","2013",168.76
+"Democratic Republic of the Congo","2014",165.55
+"Denmark","1990",0.61
+"Denmark","1991",0.61
+"Denmark","1992",0.61
+"Denmark","1993",0.61
+"Denmark","1994",0.61
+"Denmark","1995",0.61
+"Denmark","1996",0.61
+"Denmark","1997",0.61
+"Denmark","1998",0.61
+"Denmark","1999",0.61
+"Denmark","2000",0.61
+"Denmark","2001",1.71
+"Denmark","2002",1.71
+"Denmark","2003",1.71
+"Denmark","2004",1.71
+"Denmark","2005",1.71
+"Denmark","2006",0.98
+"Denmark","2007",0.97
+"Denmark","2008",0.98
+"Denmark","2009",0.97
+"Denmark","2010",0.97
+"Denmark","2011",-0.49
+"Denmark","2012",-0.49
+"Denmark","2013",-0.49
+"Denmark","2014",-0.49
+"Djibouti","1990",0
+"Djibouti","1991",0
+"Djibouti","1992",0
+"Djibouti","1993",0
+"Djibouti","1994",0
+"Djibouti","1995",0
+"Djibouti","1996",0
+"Djibouti","1997",0
+"Djibouti","1998",0
+"Djibouti","1999",0
+"Djibouti","2000",0
+"Djibouti","2001",0
+"Djibouti","2002",0
+"Djibouti","2003",0
+"Djibouti","2004",0
+"Djibouti","2005",0
+"Djibouti","2006",0
+"Djibouti","2007",0
+"Djibouti","2008",0
+"Djibouti","2009",0
+"Djibouti","2010",0
+"Djibouti","2011",0
+"Djibouti","2012",0
+"Djibouti","2013",0
+"Djibouti","2014",0
+"Dominica","1990",-0.04
+"Dominica","1991",-0.04
+"Dominica","1992",-0.04
+"Dominica","1993",-0.04
+"Dominica","1994",-0.04
+"Dominica","1995",-0.04
+"Dominica","1996",-0.04
+"Dominica","1997",-0.04
+"Dominica","1998",-0.04
+"Dominica","1999",-0.04
+"Dominica","2000",-0.04
+"Dominica","2001",0.01
+"Dominica","2002",0.01
+"Dominica","2003",0.01
+"Dominica","2004",0.01
+"Dominica","2005",0.01
+"Dominica","2006",0.53
+"Dominica","2007",0.53
+"Dominica","2008",0.53
+"Dominica","2009",0.53
+"Dominica","2010",0.53
+"Dominica","2011",0.12
+"Dominica","2012",0.12
+"Dominica","2013",0.12
+"Dominica","2014",0.12
+"Dominican Republic","1990",-9.99
+"Dominican Republic","1991",-9.99
+"Dominican Republic","1992",-9.99
+"Dominican Republic","1993",-9.99
+"Dominican Republic","1994",-9.99
+"Dominican Republic","1995",-9.99
+"Dominican Republic","1996",-9.99
+"Dominican Republic","1997",-9.96
+"Dominican Republic","1998",-9.98
+"Dominican Republic","1999",-9.98
+"Dominican Republic","2000",-9.98
+"Dominican Republic","2001",-8.64
+"Dominican Republic","2002",-8.65
+"Dominican Republic","2003",-8.65
+"Dominican Republic","2004",-8.65
+"Dominican Republic","2005",-8.48
+"Dominican Republic","2006",-8.72
+"Dominican Republic","2007",-8.72
+"Dominican Republic","2008",-8.72
+"Dominican Republic","2009",-8.73
+"Dominican Republic","2010",-8.72
+"Dominican Republic","2011",-8.71
+"Dominican Republic","2012",-8.73
+"Dominican Republic","2013",-8.72
+"Dominican Republic","2014",-8.7
+"Ecuador","1990",42.45
+"Ecuador","1991",42.45
+"Ecuador","1992",42.45
+"Ecuador","1993",42.45
+"Ecuador","1994",42.45
+"Ecuador","1995",42.45
+"Ecuador","1996",42.45
+"Ecuador","1997",42.44
+"Ecuador","1998",42.45
+"Ecuador","1999",42.44
+"Ecuador","2000",42.44
+"Ecuador","2001",33.92
+"Ecuador","2002",33.89
+"Ecuador","2003",33.89
+"Ecuador","2004",33.89
+"Ecuador","2005",33.9
+"Ecuador","2006",33.89
+"Ecuador","2007",33.88
+"Ecuador","2008",33.88
+"Ecuador","2009",33.89
+"Ecuador","2010",33.88
+"Ecuador","2011",33.88
+"Ecuador","2012",34
+"Ecuador","2013",33.88
+"Ecuador","2014",33.9
+"Egypt","1990",-0.55
+"Egypt","1991",-0.55
+"Egypt","1992",-0.55
+"Egypt","1993",-0.55
+"Egypt","1994",-0.55
+"Egypt","1995",-0.55
+"Egypt","1996",-0.55
+"Egypt","1997",-0.55
+"Egypt","1998",-0.55
+"Egypt","1999",-0.55
+"Egypt","2000",-0.55
+"Egypt","2001",-0.58
+"Egypt","2002",-0.58
+"Egypt","2003",-0.58
+"Egypt","2004",-0.58
+"Egypt","2005",-0.58
+"Egypt","2006",-0.22
+"Egypt","2007",-0.22
+"Egypt","2008",-0.22
+"Egypt","2009",-0.22
+"Egypt","2010",-0.22
+"Egypt","2011",-0.22
+"Egypt","2012",-0.22
+"Egypt","2013",-0.22
+"Egypt","2014",-0.22
+"El Salvador","1990",0.87
+"El Salvador","1991",0.87
+"El Salvador","1992",0.87
+"El Salvador","1993",0.87
+"El Salvador","1994",0.87
+"El Salvador","1995",0.87
+"El Salvador","1996",0.87
+"El Salvador","1997",0.87
+"El Salvador","1998",0.88
+"El Salvador","1999",0.88
+"El Salvador","2000",0.88
+"El Salvador","2001",0.88
+"El Salvador","2002",0.88
+"El Salvador","2003",0.88
+"El Salvador","2004",0.88
+"El Salvador","2005",0.88
+"El Salvador","2006",0.83
+"El Salvador","2007",0.83
+"El Salvador","2008",0.83
+"El Salvador","2009",0.83
+"El Salvador","2010",0.83
+"El Salvador","2011",0.73
+"El Salvador","2012",0.73
+"El Salvador","2013",0.74
+"El Salvador","2014",0.73
+"Equatorial Guinea","1990",5.32
+"Equatorial Guinea","1991",5.32
+"Equatorial Guinea","1992",5.32
+"Equatorial Guinea","1993",5.32
+"Equatorial Guinea","1994",5.32
+"Equatorial Guinea","1995",5.32
+"Equatorial Guinea","1996",5.32
+"Equatorial Guinea","1997",5.32
+"Equatorial Guinea","1998",5.32
+"Equatorial Guinea","1999",5.32
+"Equatorial Guinea","2000",5.32
+"Equatorial Guinea","2001",5.36
+"Equatorial Guinea","2002",5.36
+"Equatorial Guinea","2003",5.36
+"Equatorial Guinea","2004",5.36
+"Equatorial Guinea","2005",5.36
+"Equatorial Guinea","2006",5.43
+"Equatorial Guinea","2007",5.43
+"Equatorial Guinea","2008",5.44
+"Equatorial Guinea","2009",5.43
+"Equatorial Guinea","2010",5.43
+"Equatorial Guinea","2011",5.36
+"Equatorial Guinea","2012",5.36
+"Equatorial Guinea","2013",5.36
+"Equatorial Guinea","2014",5.36
+"Eritrea","1990",1.22
+"Eritrea","1991",1.22
+"Eritrea","1992",1.22
+"Eritrea","1993",1.22
+"Eritrea","1994",1.22
+"Eritrea","1995",1.22
+"Eritrea","1996",1.22
+"Eritrea","1997",1.22
+"Eritrea","1998",1.22
+"Eritrea","1999",1.23
+"Eritrea","2000",1.25
+"Eritrea","2001",0.62
+"Eritrea","2002",0.62
+"Eritrea","2003",0.62
+"Eritrea","2004",0.62
+"Eritrea","2005",0.62
+"Eritrea","2006",0.58
+"Eritrea","2007",0.58
+"Eritrea","2008",0.58
+"Eritrea","2009",0.58
+"Eritrea","2010",0.58
+"Eritrea","2011",0.66
+"Eritrea","2012",0.66
+"Eritrea","2013",0.66
+"Eritrea","2014",0.66
+"Estonia","1990",-0.49
+"Estonia","1991",-0.49
+"Estonia","1992",-0.5
+"Estonia","1993",-0.5
+"Estonia","1994",-0.5
+"Estonia","1995",-0.5
+"Estonia","1996",-0.49
+"Estonia","1997",-0.5
+"Estonia","1998",-0.5
+"Estonia","1999",-0.5
+"Estonia","2000",-0.5
+"Estonia","2001",6.82
+"Estonia","2002",6.89
+"Estonia","2003",6.82
+"Estonia","2004",6.82
+"Estonia","2005",6.82
+"Estonia","2006",1.27
+"Estonia","2007",1.2
+"Estonia","2008",1.26
+"Estonia","2009",1.19
+"Estonia","2010",1.19
+"Estonia","2011",4.38
+"Estonia","2012",4.38
+"Estonia","2013",4.39
+"Estonia","2014",4.39
+"Eswatini","1990",0.23
+"Eswatini","1991",0.23
+"Eswatini","1992",0.23
+"Eswatini","1993",0.23
+"Eswatini","1994",0.23
+"Eswatini","1995",0.23
+"Eswatini","1996",0.24
+"Eswatini","1997",0.21
+"Eswatini","1998",0.27
+"Eswatini","1999",0.22
+"Eswatini","2000",0.19
+"Eswatini","2001",0.23
+"Eswatini","2002",0.23
+"Eswatini","2003",0.21
+"Eswatini","2004",0.26
+"Eswatini","2005",0.26
+"Eswatini","2006",0.24
+"Eswatini","2007",0.47
+"Eswatini","2008",0.45
+"Eswatini","2009",0.18
+"Eswatini","2010",0.26
+"Eswatini","2011",0.21
+"Eswatini","2012",0.26
+"Eswatini","2013",0.29
+"Eswatini","2014",0.25
+"Ethiopia","1990",34.19
+"Ethiopia","1991",34.19
+"Ethiopia","1992",34.19
+"Ethiopia","1993",34.2
+"Ethiopia","1994",34.2
+"Ethiopia","1995",34.2
+"Ethiopia","1996",34.29
+"Ethiopia","1997",33.76
+"Ethiopia","1998",37.11
+"Ethiopia","1999",37.49
+"Ethiopia","2000",33.01
+"Ethiopia","2001",31.81
+"Ethiopia","2002",33.59
+"Ethiopia","2003",38.58
+"Ethiopia","2004",39.49
+"Ethiopia","2005",34.11
+"Ethiopia","2006",34.52
+"Ethiopia","2007",31.33
+"Ethiopia","2008",33.39
+"Ethiopia","2009",32.36
+"Ethiopia","2010",30.76
+"Ethiopia","2011",14.93
+"Ethiopia","2012",19.09
+"Ethiopia","2013",19.64
+"Ethiopia","2014",18.51
+"European Union (28)","1990",-294.47
+"European Union (28)","1991",-294.46
+"European Union (28)","1992",-284.7
+"European Union (28)","1993",-294.59
+"European Union (28)","1994",-294.58
+"European Union (28)","1995",-294.58
+"European Union (28)","1996",-294.53
+"European Union (28)","1997",-294.55
+"European Union (28)","1998",-294.12
+"European Union (28)","1999",-294.74
+"European Union (28)","2000",-294.46
+"European Union (28)","2001",-327.53
+"European Union (28)","2002",-327.52
+"European Union (28)","2003",-326.85
+"European Union (28)","2004",-327.84
+"European Union (28)","2005",-326.83
+"European Union (28)","2006",-341.73
+"European Union (28)","2007",-340.91
+"European Union (28)","2008",-342.21
+"European Union (28)","2009",-343.17
+"European Union (28)","2010",-342.69
+"European Union (28)","2011",-427.28
+"European Union (28)","2012",-427.27
+"European Union (28)","2013",-428.69
+"European Union (28)","2014",-428.84
+"Fiji","1990",-1.67
+"Fiji","1991",-1.67
+"Fiji","1992",-1.67
+"Fiji","1993",-1.67
+"Fiji","1994",-1.67
+"Fiji","1995",-1.67
+"Fiji","1996",-1.67
+"Fiji","1997",-1.67
+"Fiji","1998",-1.66
+"Fiji","1999",-1.67
+"Fiji","2000",-1.68
+"Fiji","2001",-2.05
+"Fiji","2002",-2.05
+"Fiji","2003",-2.04
+"Fiji","2004",-2.05
+"Fiji","2005",-2.04
+"Fiji","2006",0.63
+"Fiji","2007",0.62
+"Fiji","2008",0.63
+"Fiji","2009",0.65
+"Fiji","2010",0.63
+"Fiji","2011",-3
+"Fiji","2012",-3
+"Fiji","2013",-3
+"Fiji","2014",-2.99
+"Finland","1990",-24.55
+"Finland","1991",-24.55
+"Finland","1992",-24.55
+"Finland","1993",-24.55
+"Finland","1994",-24.55
+"Finland","1995",-24.55
+"Finland","1996",-24.51
+"Finland","1997",-24.56
+"Finland","1998",-24.56
+"Finland","1999",-24.56
+"Finland","2000",-24.55
+"Finland","2001",-15.84
+"Finland","2002",-15.85
+"Finland","2003",-15.81
+"Finland","2004",-15.85
+"Finland","2005",-15.82
+"Finland","2006",-20.02
+"Finland","2007",-20.1
+"Finland","2008",-20.1
+"Finland","2009",-20.1
+"Finland","2010",-20.1
+"Finland","2011",5.79
+"Finland","2012",5.71
+"Finland","2013",5.73
+"Finland","2014",5.71
+"France","1990",-23.82
+"France","1991",-23.82
+"France","1992",-23.82
+"France","1993",-23.82
+"France","1994",-23.82
+"France","1995",-23.82
+"France","1996",-23.82
+"France","1997",-23.82
+"France","1998",-23.81
+"France","1999",-23.81
+"France","2000",-23.8
+"France","2001",-78.07
+"France","2002",-78.1
+"France","2003",-78.03
+"France","2004",-78.09
+"France","2005",-78.07
+"France","2006",-53.16
+"France","2007",-53.17
+"France","2008",-53.16
+"France","2009",-53.15
+"France","2010",-53.16
+"France","2011",-78.84
+"France","2012",-78.82
+"France","2013",-78.81
+"France","2014",-78.84
+"Gabon","1990",0.45
+"Gabon","1991",0.45
+"Gabon","1992",0.45
+"Gabon","1993",0.45
+"Gabon","1994",0.45
+"Gabon","1995",0.45
+"Gabon","1996",0.46
+"Gabon","1997",0.44
+"Gabon","1998",0.44
+"Gabon","1999",0.44
+"Gabon","2000",0.43
+"Gabon","2001",0.42
+"Gabon","2002",0.41
+"Gabon","2003",0.43
+"Gabon","2004",0.43
+"Gabon","2005",0.45
+"Gabon","2006",0.44
+"Gabon","2007",0.45
+"Gabon","2008",0.54
+"Gabon","2009",0.4
+"Gabon","2010",0.41
+"Gabon","2011",-94.09
+"Gabon","2012",-94.15
+"Gabon","2013",-93.98
+"Gabon","2014",-94.16
+"Gambia","1990",-0.29
+"Gambia","1991",-0.29
+"Gambia","1992",-0.29
+"Gambia","1993",-0.29
+"Gambia","1994",-0.29
+"Gambia","1995",-0.29
+"Gambia","1996",-0.31
+"Gambia","1997",-0.29
+"Gambia","1998",-0.32
+"Gambia","1999",-0.09
+"Gambia","2000",-0.17
+"Gambia","2001",-0.25
+"Gambia","2002",-0.32
+"Gambia","2003",-0.38
+"Gambia","2004",-0.33
+"Gambia","2005",-0.33
+"Gambia","2006",-0.24
+"Gambia","2007",-0.25
+"Gambia","2008",-0.3
+"Gambia","2009",-0.38
+"Gambia","2010",-0.33
+"Gambia","2011",-0.17
+"Gambia","2012",-0.25
+"Gambia","2013",-0.24
+"Gambia","2014",-0.24
+"Georgia","1990",-3.95
+"Georgia","1991",-3.95
+"Georgia","1992",-4.03
+"Georgia","1993",-4.03
+"Georgia","1994",-4.03
+"Georgia","1995",-4.03
+"Georgia","1996",-4.03
+"Georgia","1997",-4.03
+"Georgia","1998",-4.03
+"Georgia","1999",-4.03
+"Georgia","2000",-4.03
+"Georgia","2001",-3.53
+"Georgia","2002",-3.53
+"Georgia","2003",-3.52
+"Georgia","2004",-3.52
+"Georgia","2005",-3.52
+"Georgia","2006",-3.52
+"Georgia","2007",-3.51
+"Georgia","2008",-3.51
+"Georgia","2009",-3.52
+"Georgia","2010",-3.51
+"Georgia","2011",0
+"Georgia","2012",0
+"Georgia","2013",0.01
+"Georgia","2014",0.01
+"Germany","1990",-50.56
+"Germany","1991",-50.56
+"Germany","1992",-50.56
+"Germany","1993",-50.56
+"Germany","1994",-50.56
+"Germany","1995",-50.56
+"Germany","1996",-50.56
+"Germany","1997",-50.56
+"Germany","1998",-50.56
+"Germany","1999",-50.56
+"Germany","2000",-50.56
+"Germany","2001",-18.3
+"Germany","2002",-18.3
+"Germany","2003",-18.3
+"Germany","2004",-18.3
+"Germany","2005",-18.3
+"Germany","2006",-13.89
+"Germany","2007",-13.9
+"Germany","2008",-13.78
+"Germany","2009",-13.9
+"Germany","2010",-13.9
+"Germany","2011",-37.37
+"Germany","2012",-37.37
+"Germany","2013",-37.37
+"Germany","2014",-37.37
+"Ghana","1990",20.72
+"Ghana","1991",20.72
+"Ghana","1992",20.72
+"Ghana","1993",20.72
+"Ghana","1994",20.72
+"Ghana","1995",20.72
+"Ghana","1996",20.61
+"Ghana","1997",20.95
+"Ghana","1998",21.73
+"Ghana","1999",21.17
+"Ghana","2000",21.25
+"Ghana","2001",37.66
+"Ghana","2002",37.63
+"Ghana","2003",37.61
+"Ghana","2004",37.58
+"Ghana","2005",37.65
+"Ghana","2006",-7.06
+"Ghana","2007",-6.94
+"Ghana","2008",-7.04
+"Ghana","2009",-7.11
+"Ghana","2010",-7.1
+"Ghana","2011",8.3
+"Ghana","2012",8.38
+"Ghana","2013",8.46
+"Ghana","2014",8.31
+"Greece","1990",-0.65
+"Greece","1991",-0.65
+"Greece","1992",-0.65
+"Greece","1993",-0.65
+"Greece","1994",-0.65
+"Greece","1995",-0.65
+"Greece","1996",-0.66
+"Greece","1997",-0.65
+"Greece","1998",-0.43
+"Greece","1999",-0.67
+"Greece","2000",-0.63
+"Greece","2001",-0.7
+"Greece","2002",-0.69
+"Greece","2003",-0.7
+"Greece","2004",-0.69
+"Greece","2005",-0.69
+"Greece","2006",-0.68
+"Greece","2007",-0.42
+"Greece","2008",-0.64
+"Greece","2009",-0.7
+"Greece","2010",-0.69
+"Greece","2011",-0.65
+"Greece","2012",-0.64
+"Greece","2013",-0.68
+"Greece","2014",-0.68
+"Grenada","1990",0
+"Grenada","1991",0
+"Grenada","1992",0
+"Grenada","1993",0
+"Grenada","1994",0
+"Grenada","1995",0
+"Grenada","1996",0
+"Grenada","1997",0
+"Grenada","1998",0
+"Grenada","1999",0
+"Grenada","2000",0
+"Grenada","2001",0.35
+"Grenada","2002",0.35
+"Grenada","2003",0.35
+"Grenada","2004",0.35
+"Grenada","2005",0.35
+"Grenada","2006",-0.18
+"Grenada","2007",-0.18
+"Grenada","2008",-0.18
+"Grenada","2009",-0.18
+"Grenada","2010",-0.18
+"Grenada","2011",0
+"Grenada","2012",0
+"Grenada","2013",0
+"Grenada","2014",0
+"Guatemala","1990",16.08
+"Guatemala","1991",16.08
+"Guatemala","1992",16.08
+"Guatemala","1993",16.08
+"Guatemala","1994",16.08
+"Guatemala","1995",16.08
+"Guatemala","1996",16.07
+"Guatemala","1997",15.83
+"Guatemala","1998",17.55
+"Guatemala","1999",15.89
+"Guatemala","2000",16.74
+"Guatemala","2001",15.21
+"Guatemala","2002",15.26
+"Guatemala","2003",18.07
+"Guatemala","2004",15.21
+"Guatemala","2005",18.15
+"Guatemala","2006",15.97
+"Guatemala","2007",16.91
+"Guatemala","2008",16.33
+"Guatemala","2009",17.05
+"Guatemala","2010",16.11
+"Guatemala","2011",7.7
+"Guatemala","2012",7.69
+"Guatemala","2013",8.02
+"Guatemala","2014",7.55
+"Guinea","1990",14.07
+"Guinea","1991",14.07
+"Guinea","1992",14.07
+"Guinea","1993",14.07
+"Guinea","1994",14.07
+"Guinea","1995",14.07
+"Guinea","1996",14.03
+"Guinea","1997",13.94
+"Guinea","1998",14.42
+"Guinea","1999",14.44
+"Guinea","2000",14.11
+"Guinea","2001",13.68
+"Guinea","2002",13.76
+"Guinea","2003",14.04
+"Guinea","2004",14.01
+"Guinea","2005",13.88
+"Guinea","2006",14.31
+"Guinea","2007",14.36
+"Guinea","2008",14.08
+"Guinea","2009",13.89
+"Guinea","2010",13.39
+"Guinea","2011",14.16
+"Guinea","2012",14.54
+"Guinea","2013",14.14
+"Guinea","2014",14.14
+"Guinea-Bissau","1990",1.53
+"Guinea-Bissau","1991",1.53
+"Guinea-Bissau","1992",1.53
+"Guinea-Bissau","1993",1.53
+"Guinea-Bissau","1994",1.53
+"Guinea-Bissau","1995",1.53
+"Guinea-Bissau","1996",1.47
+"Guinea-Bissau","1997",1.52
+"Guinea-Bissau","1998",1.74
+"Guinea-Bissau","1999",1.94
+"Guinea-Bissau","2000",1.69
+"Guinea-Bissau","2001",2.21
+"Guinea-Bissau","2002",2.2
+"Guinea-Bissau","2003",2.21
+"Guinea-Bissau","2004",2.21
+"Guinea-Bissau","2005",2.2
+"Guinea-Bissau","2006",1.48
+"Guinea-Bissau","2007",1.48
+"Guinea-Bissau","2008",1.47
+"Guinea-Bissau","2009",1.47
+"Guinea-Bissau","2010",1.47
+"Guinea-Bissau","2011",1.47
+"Guinea-Bissau","2012",1.48
+"Guinea-Bissau","2013",1.48
+"Guinea-Bissau","2014",1.47
+"Guyana","1990",10.25
+"Guyana","1991",10.25
+"Guyana","1992",10.25
+"Guyana","1993",10.25
+"Guyana","1994",10.25
+"Guyana","1995",10.25
+"Guyana","1996",9.83
+"Guyana","1997",9.64
+"Guyana","1998",13.17
+"Guyana","1999",8.47
+"Guyana","2000",8.24
+"Guyana","2001",7.9
+"Guyana","2002",8.01
+"Guyana","2003",15.89
+"Guyana","2004",9.07
+"Guyana","2005",13.65
+"Guyana","2006",11.29
+"Guyana","2007",11.37
+"Guyana","2008",11.39
+"Guyana","2009",13.31
+"Guyana","2010",8.64
+"Guyana","2011",14.83
+"Guyana","2012",18.64
+"Guyana","2013",16.19
+"Guyana","2014",20.5
+"Haiti","1990",0.14
+"Haiti","1991",0.14
+"Haiti","1992",0.14
+"Haiti","1993",0.14
+"Haiti","1994",0.14
+"Haiti","1995",0.14
+"Haiti","1996",0.14
+"Haiti","1997",0.14
+"Haiti","1998",0.14
+"Haiti","1999",0.14
+"Haiti","2000",0.14
+"Haiti","2001",0.15
+"Haiti","2002",0.15
+"Haiti","2003",0.15
+"Haiti","2004",0.15
+"Haiti","2005",0.15
+"Haiti","2006",0.16
+"Haiti","2007",0.16
+"Haiti","2008",0.16
+"Haiti","2009",0.16
+"Haiti","2010",0.16
+"Haiti","2011",0.14
+"Haiti","2012",0.14
+"Haiti","2013",0.14
+"Haiti","2014",0.14
+"Honduras","1990",40.68
+"Honduras","1991",40.68
+"Honduras","1992",40.68
+"Honduras","1993",40.68
+"Honduras","1994",40.68
+"Honduras","1995",40.68
+"Honduras","1996",40.63
+"Honduras","1997",40.97
+"Honduras","1998",41.24
+"Honduras","1999",40.83
+"Honduras","2000",40.96
+"Honduras","2001",28.62
+"Honduras","2002",28.64
+"Honduras","2003",29.68
+"Honduras","2004",28.62
+"Honduras","2005",29.38
+"Honduras","2006",28.09
+"Honduras","2007",27.98
+"Honduras","2008",28.03
+"Honduras","2009",28.08
+"Honduras","2010",27.98
+"Honduras","2011",28.29
+"Honduras","2012",27.89
+"Honduras","2013",28.05
+"Honduras","2014",28.13
+"Hungary","1990",3.6
+"Hungary","1991",3.6
+"Hungary","1992",3.6
+"Hungary","1993",3.6
+"Hungary","1994",3.6
+"Hungary","1995",3.6
+"Hungary","1996",3.59
+"Hungary","1997",3.59
+"Hungary","1998",3.59
+"Hungary","1999",3.59
+"Hungary","2000",3.6
+"Hungary","2001",5.32
+"Hungary","2002",5.26
+"Hungary","2003",5.28
+"Hungary","2004",5.27
+"Hungary","2005",5.28
+"Hungary","2006",3.07
+"Hungary","2007",3.08
+"Hungary","2008",3.09
+"Hungary","2009",3.08
+"Hungary","2010",3.07
+"Hungary","2011",4.24
+"Hungary","2012",4.31
+"Hungary","2013",4.24
+"Hungary","2014",4.25
+"Iceland","1990",-0.02
+"Iceland","1991",-0.02
+"Iceland","1992",-0.02
+"Iceland","1993",-0.02
+"Iceland","1994",-0.02
+"Iceland","1995",-0.02
+"Iceland","1996",-0.02
+"Iceland","1997",-0.02
+"Iceland","1998",-0.02
+"Iceland","1999",-0.02
+"Iceland","2000",-0.02
+"Iceland","2001",-0.05
+"Iceland","2002",-0.05
+"Iceland","2003",-0.05
+"Iceland","2004",-0.05
+"Iceland","2005",-0.05
+"Iceland","2006",-0.04
+"Iceland","2007",-0.07
+"Iceland","2008",-0.07
+"Iceland","2009",-0.07
+"Iceland","2010",-0.07
+"Iceland","2011",-0.18
+"Iceland","2012",-0.18
+"Iceland","2013",-0.18
+"Iceland","2014",-0.18
+"India","1990",-46.42
+"India","1991",-46.42
+"India","1992",-46.42
+"India","1993",-46.42
+"India","1994",-46.42
+"India","1995",-46.42
+"India","1996",-46.44
+"India","1997",-46.65
+"India","1998",-46.61
+"India","1999",-45.19
+"India","2000",-46.39
+"India","2001",-165.59
+"India","2002",-165.82
+"India","2003",-165.01
+"India","2004",-164.47
+"India","2005",-165.14
+"India","2006",-125.59
+"India","2007",-124.92
+"India","2008",-126.31
+"India","2009",-125.09
+"India","2010",-123.8
+"India","2011",121.76
+"India","2012",122.94
+"India","2013",122.29
+"India","2014",122.5
+"Indonesia","1990",956.48
+"Indonesia","1991",956.48
+"Indonesia","1992",956.48
+"Indonesia","1993",956.48
+"Indonesia","1994",956.48
+"Indonesia","1995",956.48
+"Indonesia","1996",813.65
+"Indonesia","1997",1744
+"Indonesia","1998",975.47
+"Indonesia","1999",850.24
+"Indonesia","2000",776.56
+"Indonesia","2001",1024.56
+"Indonesia","2002",1367.51
+"Indonesia","2003",1094.38
+"Indonesia","2004",1269.61
+"Indonesia","2005",1139.06
+"Indonesia","2006",1767.39
+"Indonesia","2007",1322.9
+"Indonesia","2008",1313.35
+"Indonesia","2009",1603.93
+"Indonesia","2010",1299.36
+"Indonesia","2011",1420.32
+"Indonesia","2012",1421.63
+"Indonesia","2013",1416.3
+"Indonesia","2014",1682.17
+"Iran","1990",-0.16
+"Iran","1991",-0.16
+"Iran","1992",-0.16
+"Iran","1993",-0.16
+"Iran","1994",-0.16
+"Iran","1995",-0.16
+"Iran","1996",-0.13
+"Iran","1997",-0.16
+"Iran","1998",-0.16
+"Iran","1999",-0.14
+"Iran","2000",-0.16
+"Iran","2001",-3.44
+"Iran","2002",-3.45
+"Iran","2003",-3.45
+"Iran","2004",-3.45
+"Iran","2005",-3.44
+"Iran","2006",-3.1
+"Iran","2007",-3.1
+"Iran","2008",-3.09
+"Iran","2009",-3.1
+"Iran","2010",-3.01
+"Iran","2011",67.08
+"Iran","2012",67.08
+"Iran","2013",67.08
+"Iran","2014",67.08
+"Iraq","1990",-0.98
+"Iraq","1991",-0.98
+"Iraq","1992",-0.98
+"Iraq","1993",-0.98
+"Iraq","1994",-0.98
+"Iraq","1995",-0.98
+"Iraq","1996",-0.98
+"Iraq","1997",-0.99
+"Iraq","1998",-0.98
+"Iraq","1999",-0.97
+"Iraq","2000",-0.96
+"Iraq","2001",-0.95
+"Iraq","2002",-0.96
+"Iraq","2003",-0.97
+"Iraq","2004",-0.97
+"Iraq","2005",-0.97
+"Iraq","2006",-1.7
+"Iraq","2007",-1.7
+"Iraq","2008",-1.7
+"Iraq","2009",-1.7
+"Iraq","2010",-1.7
+"Iraq","2011",-2.03
+"Iraq","2012",-2.03
+"Iraq","2013",-2.04
+"Iraq","2014",-2.04
+"Ireland","1990",-2.31
+"Ireland","1991",-2.31
+"Ireland","1992",-2.31
+"Ireland","1993",-2.31
+"Ireland","1994",-2.31
+"Ireland","1995",-2.31
+"Ireland","1996",-2.3
+"Ireland","1997",-2.31
+"Ireland","1998",-2.31
+"Ireland","1999",-2.31
+"Ireland","2000",-2.31
+"Ireland","2001",-1.83
+"Ireland","2002",-1.83
+"Ireland","2003",-1.83
+"Ireland","2004",-1.83
+"Ireland","2005",-1.81
+"Ireland","2006",-7.3
+"Ireland","2007",-7.19
+"Ireland","2008",-7.3
+"Ireland","2009",-7.3
+"Ireland","2010",-7.11
+"Ireland","2011",-0.17
+"Ireland","2012",-0.44
+"Ireland","2013",-0.42
+"Ireland","2014",-0.44
+"Israel","1990",0.11
+"Israel","1991",0.11
+"Israel","1992",0.11
+"Israel","1993",0.11
+"Israel","1994",0.11
+"Israel","1995",0.11
+"Israel","1996",0.11
+"Israel","1997",0.11
+"Israel","1998",0.11
+"Israel","1999",0.11
+"Israel","2000",0.11
+"Israel","2001",-0.07
+"Israel","2002",-0.07
+"Israel","2003",-0.07
+"Israel","2004",-0.07
+"Israel","2005",-0.07
+"Israel","2006",0
+"Israel","2007",0
+"Israel","2008",0
+"Israel","2009",0
+"Israel","2010",0
+"Israel","2011",-0.07
+"Israel","2012",-0.07
+"Israel","2013",-0.07
+"Israel","2014",-0.07
+"Italy","1990",-34.26
+"Italy","1991",-34.26
+"Italy","1992",-34.26
+"Italy","1993",-34.26
+"Italy","1994",-34.26
+"Italy","1995",-34.26
+"Italy","1996",-34.26
+"Italy","1997",-34.26
+"Italy","1998",-34.26
+"Italy","1999",-34.25
+"Italy","2000",-34.24
+"Italy","2001",-34.99
+"Italy","2002",-35.02
+"Italy","2003",-34.96
+"Italy","2004",-35.02
+"Italy","2005",-35.01
+"Italy","2006",-34.28
+"Italy","2007",-34.11
+"Italy","2008",-34.27
+"Italy","2009",-34.28
+"Italy","2010",-34.29
+"Italy","2011",-34.28
+"Italy","2012",-34.21
+"Italy","2013",-34.28
+"Italy","2014",-34.29
+"Jamaica","1990",0.78
+"Jamaica","1991",0.78
+"Jamaica","1992",0.78
+"Jamaica","1993",0.78
+"Jamaica","1994",0.78
+"Jamaica","1995",0.78
+"Jamaica","1996",0.78
+"Jamaica","1997",0.78
+"Jamaica","1998",0.78
+"Jamaica","1999",0.78
+"Jamaica","2000",0.79
+"Jamaica","2001",0.8
+"Jamaica","2002",0.8
+"Jamaica","2003",0.82
+"Jamaica","2004",0.8
+"Jamaica","2005",0.83
+"Jamaica","2006",0.77
+"Jamaica","2007",0.76
+"Jamaica","2008",0.76
+"Jamaica","2009",0.85
+"Jamaica","2010",0.83
+"Jamaica","2011",0.83
+"Jamaica","2012",0.78
+"Jamaica","2013",0.8
+"Jamaica","2014",0.78
+"Japan","1990",-74.31
+"Japan","1991",-74.31
+"Japan","1992",-74.31
+"Japan","1993",-74.31
+"Japan","1994",-74.31
+"Japan","1995",-74.31
+"Japan","1996",-74.31
+"Japan","1997",-74.32
+"Japan","1998",-74.32
+"Japan","1999",-74.32
+"Japan","2000",-74.31
+"Japan","2001",-39.14
+"Japan","2002",-39.14
+"Japan","2003",-39.08
+"Japan","2004",-39.13
+"Japan","2005",-39.11
+"Japan","2006",-142.5
+"Japan","2007",-142.49
+"Japan","2008",-142.49
+"Japan","2009",-142.5
+"Japan","2010",-142.54
+"Japan","2011",7.5
+"Japan","2012",7.44
+"Japan","2013",7.47
+"Japan","2014",7.46
+"Jordan","1990",0
+"Jordan","1991",0
+"Jordan","1992",0
+"Jordan","1993",0
+"Jordan","1994",0
+"Jordan","1995",0
+"Jordan","1996",0
+"Jordan","1997",0
+"Jordan","1998",0
+"Jordan","1999",0
+"Jordan","2000",0
+"Jordan","2001",0
+"Jordan","2002",0
+"Jordan","2003",0
+"Jordan","2004",0
+"Jordan","2005",0
+"Jordan","2006",0
+"Jordan","2007",0
+"Jordan","2008",0
+"Jordan","2009",0
+"Jordan","2010",0
+"Jordan","2011",0
+"Jordan","2012",0
+"Jordan","2013",0
+"Jordan","2014",0
+"Kazakhstan","1990",0.44
+"Kazakhstan","1991",0.44
+"Kazakhstan","1992",0.45
+"Kazakhstan","1993",0.45
+"Kazakhstan","1994",0.45
+"Kazakhstan","1995",0.45
+"Kazakhstan","1996",0.43
+"Kazakhstan","1997",0.67
+"Kazakhstan","1998",0.46
+"Kazakhstan","1999",0.4
+"Kazakhstan","2000",0.42
+"Kazakhstan","2001",-0.08
+"Kazakhstan","2002",-0.1
+"Kazakhstan","2003",-0.08
+"Kazakhstan","2004",-0.03
+"Kazakhstan","2005",-0.07
+"Kazakhstan","2006",0.13
+"Kazakhstan","2007",0.14
+"Kazakhstan","2008",0.28
+"Kazakhstan","2009",0
+"Kazakhstan","2010",0.26
+"Kazakhstan","2011",0.06
+"Kazakhstan","2012",0.5
+"Kazakhstan","2013",0.08
+"Kazakhstan","2014",0.22
+"Kenya","1990",58.77
+"Kenya","1991",58.77
+"Kenya","1992",58.77
+"Kenya","1993",58.77
+"Kenya","1994",58.77
+"Kenya","1995",58.77
+"Kenya","1996",58.73
+"Kenya","1997",59.04
+"Kenya","1998",58.9
+"Kenya","1999",59.1
+"Kenya","2000",58.75
+"Kenya","2001",-47.18
+"Kenya","2002",-47.2
+"Kenya","2003",-47
+"Kenya","2004",-46.4
+"Kenya","2005",-47.09
+"Kenya","2006",-29.56
+"Kenya","2007",-30.3
+"Kenya","2008",-29.56
+"Kenya","2009",-29.89
+"Kenya","2010",-30.52
+"Kenya","2011",-30.18
+"Kenya","2012",-30.03
+"Kenya","2013",-31.18
+"Kenya","2014",-31.24
+"Kiribati","1990",-0.01
+"Kiribati","1991",-0.01
+"Kiribati","1992",-0.01
+"Kiribati","1993",-0.01
+"Kiribati","1994",-0.01
+"Kiribati","1995",-0.01
+"Kiribati","1996",-0.01
+"Kiribati","1997",-0.01
+"Kiribati","1998",-0.01
+"Kiribati","1999",-0.01
+"Kiribati","2000",-0.01
+"Kiribati","2001",-0.01
+"Kiribati","2002",-0.01
+"Kiribati","2003",-0.01
+"Kiribati","2004",-0.01
+"Kiribati","2005",-0.01
+"Kiribati","2006",-0.01
+"Kiribati","2007",-0.01
+"Kiribati","2008",-0.01
+"Kiribati","2009",-0.01
+"Kiribati","2010",-0.01
+"Kiribati","2011",-0.01
+"Kiribati","2012",-0.01
+"Kiribati","2013",-0.01
+"Kiribati","2014",-0.01
+"Kuwait","1990",-0.03
+"Kuwait","1991",-0.03
+"Kuwait","1992",-0.03
+"Kuwait","1993",-0.03
+"Kuwait","1994",-0.03
+"Kuwait","1995",-0.03
+"Kuwait","1996",-0.03
+"Kuwait","1997",-0.03
+"Kuwait","1998",-0.03
+"Kuwait","1999",-0.03
+"Kuwait","2000",-0.03
+"Kuwait","2001",-0.03
+"Kuwait","2002",-0.03
+"Kuwait","2003",-0.03
+"Kuwait","2004",-0.03
+"Kuwait","2005",-0.03
+"Kuwait","2006",-0.04
+"Kuwait","2007",-0.04
+"Kuwait","2008",-0.04
+"Kuwait","2009",-0.04
+"Kuwait","2010",-0.04
+"Kuwait","2011",-0.02
+"Kuwait","2012",-0.02
+"Kuwait","2013",-0.02
+"Kuwait","2014",-0.02
+"Kyrgyzstan","1990",-2.37
+"Kyrgyzstan","1991",-2.37
+"Kyrgyzstan","1992",-2.43
+"Kyrgyzstan","1993",-2.42
+"Kyrgyzstan","1994",-2.42
+"Kyrgyzstan","1995",-2.42
+"Kyrgyzstan","1996",-2.41
+"Kyrgyzstan","1997",-2.4
+"Kyrgyzstan","1998",-2.4
+"Kyrgyzstan","1999",-2.4
+"Kyrgyzstan","2000",-2.4
+"Kyrgyzstan","2001",-2.42
+"Kyrgyzstan","2002",-2.42
+"Kyrgyzstan","2003",-2.42
+"Kyrgyzstan","2004",-2.42
+"Kyrgyzstan","2005",-2.42
+"Kyrgyzstan","2006",14.45
+"Kyrgyzstan","2007",14.45
+"Kyrgyzstan","2008",14.45
+"Kyrgyzstan","2009",14.45
+"Kyrgyzstan","2010",14.45
+"Kyrgyzstan","2011",-0.76
+"Kyrgyzstan","2012",-0.78
+"Kyrgyzstan","2013",-0.79
+"Kyrgyzstan","2014",-0.82
+"Laos","1990",10.55
+"Laos","1991",10.55
+"Laos","1992",10.55
+"Laos","1993",10.55
+"Laos","1994",10.55
+"Laos","1995",10.55
+"Laos","1996",10.56
+"Laos","1997",10.03
+"Laos","1998",11.96
+"Laos","1999",10.88
+"Laos","2000",10.09
+"Laos","2001",16.38
+"Laos","2002",17.52
+"Laos","2003",16.82
+"Laos","2004",20.53
+"Laos","2005",18.77
+"Laos","2006",17.04
+"Laos","2007",20.97
+"Laos","2008",16.48
+"Laos","2009",17.11
+"Laos","2010",22.55
+"Laos","2011",16.47
+"Laos","2012",18.29
+"Laos","2013",18.47
+"Laos","2014",18.07
+"Latvia","1990",-9.55
+"Latvia","1991",-9.55
+"Latvia","1992",-9.74
+"Latvia","1993",-9.74
+"Latvia","1994",-9.74
+"Latvia","1995",-9.74
+"Latvia","1996",-9.73
+"Latvia","1997",-9.74
+"Latvia","1998",-9.74
+"Latvia","1999",-9.74
+"Latvia","2000",-9.73
+"Latvia","2001",-1.09
+"Latvia","2002",-1.03
+"Latvia","2003",-1.09
+"Latvia","2004",-1.09
+"Latvia","2005",-1.09
+"Latvia","2006",-12.66
+"Latvia","2007",-12.68
+"Latvia","2008",-12.68
+"Latvia","2009",-12.68
+"Latvia","2010",-12.68
+"Latvia","2011",-10.84
+"Latvia","2012",-10.85
+"Latvia","2013",-10.85
+"Latvia","2014",-10.84
+"Lebanon","1990",0
+"Lebanon","1991",0
+"Lebanon","1992",0
+"Lebanon","1993",0
+"Lebanon","1994",0
+"Lebanon","1995",0
+"Lebanon","1996",0
+"Lebanon","1997",0
+"Lebanon","1998",0
+"Lebanon","1999",0
+"Lebanon","2000",0
+"Lebanon","2001",-0.05
+"Lebanon","2002",-0.05
+"Lebanon","2003",-0.05
+"Lebanon","2004",-0.05
+"Lebanon","2005",-0.05
+"Lebanon","2006",-0.05
+"Lebanon","2007",-0.05
+"Lebanon","2008",-0.05
+"Lebanon","2009",-0.05
+"Lebanon","2010",-0.05
+"Lebanon","2011",0
+"Lebanon","2012",0
+"Lebanon","2013",0
+"Lebanon","2014",0
+"Lesotho","1990",-0.03
+"Lesotho","1991",-0.03
+"Lesotho","1992",-0.03
+"Lesotho","1993",-0.03
+"Lesotho","1994",-0.03
+"Lesotho","1995",-0.03
+"Lesotho","1996",-0.04
+"Lesotho","1997",-0.03
+"Lesotho","1998",0.03
+"Lesotho","1999",-0.03
+"Lesotho","2000",-0.04
+"Lesotho","2001",-0.04
+"Lesotho","2002",-0.03
+"Lesotho","2003",-0.03
+"Lesotho","2004",-0.03
+"Lesotho","2005",-0.03
+"Lesotho","2006",-0.04
+"Lesotho","2007",-0.03
+"Lesotho","2008",-0.03
+"Lesotho","2009",-0.04
+"Lesotho","2010",-0.04
+"Lesotho","2011",-0.2
+"Lesotho","2012",-0.2
+"Lesotho","2013",-0.2
+"Lesotho","2014",-0.19
+"Liberia","1990",15.04
+"Liberia","1991",15.04
+"Liberia","1992",15.04
+"Liberia","1993",15.04
+"Liberia","1994",15.04
+"Liberia","1995",15.04
+"Liberia","1996",15.03
+"Liberia","1997",15.02
+"Liberia","1998",15.04
+"Liberia","1999",15.03
+"Liberia","2000",15.03
+"Liberia","2001",15.01
+"Liberia","2002",15
+"Liberia","2003",15.03
+"Liberia","2004",15.01
+"Liberia","2005",15.04
+"Liberia","2006",15.01
+"Liberia","2007",15
+"Liberia","2008",15.03
+"Liberia","2009",15.23
+"Liberia","2010",15.01
+"Liberia","2011",1.32
+"Liberia","2012",1.47
+"Liberia","2013",1.34
+"Liberia","2014",1.36
+"Libya","1990",0
+"Libya","1991",0
+"Libya","1992",0
+"Libya","1993",0
+"Libya","1994",0
+"Libya","1995",0
+"Libya","1996",0
+"Libya","1997",0
+"Libya","1998",0
+"Libya","1999",0
+"Libya","2000",0
+"Libya","2001",0
+"Libya","2002",0
+"Libya","2003",0
+"Libya","2004",0
+"Libya","2005",0
+"Libya","2006",0
+"Libya","2007",0
+"Libya","2008",0
+"Libya","2009",0
+"Libya","2010",0
+"Libya","2011",0
+"Libya","2012",0
+"Libya","2013",0
+"Libya","2014",0
+"Liechtenstein","1990",-0.01
+"Liechtenstein","1991",-0.01
+"Liechtenstein","1992",-0.01
+"Liechtenstein","1993",-0.01
+"Liechtenstein","1994",-0.01
+"Liechtenstein","1995",-0.01
+"Liechtenstein","1996",-0.01
+"Liechtenstein","1997",-0.01
+"Liechtenstein","1998",-0.01
+"Liechtenstein","1999",-0.01
+"Liechtenstein","2000",-0.01
+"Liechtenstein","2001",0
+"Liechtenstein","2002",0
+"Liechtenstein","2003",0
+"Liechtenstein","2004",0
+"Liechtenstein","2005",0
+"Liechtenstein","2006",0
+"Liechtenstein","2007",0
+"Liechtenstein","2008",0
+"Liechtenstein","2009",0
+"Liechtenstein","2010",0
+"Liechtenstein","2011",0
+"Liechtenstein","2012",0
+"Liechtenstein","2013",0
+"Liechtenstein","2014",0
+"Lithuania","1990",2.12
+"Lithuania","1991",2.12
+"Lithuania","1992",2.16
+"Lithuania","1993",2.16
+"Lithuania","1994",2.16
+"Lithuania","1995",2.16
+"Lithuania","1996",2.16
+"Lithuania","1997",2.16
+"Lithuania","1998",2.16
+"Lithuania","1999",2.18
+"Lithuania","2000",2.16
+"Lithuania","2001",2.57
+"Lithuania","2002",2.57
+"Lithuania","2003",2.57
+"Lithuania","2004",2.56
+"Lithuania","2005",2.58
+"Lithuania","2006",0.59
+"Lithuania","2007",0.58
+"Lithuania","2008",0.59
+"Lithuania","2009",0.59
+"Lithuania","2010",0.58
+"Lithuania","2011",0.44
+"Lithuania","2012",0.44
+"Lithuania","2013",0.47
+"Lithuania","2014",0.44
+"Luxembourg","1990",-0.17
+"Luxembourg","1991",-0.17
+"Luxembourg","1992",-0.17
+"Luxembourg","1993",-0.17
+"Luxembourg","1994",-0.17
+"Luxembourg","1995",-0.17
+"Luxembourg","1996",-0.17
+"Luxembourg","1997",-0.17
+"Luxembourg","1998",-0.17
+"Luxembourg","1999",-0.17
+"Luxembourg","2000",-0.73
+"Luxembourg","2001",0
+"Luxembourg","2002",0
+"Luxembourg","2003",0
+"Luxembourg","2004",0
+"Luxembourg","2005",0
+"Luxembourg","2006",0
+"Luxembourg","2007",0
+"Luxembourg","2008",0
+"Luxembourg","2009",0
+"Luxembourg","2010",0
+"Luxembourg","2011",0
+"Luxembourg","2012",0
+"Luxembourg","2013",0
+"Luxembourg","2014",0
+"Macedonia","1990",-0.73
+"Macedonia","1991",-0.73
+"Macedonia","1992",-0.73
+"Macedonia","1993",-0.73
+"Macedonia","1994",-0.73
+"Macedonia","1995",-0.73
+"Macedonia","1996",-0.73
+"Macedonia","1997",-0.73
+"Macedonia","1998",-0.73
+"Macedonia","1999",-0.73
+"Macedonia","2000",-0.71
+"Macedonia","2001",1.25
+"Macedonia","2002",1.25
+"Macedonia","2003",1.25
+"Macedonia","2004",1.25
+"Macedonia","2005",1.25
+"Macedonia","2006",0
+"Macedonia","2007",0.06
+"Macedonia","2008",0.01
+"Macedonia","2009",0
+"Macedonia","2010",0
+"Macedonia","2011",0
+"Macedonia","2012",0.02
+"Macedonia","2013",0
+"Macedonia","2014",0
+"Madagascar","1990",39.79
+"Madagascar","1991",39.79
+"Madagascar","1992",39.79
+"Madagascar","1993",39.79
+"Madagascar","1994",39.79
+"Madagascar","1995",39.79
+"Madagascar","1996",40.38
+"Madagascar","1997",39.17
+"Madagascar","1998",40.38
+"Madagascar","1999",39.76
+"Madagascar","2000",37.81
+"Madagascar","2001",26.73
+"Madagascar","2002",23.35
+"Madagascar","2003",23.98
+"Madagascar","2004",25.06
+"Madagascar","2005",26.72
+"Madagascar","2006",33.93
+"Madagascar","2007",33.93
+"Madagascar","2008",31.97
+"Madagascar","2009",34.8
+"Madagascar","2010",33.87
+"Madagascar","2011",21.98
+"Madagascar","2012",20.29
+"Madagascar","2013",24.24
+"Madagascar","2014",21.69
+"Malawi","1990",6.7
+"Malawi","1991",6.7
+"Malawi","1992",6.7
+"Malawi","1993",6.7
+"Malawi","1994",6.7
+"Malawi","1995",6.7
+"Malawi","1996",6.86
+"Malawi","1997",6.77
+"Malawi","1998",6.82
+"Malawi","1999",6.57
+"Malawi","2000",7.01
+"Malawi","2001",7.09
+"Malawi","2002",7.28
+"Malawi","2003",8.15
+"Malawi","2004",7.49
+"Malawi","2005",7.7
+"Malawi","2006",6.35
+"Malawi","2007",6.34
+"Malawi","2008",6.68
+"Malawi","2009",6.28
+"Malawi","2010",6.82
+"Malawi","2011",4.63
+"Malawi","2012",4.61
+"Malawi","2013",4.33
+"Malawi","2014",4.34
+"Malaysia","1990",126.85
+"Malaysia","1991",126.85
+"Malaysia","1992",126.85
+"Malaysia","1993",126.85
+"Malaysia","1994",126.85
+"Malaysia","1995",126.85
+"Malaysia","1996",124.79
+"Malaysia","1997",126.63
+"Malaysia","1998",154.75
+"Malaysia","1999",124
+"Malaysia","2000",123.97
+"Malaysia","2001",144.72
+"Malaysia","2002",151.22
+"Malaysia","2003",147.61
+"Malaysia","2004",152.15
+"Malaysia","2005",153.53
+"Malaysia","2006",-19.74
+"Malaysia","2007",-18.5
+"Malaysia","2008",-20.15
+"Malaysia","2009",-10.85
+"Malaysia","2010",-15.99
+"Malaysia","2011",-140.53
+"Malaysia","2012",-141.19
+"Malaysia","2013",-139.91
+"Malaysia","2014",-129.02
+"Maldives","1990",0
+"Maldives","1991",0
+"Maldives","1992",0
+"Maldives","1993",0
+"Maldives","1994",0
+"Maldives","1995",0
+"Maldives","1996",0
+"Maldives","1997",0
+"Maldives","1998",0
+"Maldives","1999",0
+"Maldives","2000",0
+"Maldives","2001",0
+"Maldives","2002",0
+"Maldives","2003",0
+"Maldives","2004",0
+"Maldives","2005",0
+"Maldives","2006",0
+"Maldives","2007",0
+"Maldives","2008",0
+"Maldives","2009",0
+"Maldives","2010",0
+"Maldives","2011",0
+"Maldives","2012",0
+"Maldives","2013",0
+"Maldives","2014",0
+"Mali","1990",7.99
+"Mali","1991",7.99
+"Mali","1992",7.99
+"Mali","1993",7.99
+"Mali","1994",7.99
+"Mali","1995",7.99
+"Mali","1996",7.81
+"Mali","1997",8.25
+"Mali","1998",10.93
+"Mali","1999",10.65
+"Mali","2000",8.75
+"Mali","2001",8.09
+"Mali","2002",8.19
+"Mali","2003",7.37
+"Mali","2004",7.61
+"Mali","2005",8.15
+"Mali","2006",7.63
+"Mali","2007",7.51
+"Mali","2008",7.68
+"Mali","2009",7.17
+"Mali","2010",7.23
+"Mali","2011",7.39
+"Mali","2012",7.16
+"Mali","2013",7.13
+"Mali","2014",7.17
+"Malta","1990",0
+"Malta","1991",0
+"Malta","1992",0
+"Malta","1993",0
+"Malta","1994",0
+"Malta","1995",0
+"Malta","1996",0
+"Malta","1997",0
+"Malta","1998",0
+"Malta","1999",0
+"Malta","2000",0
+"Malta","2001",0
+"Malta","2002",0
+"Malta","2003",0
+"Malta","2004",0
+"Malta","2005",0
+"Malta","2006",0
+"Malta","2007",0
+"Malta","2008",0
+"Malta","2009",0
+"Malta","2010",0
+"Malta","2011",0
+"Malta","2012",0
+"Malta","2013",0
+"Malta","2014",0
+"Marshall Islands","1990",NA
+"Marshall Islands","1991",0
+"Marshall Islands","1992",0
+"Marshall Islands","1993",0
+"Marshall Islands","1994",0
+"Marshall Islands","1995",0
+"Marshall Islands","1996",0
+"Marshall Islands","1997",0
+"Marshall Islands","1998",0
+"Marshall Islands","1999",0
+"Marshall Islands","2000",0
+"Marshall Islands","2001",0
+"Marshall Islands","2002",0
+"Marshall Islands","2003",0
+"Marshall Islands","2004",0
+"Marshall Islands","2005",0
+"Marshall Islands","2006",0
+"Marshall Islands","2007",0
+"Marshall Islands","2008",0
+"Marshall Islands","2009",0
+"Marshall Islands","2010",0
+"Marshall Islands","2011",0
+"Marshall Islands","2012",0
+"Marshall Islands","2013",0
+"Marshall Islands","2014",0
+"Mauritania","1990",1.1
+"Mauritania","1991",1.1
+"Mauritania","1992",1.1
+"Mauritania","1993",1.1
+"Mauritania","1994",1.1
+"Mauritania","1995",1.1
+"Mauritania","1996",1.1
+"Mauritania","1997",1.1
+"Mauritania","1998",1.1
+"Mauritania","1999",1.1
+"Mauritania","2000",1.1
+"Mauritania","2001",1.1
+"Mauritania","2002",1.1
+"Mauritania","2003",1.1
+"Mauritania","2004",1.1
+"Mauritania","2005",1.1
+"Mauritania","2006",0.51
+"Mauritania","2007",0.51
+"Mauritania","2008",0.51
+"Mauritania","2009",0.51
+"Mauritania","2010",0.51
+"Mauritania","2011",-1.52
+"Mauritania","2012",-1.52
+"Mauritania","2013",-1.52
+"Mauritania","2014",-1.52
+"Mauritius","1990",-0.03
+"Mauritius","1991",-0.03
+"Mauritius","1992",-0.03
+"Mauritius","1993",-0.03
+"Mauritius","1994",-0.03
+"Mauritius","1995",-0.03
+"Mauritius","1996",-0.03
+"Mauritius","1997",-0.03
+"Mauritius","1998",-0.03
+"Mauritius","1999",-0.03
+"Mauritius","2000",-0.03
+"Mauritius","2001",0.18
+"Mauritius","2002",0.18
+"Mauritius","2003",0.18
+"Mauritius","2004",0.18
+"Mauritius","2005",0.18
+"Mauritius","2006",-0.01
+"Mauritius","2007",-0.01
+"Mauritius","2008",-0.01
+"Mauritius","2009",-0.01
+"Mauritius","2010",-0.01
+"Mauritius","2011",-0.01
+"Mauritius","2012",-0.01
+"Mauritius","2013",-0.01
+"Mauritius","2014",-0.01
+"Mexico","1990",19.41
+"Mexico","1991",19.41
+"Mexico","1992",19.41
+"Mexico","1993",19.41
+"Mexico","1994",19.41
+"Mexico","1995",19.41
+"Mexico","1996",18.74
+"Mexico","1997",18.95
+"Mexico","1998",26.51
+"Mexico","1999",22.15
+"Mexico","2000",22.17
+"Mexico","2001",18.01
+"Mexico","2002",18.27
+"Mexico","2003",21.63
+"Mexico","2004",17.81
+"Mexico","2005",20
+"Mexico","2006",12.47
+"Mexico","2007",12.41
+"Mexico","2008",12.22
+"Mexico","2009",12.47
+"Mexico","2010",11.31
+"Mexico","2011",10.07
+"Mexico","2012",8.26
+"Mexico","2013",8.99
+"Mexico","2014",7.45
+"Micronesia","1990",NA
+"Micronesia","1991",-0.03
+"Micronesia","1992",-0.03
+"Micronesia","1993",-0.03
+"Micronesia","1994",-0.03
+"Micronesia","1995",-0.03
+"Micronesia","1996",-0.03
+"Micronesia","1997",-0.03
+"Micronesia","1998",-0.03
+"Micronesia","1999",-0.03
+"Micronesia","2000",-0.03
+"Micronesia","2001",-0.03
+"Micronesia","2002",-0.03
+"Micronesia","2003",-0.03
+"Micronesia","2004",-0.03
+"Micronesia","2005",-0.03
+"Micronesia","2006",-0.03
+"Micronesia","2007",-0.03
+"Micronesia","2008",-0.03
+"Micronesia","2009",-0.03
+"Micronesia","2010",-0.03
+"Micronesia","2011",-0.03
+"Micronesia","2012",-0.03
+"Micronesia","2013",-0.03
+"Micronesia","2014",-0.03
+"Moldova","1990",-1.21
+"Moldova","1991",-1.21
+"Moldova","1992",-1.23
+"Moldova","1993",-1.23
+"Moldova","1994",-1.23
+"Moldova","1995",-1.23
+"Moldova","1996",-1.23
+"Moldova","1997",-1.23
+"Moldova","1998",-1.23
+"Moldova","1999",-1.23
+"Moldova","2000",-1.23
+"Moldova","2001",-0.87
+"Moldova","2002",-0.87
+"Moldova","2003",-0.86
+"Moldova","2004",-0.87
+"Moldova","2005",-0.87
+"Moldova","2006",-0.86
+"Moldova","2007",-0.86
+"Moldova","2008",-0.86
+"Moldova","2009",-0.86
+"Moldova","2010",-0.86
+"Moldova","2011",-1.09
+"Moldova","2012",-1.09
+"Moldova","2013",-1.09
+"Moldova","2014",-1.08
+"Mongolia","1990",27.33
+"Mongolia","1991",27.33
+"Mongolia","1992",27.33
+"Mongolia","1993",27.33
+"Mongolia","1994",27.33
+"Mongolia","1995",27.33
+"Mongolia","1996",27.03
+"Mongolia","1997",33.01
+"Mongolia","1998",27.14
+"Mongolia","1999",26.44
+"Mongolia","2000",29.55
+"Mongolia","2001",25.04
+"Mongolia","2002",27.19
+"Mongolia","2003",23.66
+"Mongolia","2004",24.39
+"Mongolia","2005",23.87
+"Mongolia","2006",31.24
+"Mongolia","2007",30.41
+"Mongolia","2008",29.76
+"Mongolia","2009",24.98
+"Mongolia","2010",24.29
+"Mongolia","2011",25.47
+"Mongolia","2012",26.88
+"Mongolia","2013",24.84
+"Mongolia","2014",24.6
+"Montenegro","1990",-1.21
+"Montenegro","1991",-1.21
+"Montenegro","1992",-1.21
+"Montenegro","1993",-1.21
+"Montenegro","1994",-1.21
+"Montenegro","1995",-1.21
+"Montenegro","1996",-1.21
+"Montenegro","1997",-1.21
+"Montenegro","1998",-1.21
+"Montenegro","1999",-1.21
+"Montenegro","2000",-1.2
+"Montenegro","2001",-1.27
+"Montenegro","2002",-1.27
+"Montenegro","2003",-1.27
+"Montenegro","2004",-1.27
+"Montenegro","2005",-1.27
+"Montenegro","2006",-16.85
+"Montenegro","2007",-16.79
+"Montenegro","2008",-16.86
+"Montenegro","2009",-16.86
+"Montenegro","2010",-16.86
+"Montenegro","2011",0.09
+"Montenegro","2012",0.14
+"Montenegro","2013",0.07
+"Montenegro","2014",0.06
+"Morocco","1990",-8.8
+"Morocco","1991",-8.8
+"Morocco","1992",-8.8
+"Morocco","1993",-8.8
+"Morocco","1994",-8.8
+"Morocco","1995",-8.8
+"Morocco","1996",-8.8
+"Morocco","1997",-8.8
+"Morocco","1998",-8.8
+"Morocco","1999",-8.8
+"Morocco","2000",-8.8
+"Morocco","2001",-9.53
+"Morocco","2002",-9.53
+"Morocco","2003",-9.53
+"Morocco","2004",-9.53
+"Morocco","2005",-9.53
+"Morocco","2006",0.74
+"Morocco","2007",0.73
+"Morocco","2008",0.73
+"Morocco","2009",0.73
+"Morocco","2010",0.73
+"Morocco","2011",-1.47
+"Morocco","2012",-1.46
+"Morocco","2013",-1.47
+"Morocco","2014",-1.47
+"Mozambique","1990",36.78
+"Mozambique","1991",36.78
+"Mozambique","1992",36.78
+"Mozambique","1993",36.78
+"Mozambique","1994",36.78
+"Mozambique","1995",36.78
+"Mozambique","1996",37.54
+"Mozambique","1997",36.66
+"Mozambique","1998",37.24
+"Mozambique","1999",36.89
+"Mozambique","2000",35.62
+"Mozambique","2001",36.64
+"Mozambique","2002",36.7
+"Mozambique","2003",37.59
+"Mozambique","2004",36.81
+"Mozambique","2005",37.84
+"Mozambique","2006",31.27
+"Mozambique","2007",31.88
+"Mozambique","2008",32.35
+"Mozambique","2009",30.38
+"Mozambique","2010",32.67
+"Mozambique","2011",38.58
+"Mozambique","2012",39.95
+"Mozambique","2013",39.25
+"Mozambique","2014",39.68
+"Myanmar","1990",110.97
+"Myanmar","1991",110.97
+"Myanmar","1992",110.97
+"Myanmar","1993",110.97
+"Myanmar","1994",110.97
+"Myanmar","1995",110.97
+"Myanmar","1996",110.76
+"Myanmar","1997",109.7
+"Myanmar","1998",113.95
+"Myanmar","1999",114.34
+"Myanmar","2000",109.79
+"Myanmar","2001",80.74
+"Myanmar","2002",79.79
+"Myanmar","2003",82.94
+"Myanmar","2004",93.92
+"Myanmar","2005",84.27
+"Myanmar","2006",84.93
+"Myanmar","2007",94.58
+"Myanmar","2008",82.56
+"Myanmar","2009",89.29
+"Myanmar","2010",94.26
+"Myanmar","2011",99.69
+"Myanmar","2012",102.99
+"Myanmar","2013",102.7
+"Myanmar","2014",105.11
+"Namibia","1990",9.01
+"Namibia","1991",9.01
+"Namibia","1992",9.01
+"Namibia","1993",9.01
+"Namibia","1994",9.01
+"Namibia","1995",9.01
+"Namibia","1996",8.76
+"Namibia","1997",8.67
+"Namibia","1998",9
+"Namibia","1999",8.97
+"Namibia","2000",9.53
+"Namibia","2001",9.28
+"Namibia","2002",9.49
+"Namibia","2003",8.97
+"Namibia","2004",8.87
+"Namibia","2005",9.21
+"Namibia","2006",8.32
+"Namibia","2007",9.05
+"Namibia","2008",9.55
+"Namibia","2009",8.98
+"Namibia","2010",9.1
+"Namibia","2011",9.55
+"Namibia","2012",9.59
+"Namibia","2013",9.54
+"Namibia","2014",8.95
+"Nauru","1990",0
+"Nauru","1991",0
+"Nauru","1992",0
+"Nauru","1993",0
+"Nauru","1994",0
+"Nauru","1995",0
+"Nauru","1996",0
+"Nauru","1997",0
+"Nauru","1998",0
+"Nauru","1999",0
+"Nauru","2000",0
+"Nauru","2001",0
+"Nauru","2002",0
+"Nauru","2003",0
+"Nauru","2004",0
+"Nauru","2005",0
+"Nauru","2006",0
+"Nauru","2007",0
+"Nauru","2008",0
+"Nauru","2009",0
+"Nauru","2010",0
+"Nauru","2011",0
+"Nauru","2012",0
+"Nauru","2013",0
+"Nauru","2014",0
+"Nepal","1990",36.21
+"Nepal","1991",36.21
+"Nepal","1992",36.21
+"Nepal","1993",36.21
+"Nepal","1994",36.21
+"Nepal","1995",36.21
+"Nepal","1996",36.11
+"Nepal","1997",35.97
+"Nepal","1998",36.23
+"Nepal","1999",36.76
+"Nepal","2000",36.32
+"Nepal","2001",31.33
+"Nepal","2002",31.15
+"Nepal","2003",32.02
+"Nepal","2004",31.89
+"Nepal","2005",31.87
+"Nepal","2006",5.8
+"Nepal","2007",5.74
+"Nepal","2008",6.14
+"Nepal","2009",6.32
+"Nepal","2010",6.29
+"Nepal","2011",6.15
+"Nepal","2012",6.55
+"Nepal","2013",6.27
+"Nepal","2014",6.54
+"Netherlands","1990",2.37
+"Netherlands","1991",2.37
+"Netherlands","1992",2.37
+"Netherlands","1993",2.37
+"Netherlands","1994",2.37
+"Netherlands","1995",2.37
+"Netherlands","1996",2.37
+"Netherlands","1997",2.37
+"Netherlands","1998",2.37
+"Netherlands","1999",2.37
+"Netherlands","2000",2.37
+"Netherlands","2001",2.77
+"Netherlands","2002",2.77
+"Netherlands","2003",2.77
+"Netherlands","2004",2.78
+"Netherlands","2005",2.77
+"Netherlands","2006",0.94
+"Netherlands","2007",0.94
+"Netherlands","2008",0.94
+"Netherlands","2009",0.94
+"Netherlands","2010",0.94
+"Netherlands","2011",1.16
+"Netherlands","2012",1.16
+"Netherlands","2013",1.16
+"Netherlands","2014",1.16
+"New Zealand","1990",-21.63
+"New Zealand","1991",-21.63
+"New Zealand","1992",-21.63
+"New Zealand","1993",-21.63
+"New Zealand","1994",-21.63
+"New Zealand","1995",-21.63
+"New Zealand","1996",-21.63
+"New Zealand","1997",-21.64
+"New Zealand","1998",-21.64
+"New Zealand","1999",-21.64
+"New Zealand","2000",-21.63
+"New Zealand","2001",-14.67
+"New Zealand","2002",-14.67
+"New Zealand","2003",-14.67
+"New Zealand","2004",-14.67
+"New Zealand","2005",-14.67
+"New Zealand","2006",-16.13
+"New Zealand","2007",-16.12
+"New Zealand","2008",-16.13
+"New Zealand","2009",-16.14
+"New Zealand","2010",-16.13
+"New Zealand","2011",-15.4
+"New Zealand","2012",-15.39
+"New Zealand","2013",-15.4
+"New Zealand","2014",-15.4
+"Nicaragua","1990",28.99
+"Nicaragua","1991",28.99
+"Nicaragua","1992",28.99
+"Nicaragua","1993",28.99
+"Nicaragua","1994",28.99
+"Nicaragua","1995",28.99
+"Nicaragua","1996",28.95
+"Nicaragua","1997",29.03
+"Nicaragua","1998",29.53
+"Nicaragua","1999",29.01
+"Nicaragua","2000",29.04
+"Nicaragua","2001",28.88
+"Nicaragua","2002",28.87
+"Nicaragua","2003",29.37
+"Nicaragua","2004",28.92
+"Nicaragua","2005",29.16
+"Nicaragua","2006",28.9
+"Nicaragua","2007",28.92
+"Nicaragua","2008",28.93
+"Nicaragua","2009",28.89
+"Nicaragua","2010",28.87
+"Nicaragua","2011",0.1
+"Nicaragua","2012",0.09
+"Nicaragua","2013",0.17
+"Nicaragua","2014",0.23
+"Niger","1990",7.08
+"Niger","1991",7.08
+"Niger","1992",7.08
+"Niger","1993",7.08
+"Niger","1994",7.08
+"Niger","1995",7.08
+"Niger","1996",7.1
+"Niger","1997",7.05
+"Niger","1998",7.17
+"Niger","1999",7.06
+"Niger","2000",7.09
+"Niger","2001",1.54
+"Niger","2002",1.6
+"Niger","2003",1.57
+"Niger","2004",1.56
+"Niger","2005",1.59
+"Niger","2006",1.58
+"Niger","2007",1.59
+"Niger","2008",1.58
+"Niger","2009",1.5
+"Niger","2010",1.57
+"Niger","2011",1.58
+"Niger","2012",1.55
+"Niger","2013",1.63
+"Niger","2014",1.55
+"Nigeria","1990",193.44
+"Nigeria","1991",193.44
+"Nigeria","1992",193.44
+"Nigeria","1993",193.44
+"Nigeria","1994",193.44
+"Nigeria","1995",193.44
+"Nigeria","1996",194.49
+"Nigeria","1997",192.87
+"Nigeria","1998",194.47
+"Nigeria","1999",192.82
+"Nigeria","2000",193.81
+"Nigeria","2001",161.73
+"Nigeria","2002",155.05
+"Nigeria","2003",156.45
+"Nigeria","2004",158.43
+"Nigeria","2005",159
+"Nigeria","2006",184.63
+"Nigeria","2007",182.86
+"Nigeria","2008",179.13
+"Nigeria","2009",176.33
+"Nigeria","2010",178.1
+"Nigeria","2011",189.16
+"Nigeria","2012",188.4
+"Nigeria","2013",187.44
+"Nigeria","2014",188.36
+"Niue","1990",0.02
+"Niue","1991",0.02
+"Niue","1992",0.02
+"Niue","1993",0.02
+"Niue","1994",0.02
+"Niue","1995",0.02
+"Niue","1996",0.02
+"Niue","1997",0.02
+"Niue","1998",0.02
+"Niue","1999",0.02
+"Niue","2000",0.02
+"Niue","2001",0.03
+"Niue","2002",0.03
+"Niue","2003",0.03
+"Niue","2004",0.03
+"Niue","2005",0.03
+"Niue","2006",-0.01
+"Niue","2007",-0.01
+"Niue","2008",-0.01
+"Niue","2009",-0.01
+"Niue","2010",-0.01
+"Niue","2011",0.05
+"Niue","2012",0.05
+"Niue","2013",0.05
+"Niue","2014",0.05
+"North Korea","1990",12.42
+"North Korea","1991",12.42
+"North Korea","1992",12.42
+"North Korea","1993",12.42
+"North Korea","1994",12.42
+"North Korea","1995",12.42
+"North Korea","1996",12.41
+"North Korea","1997",12.66
+"North Korea","1998",12.45
+"North Korea","1999",12.39
+"North Korea","2000",12.39
+"North Korea","2001",12.03
+"North Korea","2002",11.97
+"North Korea","2003",12.06
+"North Korea","2004",12.24
+"North Korea","2005",12.07
+"North Korea","2006",14.22
+"North Korea","2007",14.17
+"North Korea","2008",14.25
+"North Korea","2009",14.2
+"North Korea","2010",14.14
+"North Korea","2011",14.36
+"North Korea","2012",14.19
+"North Korea","2013",14.15
+"North Korea","2014",14.3
+"Norway","1990",-14.24
+"Norway","1991",-14.24
+"Norway","1992",-14.24
+"Norway","1993",-14.24
+"Norway","1994",-14.24
+"Norway","1995",-14.24
+"Norway","1996",-14.24
+"Norway","1997",-14.24
+"Norway","1998",-14.24
+"Norway","1999",-14.24
+"Norway","2000",-14.25
+"Norway","2001",-21.22
+"Norway","2002",-21.22
+"Norway","2003",-21.22
+"Norway","2004",-21.22
+"Norway","2005",-21.21
+"Norway","2006",-22.65
+"Norway","2007",-22.68
+"Norway","2008",-22.63
+"Norway","2009",-22.68
+"Norway","2010",-22.68
+"Norway","2011",-21.95
+"Norway","2012",-21.95
+"Norway","2013",-21.95
+"Norway","2014",-21.95
+"Oman","1990",0
+"Oman","1991",0
+"Oman","1992",0
+"Oman","1993",0
+"Oman","1994",0
+"Oman","1995",0
+"Oman","1996",0
+"Oman","1997",0
+"Oman","1998",0
+"Oman","1999",0
+"Oman","2000",0
+"Oman","2001",0
+"Oman","2002",0
+"Oman","2003",0
+"Oman","2004",0
+"Oman","2005",0
+"Oman","2006",0
+"Oman","2007",0
+"Oman","2008",0
+"Oman","2009",0
+"Oman","2010",0
+"Oman","2011",0
+"Oman","2012",0
+"Oman","2013",0
+"Oman","2014",0
+"Pakistan","1990",21.64
+"Pakistan","1991",21.64
+"Pakistan","1992",21.64
+"Pakistan","1993",21.64
+"Pakistan","1994",21.64
+"Pakistan","1995",21.64
+"Pakistan","1996",21.64
+"Pakistan","1997",21.63
+"Pakistan","1998",21.64
+"Pakistan","1999",21.64
+"Pakistan","2000",21.64
+"Pakistan","2001",20.53
+"Pakistan","2002",20.54
+"Pakistan","2003",20.53
+"Pakistan","2004",20.54
+"Pakistan","2005",20.54
+"Pakistan","2006",22.01
+"Pakistan","2007",22
+"Pakistan","2008",22
+"Pakistan","2009",22
+"Pakistan","2010",22
+"Pakistan","2011",28.6
+"Pakistan","2012",28.6
+"Pakistan","2013",28.6
+"Pakistan","2014",28.6
+"Palau","1990",NA
+"Palau","1991",-0.14
+"Palau","1992",-0.14
+"Palau","1993",-0.14
+"Palau","1994",-0.14
+"Palau","1995",-0.14
+"Palau","1996",-0.14
+"Palau","1997",-0.14
+"Palau","1998",-0.14
+"Palau","1999",-0.14
+"Palau","2000",-0.14
+"Palau","2001",-0.14
+"Palau","2002",-0.14
+"Palau","2003",-0.14
+"Palau","2004",-0.14
+"Palau","2005",-0.14
+"Palau","2006",0
+"Palau","2007",0
+"Palau","2008",0
+"Palau","2009",0
+"Palau","2010",0
+"Palau","2011",0
+"Palau","2012",0
+"Palau","2013",0
+"Palau","2014",0
+"Panama","1990",8.93
+"Panama","1991",8.93
+"Panama","1992",8.93
+"Panama","1993",8.93
+"Panama","1994",8.93
+"Panama","1995",8.93
+"Panama","1996",8.93
+"Panama","1997",8.93
+"Panama","1998",8.93
+"Panama","1999",8.92
+"Panama","2000",8.93
+"Panama","2001",9.3
+"Panama","2002",9.29
+"Panama","2003",9.29
+"Panama","2004",9.29
+"Panama","2005",9.28
+"Panama","2006",8.56
+"Panama","2007",8.55
+"Panama","2008",8.55
+"Panama","2009",8.64
+"Panama","2010",8.54
+"Panama","2011",8.54
+"Panama","2012",8.56
+"Panama","2013",8.6
+"Panama","2014",8.55
+"Papua New Guinea","1990",62.3
+"Papua New Guinea","1991",62.3
+"Papua New Guinea","1992",62.3
+"Papua New Guinea","1993",62.3
+"Papua New Guinea","1994",62.3
+"Papua New Guinea","1995",62.3
+"Papua New Guinea","1996",51.55
+"Papua New Guinea","1997",162.84
+"Papua New Guinea","1998",53.78
+"Papua New Guinea","1999",53.76
+"Papua New Guinea","2000",53.6
+"Papua New Guinea","2001",51.38
+"Papua New Guinea","2002",68.75
+"Papua New Guinea","2003",57.57
+"Papua New Guinea","2004",86.44
+"Papua New Guinea","2005",51.67
+"Papua New Guinea","2006",61.84
+"Papua New Guinea","2007",51.81
+"Papua New Guinea","2008",58.81
+"Papua New Guinea","2009",53.02
+"Papua New Guinea","2010",59.38
+"Papua New Guinea","2011",50.6
+"Papua New Guinea","2012",49.9
+"Papua New Guinea","2013",54.42
+"Papua New Guinea","2014",59.24
+"Paraguay","1990",72.25
+"Paraguay","1991",72.25
+"Paraguay","1992",72.25
+"Paraguay","1993",72.25
+"Paraguay","1994",72.25
+"Paraguay","1995",72.25
+"Paraguay","1996",72.01
+"Paraguay","1997",72.44
+"Paraguay","1998",72.15
+"Paraguay","1999",74.49
+"Paraguay","2000",71.4
+"Paraguay","2001",73.19
+"Paraguay","2002",73.99
+"Paraguay","2003",74.09
+"Paraguay","2004",73.59
+"Paraguay","2005",74.26
+"Paraguay","2006",129.37
+"Paraguay","2007",131.35
+"Paraguay","2008",129.13
+"Paraguay","2009",128.4
+"Paraguay","2010",129.02
+"Paraguay","2011",143.23
+"Paraguay","2012",143.36
+"Paraguay","2013",143.94
+"Paraguay","2014",143.32
+"Peru","1990",44.98
+"Peru","1991",44.98
+"Peru","1992",44.98
+"Peru","1993",44.98
+"Peru","1994",44.98
+"Peru","1995",44.98
+"Peru","1996",44.89
+"Peru","1997",45.51
+"Peru","1998",45.59
+"Peru","1999",45.12
+"Peru","2000",44.9
+"Peru","2001",44.74
+"Peru","2002",44.68
+"Peru","2003",44.69
+"Peru","2004",44.63
+"Peru","2005",46.48
+"Peru","2006",70.35
+"Peru","2007",70.5
+"Peru","2008",70.39
+"Peru","2009",70.32
+"Peru","2010",70.72
+"Peru","2011",71.73
+"Peru","2012",72.04
+"Peru","2013",72.04
+"Peru","2014",71.85
+"Philippines","1990",-2.59
+"Philippines","1991",-2.59
+"Philippines","1992",-2.59
+"Philippines","1993",-2.59
+"Philippines","1994",-2.59
+"Philippines","1995",-2.59
+"Philippines","1996",-2.59
+"Philippines","1997",-2.58
+"Philippines","1998",-2.45
+"Philippines","1999",-2.59
+"Philippines","2000",-2.58
+"Philippines","2001",11.3
+"Philippines","2002",11.38
+"Philippines","2003",11.34
+"Philippines","2004",11.33
+"Philippines","2005",11.4
+"Philippines","2006",29.52
+"Philippines","2007",29.51
+"Philippines","2008",29.49
+"Philippines","2009",29.5
+"Philippines","2010",29.6
+"Philippines","2011",-60.33
+"Philippines","2012",-60.35
+"Philippines","2013",-60.32
+"Philippines","2014",-60.3
+"Poland","1990",-13.7
+"Poland","1991",-13.7
+"Poland","1992",-13.7
+"Poland","1993",-13.7
+"Poland","1994",-13.7
+"Poland","1995",-13.7
+"Poland","1996",-13.71
+"Poland","1997",-13.7
+"Poland","1998",-13.7
+"Poland","1999",-13.7
+"Poland","2000",-13.7
+"Poland","2001",-24.36
+"Poland","2002",-24.17
+"Poland","2003",-24.33
+"Poland","2004",-24.37
+"Poland","2005",-24.36
+"Poland","2006",-107.21
+"Poland","2007",-107.23
+"Poland","2008",-107.18
+"Poland","2009",-107.23
+"Poland","2010",-107.16
+"Poland","2011",-25.11
+"Poland","2012",-25.09
+"Poland","2013",-25.11
+"Poland","2014",-25.11
+"Portugal","1990",1.64
+"Portugal","1991",1.64
+"Portugal","1992",1.64
+"Portugal","1993",1.64
+"Portugal","1994",1.64
+"Portugal","1995",1.64
+"Portugal","1996",1.71
+"Portugal","1997",1.64
+"Portugal","1998",1.69
+"Portugal","1999",1.65
+"Portugal","2000",1.62
+"Portugal","2001",5.73
+"Portugal","2002",5.72
+"Portugal","2003",5.89
+"Portugal","2004",5.72
+"Portugal","2005",6.48
+"Portugal","2006",0.1
+"Portugal","2007",0.01
+"Portugal","2008",-0.01
+"Portugal","2009",-0.01
+"Portugal","2010",0.12
+"Portugal","2011",1.78
+"Portugal","2012",1.84
+"Portugal","2013",1.88
+"Portugal","2014",1.76
+"Qatar","1990",0
+"Qatar","1991",0
+"Qatar","1992",0
+"Qatar","1993",0
+"Qatar","1994",0
+"Qatar","1995",0
+"Qatar","1996",0
+"Qatar","1997",0
+"Qatar","1998",0
+"Qatar","1999",0
+"Qatar","2000",0
+"Qatar","2001",0
+"Qatar","2002",0
+"Qatar","2003",0
+"Qatar","2004",0
+"Qatar","2005",0
+"Qatar","2006",0
+"Qatar","2007",0
+"Qatar","2008",0
+"Qatar","2009",0
+"Qatar","2010",0
+"Qatar","2011",0
+"Qatar","2012",0
+"Qatar","2013",0
+"Qatar","2014",0
+"Republic of Congo","1990",13.82
+"Republic of Congo","1991",13.82
+"Republic of Congo","1992",13.82
+"Republic of Congo","1993",13.82
+"Republic of Congo","1994",13.82
+"Republic of Congo","1995",13.82
+"Republic of Congo","1996",13.03
+"Republic of Congo","1997",13.21
+"Republic of Congo","1998",12.97
+"Republic of Congo","1999",13.09
+"Republic of Congo","2000",12.52
+"Republic of Congo","2001",12.44
+"Republic of Congo","2002",11.14
+"Republic of Congo","2003",12.38
+"Republic of Congo","2004",14.04
+"Republic of Congo","2005",14.31
+"Republic of Congo","2006",11.79
+"Republic of Congo","2007",10.26
+"Republic of Congo","2008",11.15
+"Republic of Congo","2009",9.65
+"Republic of Congo","2010",10.45
+"Republic of Congo","2011",13.02
+"Republic of Congo","2012",17.63
+"Republic of Congo","2013",20.26
+"Republic of Congo","2014",12.29
+"Romania","1990",1.69
+"Romania","1991",1.69
+"Romania","1992",1.69
+"Romania","1993",1.69
+"Romania","1994",1.69
+"Romania","1995",1.69
+"Romania","1996",1.64
+"Romania","1997",1.56
+"Romania","1998",1.59
+"Romania","1999",1.56
+"Romania","2000",1.57
+"Romania","2001",0.25
+"Romania","2002",0.21
+"Romania","2003",0.43
+"Romania","2004",0.09
+"Romania","2005",0.1
+"Romania","2006",-3.7
+"Romania","2007",-2.77
+"Romania","2008",-3.5
+"Romania","2009",-4.07
+"Romania","2010",-4.04
+"Romania","2011",-162.58
+"Romania","2012",-162.39
+"Romania","2013",-163.62
+"Romania","2014",-163.77
+"Russia","1990",244.54
+"Russia","1991",244.54
+"Russia","1992",245.9
+"Russia","1993",245.9
+"Russia","1994",245.9
+"Russia","1995",245.9
+"Russia","1996",262.99
+"Russia","1997",196.39
+"Russia","1998",268.43
+"Russia","1999",216
+"Russia","2000",224.57
+"Russia","2001",58.03
+"Russia","2002",86.29
+"Russia","2003",187.26
+"Russia","2004",11.49
+"Russia","2005",36.5
+"Russia","2006",-125.71
+"Russia","2007",-141.49
+"Russia","2008",67.14
+"Russia","2009",-98.18
+"Russia","2010",-120.84
+"Russia","2011",-116.78
+"Russia","2012",-28.05
+"Russia","2013",-123.14
+"Russia","2014",-107.69
+"Rwanda","1990",9.64
+"Rwanda","1991",9.64
+"Rwanda","1992",9.64
+"Rwanda","1993",9.64
+"Rwanda","1994",9.64
+"Rwanda","1995",9.64
+"Rwanda","1996",9.57
+"Rwanda","1997",9.7
+"Rwanda","1998",9.69
+"Rwanda","1999",9.57
+"Rwanda","2000",9.43
+"Rwanda","2001",-9.44
+"Rwanda","2002",-8.9
+"Rwanda","2003",-8.91
+"Rwanda","2004",-9.28
+"Rwanda","2005",-9.19
+"Rwanda","2006",-0.31
+"Rwanda","2007",-0.76
+"Rwanda","2008",-0.57
+"Rwanda","2009",-0.77
+"Rwanda","2010",-0.33
+"Rwanda","2011",0.55
+"Rwanda","2012",0.86
+"Rwanda","2013",0.92
+"Rwanda","2014",0.86
+"Saint Kitts and Nevis","1990",-0.03
+"Saint Kitts and Nevis","1991",-0.03
+"Saint Kitts and Nevis","1992",-0.03
+"Saint Kitts and Nevis","1993",-0.03
+"Saint Kitts and Nevis","1994",-0.03
+"Saint Kitts and Nevis","1995",-0.03
+"Saint Kitts and Nevis","1996",-0.03
+"Saint Kitts and Nevis","1997",-0.03
+"Saint Kitts and Nevis","1998",-0.03
+"Saint Kitts and Nevis","1999",-0.03
+"Saint Kitts and Nevis","2000",-0.03
+"Saint Kitts and Nevis","2001",-0.02
+"Saint Kitts and Nevis","2002",-0.02
+"Saint Kitts and Nevis","2003",-0.02
+"Saint Kitts and Nevis","2004",-0.02
+"Saint Kitts and Nevis","2005",-0.02
+"Saint Kitts and Nevis","2006",0.1
+"Saint Kitts and Nevis","2007",0.1
+"Saint Kitts and Nevis","2008",0.1
+"Saint Kitts and Nevis","2009",0.1
+"Saint Kitts and Nevis","2010",0.1
+"Saint Kitts and Nevis","2011",0.01
+"Saint Kitts and Nevis","2012",0.01
+"Saint Kitts and Nevis","2013",0.01
+"Saint Kitts and Nevis","2014",0.01
+"Saint Lucia","1990",-0.04
+"Saint Lucia","1991",-0.04
+"Saint Lucia","1992",-0.04
+"Saint Lucia","1993",-0.04
+"Saint Lucia","1994",-0.04
+"Saint Lucia","1995",-0.04
+"Saint Lucia","1996",-0.04
+"Saint Lucia","1997",-0.04
+"Saint Lucia","1998",-0.04
+"Saint Lucia","1999",-0.04
+"Saint Lucia","2000",-0.04
+"Saint Lucia","2001",-0.02
+"Saint Lucia","2002",-0.02
+"Saint Lucia","2003",-0.02
+"Saint Lucia","2004",-0.02
+"Saint Lucia","2005",-0.02
+"Saint Lucia","2006",0.22
+"Saint Lucia","2007",0.22
+"Saint Lucia","2008",0.22
+"Saint Lucia","2009",0.22
+"Saint Lucia","2010",0.22
+"Saint Lucia","2011",0.03
+"Saint Lucia","2012",0.03
+"Saint Lucia","2013",0.03
+"Saint Lucia","2014",0.03
+"Saint Vincent and the Grenadines","1990",-0.11
+"Saint Vincent and the Grenadines","1991",-0.11
+"Saint Vincent and the Grenadines","1992",-0.11
+"Saint Vincent and the Grenadines","1993",-0.11
+"Saint Vincent and the Grenadines","1994",-0.11
+"Saint Vincent and the Grenadines","1995",-0.11
+"Saint Vincent and the Grenadines","1996",-0.11
+"Saint Vincent and the Grenadines","1997",-0.11
+"Saint Vincent and the Grenadines","1998",-0.11
+"Saint Vincent and the Grenadines","1999",-0.11
+"Saint Vincent and the Grenadines","2000",-0.11
+"Saint Vincent and the Grenadines","2001",-0.05
+"Saint Vincent and the Grenadines","2002",-0.05
+"Saint Vincent and the Grenadines","2003",-0.05
+"Saint Vincent and the Grenadines","2004",-0.05
+"Saint Vincent and the Grenadines","2005",-0.05
+"Saint Vincent and the Grenadines","2006",0.18
+"Saint Vincent and the Grenadines","2007",0.18
+"Saint Vincent and the Grenadines","2008",0.18
+"Saint Vincent and the Grenadines","2009",0.18
+"Saint Vincent and the Grenadines","2010",0.18
+"Saint Vincent and the Grenadines","2011",0.02
+"Saint Vincent and the Grenadines","2012",0.02
+"Saint Vincent and the Grenadines","2013",0.02
+"Saint Vincent and the Grenadines","2014",0.02
+"Samoa","1990",-2.06
+"Samoa","1991",-2.06
+"Samoa","1992",-2.06
+"Samoa","1993",-2.06
+"Samoa","1994",-2.06
+"Samoa","1995",-2.06
+"Samoa","1996",-2.06
+"Samoa","1997",-2.06
+"Samoa","1998",-2.05
+"Samoa","1999",-2.06
+"Samoa","2000",-2.06
+"Samoa","2001",-0.11
+"Samoa","2002",-0.11
+"Samoa","2003",-0.11
+"Samoa","2004",-0.11
+"Samoa","2005",-0.11
+"Samoa","2006",-0.54
+"Samoa","2007",-0.54
+"Samoa","2008",-0.54
+"Samoa","2009",-0.54
+"Samoa","2010",-0.54
+"Samoa","2011",0.02
+"Samoa","2012",0
+"Samoa","2013",0
+"Samoa","2014",0
+"Sao Tome and Principe","1990",0
+"Sao Tome and Principe","1991",0
+"Sao Tome and Principe","1992",0
+"Sao Tome and Principe","1993",0
+"Sao Tome and Principe","1994",0
+"Sao Tome and Principe","1995",0
+"Sao Tome and Principe","1996",0
+"Sao Tome and Principe","1997",0
+"Sao Tome and Principe","1998",0
+"Sao Tome and Principe","1999",0
+"Sao Tome and Principe","2000",0
+"Sao Tome and Principe","2001",0
+"Sao Tome and Principe","2002",0
+"Sao Tome and Principe","2003",0
+"Sao Tome and Principe","2004",0
+"Sao Tome and Principe","2005",0
+"Sao Tome and Principe","2006",0.29
+"Sao Tome and Principe","2007",0.29
+"Sao Tome and Principe","2008",0.29
+"Sao Tome and Principe","2009",0.29
+"Sao Tome and Principe","2010",0.29
+"Sao Tome and Principe","2011",0
+"Sao Tome and Principe","2012",0
+"Sao Tome and Principe","2013",0
+"Sao Tome and Principe","2014",0
+"Saudi Arabia","1990",0
+"Saudi Arabia","1991",0
+"Saudi Arabia","1992",0
+"Saudi Arabia","1993",0
+"Saudi Arabia","1994",0
+"Saudi Arabia","1995",0
+"Saudi Arabia","1996",0
+"Saudi Arabia","1997",0
+"Saudi Arabia","1998",0
+"Saudi Arabia","1999",0
+"Saudi Arabia","2000",0
+"Saudi Arabia","2001",0
+"Saudi Arabia","2002",0
+"Saudi Arabia","2003",0
+"Saudi Arabia","2004",0
+"Saudi Arabia","2005",0
+"Saudi Arabia","2006",0
+"Saudi Arabia","2007",0
+"Saudi Arabia","2008",0
+"Saudi Arabia","2009",0
+"Saudi Arabia","2010",0
+"Saudi Arabia","2011",0
+"Saudi Arabia","2012",0
+"Saudi Arabia","2013",0
+"Saudi Arabia","2014",0
+"Senegal","1990",8.01
+"Senegal","1991",8.01
+"Senegal","1992",8.01
+"Senegal","1993",8.01
+"Senegal","1994",8.01
+"Senegal","1995",8.01
+"Senegal","1996",7.87
+"Senegal","1997",8.12
+"Senegal","1998",8.97
+"Senegal","1999",9.84
+"Senegal","2000",8.86
+"Senegal","2001",7.68
+"Senegal","2002",7.3
+"Senegal","2003",7.14
+"Senegal","2004",7.21
+"Senegal","2005",7.22
+"Senegal","2006",7.09
+"Senegal","2007",6.8
+"Senegal","2008",6.7
+"Senegal","2009",6.06
+"Senegal","2010",6.65
+"Senegal","2011",5.59
+"Senegal","2012",5.03
+"Senegal","2013",5.3
+"Senegal","2014",5.13
+"Serbia","1990",-4.64
+"Serbia","1991",-4.64
+"Serbia","1992",-4.64
+"Serbia","1993",-4.64
+"Serbia","1994",-4.64
+"Serbia","1995",-4.64
+"Serbia","1996",-4.65
+"Serbia","1997",-4.65
+"Serbia","1998",-4.64
+"Serbia","1999",-4.64
+"Serbia","2000",-4.61
+"Serbia","2001",-4.89
+"Serbia","2002",-4.88
+"Serbia","2003",-4.88
+"Serbia","2004",-4.9
+"Serbia","2005",-4.9
+"Serbia","2006",-64.82
+"Serbia","2007",-64.68
+"Serbia","2008",-64.82
+"Serbia","2009",-64.82
+"Serbia","2010",-64.82
+"Serbia","2011",-1.3
+"Serbia","2012",-1.24
+"Serbia","2013",-1.32
+"Serbia","2014",-1.31
+"Seychelles","1990",0
+"Seychelles","1991",0
+"Seychelles","1992",0
+"Seychelles","1993",0
+"Seychelles","1994",0
+"Seychelles","1995",0
+"Seychelles","1996",0
+"Seychelles","1997",0
+"Seychelles","1998",0
+"Seychelles","1999",0
+"Seychelles","2000",0
+"Seychelles","2001",0
+"Seychelles","2002",0
+"Seychelles","2003",0
+"Seychelles","2004",0
+"Seychelles","2005",0
+"Seychelles","2006",0
+"Seychelles","2007",0
+"Seychelles","2008",0
+"Seychelles","2009",0
+"Seychelles","2010",0
+"Seychelles","2011",0
+"Seychelles","2012",0
+"Seychelles","2013",0
+"Seychelles","2014",0
+"Sierra Leone","1990",5.86
+"Sierra Leone","1991",5.86
+"Sierra Leone","1992",5.86
+"Sierra Leone","1993",5.86
+"Sierra Leone","1994",5.86
+"Sierra Leone","1995",5.86
+"Sierra Leone","1996",5.77
+"Sierra Leone","1997",5.8
+"Sierra Leone","1998",5.93
+"Sierra Leone","1999",5.86
+"Sierra Leone","2000",5.85
+"Sierra Leone","2001",5.75
+"Sierra Leone","2002",5.75
+"Sierra Leone","2003",5.77
+"Sierra Leone","2004",5.78
+"Sierra Leone","2005",5.72
+"Sierra Leone","2006",5.83
+"Sierra Leone","2007",5.77
+"Sierra Leone","2008",5.83
+"Sierra Leone","2009",5.84
+"Sierra Leone","2010",5.72
+"Sierra Leone","2011",5.73
+"Sierra Leone","2012",6.51
+"Sierra Leone","2013",6
+"Sierra Leone","2014",6.11
+"Singapore","1990",-0.02
+"Singapore","1991",-0.02
+"Singapore","1992",-0.02
+"Singapore","1993",-0.02
+"Singapore","1994",-0.02
+"Singapore","1995",-0.02
+"Singapore","1996",-0.02
+"Singapore","1997",-0.02
+"Singapore","1998",-0.02
+"Singapore","1999",-0.02
+"Singapore","2000",-0.02
+"Singapore","2001",0.04
+"Singapore","2002",0.04
+"Singapore","2003",0.04
+"Singapore","2004",0.04
+"Singapore","2005",0.04
+"Singapore","2006",0.07
+"Singapore","2007",0.07
+"Singapore","2008",0.07
+"Singapore","2009",0.07
+"Singapore","2010",0.07
+"Singapore","2011",0.04
+"Singapore","2012",0.04
+"Singapore","2013",0.04
+"Singapore","2014",0.04
+"Slovakia","1990",-9.91
+"Slovakia","1991",-9.91
+"Slovakia","1992",NA
+"Slovakia","1993",-9.89
+"Slovakia","1994",-9.89
+"Slovakia","1995",-9.89
+"Slovakia","1996",-9.89
+"Slovakia","1997",-9.89
+"Slovakia","1998",-9.89
+"Slovakia","1999",-9.89
+"Slovakia","2000",-9.89
+"Slovakia","2001",-9.2
+"Slovakia","2002",-9.2
+"Slovakia","2003",-9.2
+"Slovakia","2004",-9.2
+"Slovakia","2005",-9.2
+"Slovakia","2006",-6.41
+"Slovakia","2007",-6.41
+"Slovakia","2008",-6.41
+"Slovakia","2009",-6.41
+"Slovakia","2010",-6.41
+"Slovakia","2011",-5.09
+"Slovakia","2012",-5.08
+"Slovakia","2013",-5.09
+"Slovakia","2014",-5.09
+"Slovenia","1990",-6.83
+"Slovenia","1991",-6.83
+"Slovenia","1992",-6.83
+"Slovenia","1993",-6.83
+"Slovenia","1994",-6.83
+"Slovenia","1995",-6.83
+"Slovenia","1996",-6.83
+"Slovenia","1997",-6.83
+"Slovenia","1998",-6.83
+"Slovenia","1999",-6.83
+"Slovenia","2000",-6.83
+"Slovenia","2001",-10.35
+"Slovenia","2002",-10.35
+"Slovenia","2003",-10.35
+"Slovenia","2004",-10.35
+"Slovenia","2005",-10.35
+"Slovenia","2006",-7.86
+"Slovenia","2007",-7.86
+"Slovenia","2008",-7.86
+"Slovenia","2009",-7.86
+"Slovenia","2010",-7.86
+"Slovenia","2011",-6.24
+"Slovenia","2012",-6.24
+"Slovenia","2013",-6.24
+"Slovenia","2014",-6.24
+"Solomon Islands","1990",1.69
+"Solomon Islands","1991",1.69
+"Solomon Islands","1992",1.69
+"Solomon Islands","1993",1.69
+"Solomon Islands","1994",1.69
+"Solomon Islands","1995",1.69
+"Solomon Islands","1996",1.69
+"Solomon Islands","1997",1.69
+"Solomon Islands","1998",1.69
+"Solomon Islands","1999",1.69
+"Solomon Islands","2000",1.69
+"Solomon Islands","2001",1.69
+"Solomon Islands","2002",1.69
+"Solomon Islands","2003",1.69
+"Solomon Islands","2004",1.69
+"Solomon Islands","2005",1.69
+"Solomon Islands","2006",1.61
+"Solomon Islands","2007",1.61
+"Solomon Islands","2008",1.61
+"Solomon Islands","2009",1.61
+"Solomon Islands","2010",1.61
+"Solomon Islands","2011",1.98
+"Solomon Islands","2012",1.98
+"Solomon Islands","2013",1.98
+"Solomon Islands","2014",1.98
+"Somalia","1990",15.77
+"Somalia","1991",15.77
+"Somalia","1992",15.77
+"Somalia","1993",15.77
+"Somalia","1994",15.77
+"Somalia","1995",15.77
+"Somalia","1996",15.77
+"Somalia","1997",15.77
+"Somalia","1998",15.77
+"Somalia","1999",15.77
+"Somalia","2000",15.77
+"Somalia","2001",17.6
+"Somalia","2002",17.6
+"Somalia","2003",17.6
+"Somalia","2004",17.6
+"Somalia","2005",17.6
+"Somalia","2006",15.4
+"Somalia","2007",15.4
+"Somalia","2008",15.4
+"Somalia","2009",15.4
+"Somalia","2010",15.4
+"Somalia","2011",13.2
+"Somalia","2012",13.2
+"Somalia","2013",13.2
+"Somalia","2014",13.2
+"South Africa","1990",2.08
+"South Africa","1991",2.08
+"South Africa","1992",2.08
+"South Africa","1993",2.08
+"South Africa","1994",2.08
+"South Africa","1995",2.08
+"South Africa","1996",2.5
+"South Africa","1997",2.43
+"South Africa","1998",3.78
+"South Africa","1999",2.74
+"South Africa","2000",1.66
+"South Africa","2001",1.54
+"South Africa","2002",1.69
+"South Africa","2003",1.54
+"South Africa","2004",1.51
+"South Africa","2005",2.74
+"South Africa","2006",1.78
+"South Africa","2007",2.61
+"South Africa","2008",1.84
+"South Africa","2009",1.34
+"South Africa","2010",2.19
+"South Africa","2011",1.64
+"South Africa","2012",1.75
+"South Africa","2013",2.01
+"South Africa","2014",2.32
+"South Korea","1990",-34.46
+"South Korea","1991",-34.46
+"South Korea","1992",-34.46
+"South Korea","1993",-34.46
+"South Korea","1994",-34.46
+"South Korea","1995",-34.46
+"South Korea","1996",-34.46
+"South Korea","1997",-34.46
+"South Korea","1998",-34.46
+"South Korea","1999",-34.46
+"South Korea","2000",-34.44
+"South Korea","2001",-43.27
+"South Korea","2002",-43.27
+"South Korea","2003",-43.26
+"South Korea","2004",-43.25
+"South Korea","2005",-43.26
+"South Korea","2006",-48.39
+"South Korea","2007",-48.39
+"South Korea","2008",-48.39
+"South Korea","2009",-48.4
+"South Korea","2010",-48.4
+"South Korea","2011",-39.59
+"South Korea","2012",-39.6
+"South Korea","2013",-39.6
+"South Korea","2014",-39.59
+"Spain","1990",-46.62
+"Spain","1991",-46.62
+"Spain","1992",-46.62
+"Spain","1993",-46.62
+"Spain","1994",-46.62
+"Spain","1995",-46.62
+"Spain","1996",-46.61
+"Spain","1997",-46.41
+"Spain","1998",-46.42
+"Spain","1999",-46.65
+"Spain","2000",-46.48
+"Spain","2001",-46.73
+"Spain","2002",-46.75
+"Spain","2003",-46.75
+"Spain","2004",-46.7
+"Spain","2005",-46.52
+"Spain","2006",-32.56
+"Spain","2007",-33.14
+"Spain","2008",-33.16
+"Spain","2009",-33.17
+"Spain","2010",-33.08
+"Spain","2011",-33.03
+"Spain","2012",-33.05
+"Spain","2013",-33.09
+"Spain","2014",-33.15
+"Sri Lanka","1990",5.18
+"Sri Lanka","1991",5.18
+"Sri Lanka","1992",5.18
+"Sri Lanka","1993",5.18
+"Sri Lanka","1994",5.18
+"Sri Lanka","1995",5.18
+"Sri Lanka","1996",5.2
+"Sri Lanka","1997",5.17
+"Sri Lanka","1998",5.2
+"Sri Lanka","1999",5.21
+"Sri Lanka","2000",5.18
+"Sri Lanka","2001",6.4
+"Sri Lanka","2002",6.42
+"Sri Lanka","2003",6.43
+"Sri Lanka","2004",6.42
+"Sri Lanka","2005",6.42
+"Sri Lanka","2006",3.85
+"Sri Lanka","2007",3.85
+"Sri Lanka","2008",3.86
+"Sri Lanka","2009",3.87
+"Sri Lanka","2010",3.86
+"Sri Lanka","2011",4.46
+"Sri Lanka","2012",4.46
+"Sri Lanka","2013",4.45
+"Sri Lanka","2014",4.49
+"Sudan","1990",197.5
+"Sudan","1991",197.5
+"Sudan","1992",197.5
+"Sudan","1993",197.5
+"Sudan","1994",197.5
+"Sudan","1995",197.5
+"Sudan","1996",197.11
+"Sudan","1997",206.82
+"Sudan","1998",222.55
+"Sudan","1999",215.73
+"Sudan","2000",213.97
+"Sudan","2001",279.37
+"Sudan","2002",336.02
+"Sudan","2003",253.65
+"Sudan","2004",295.55
+"Sudan","2005",271.43
+"Sudan","2006",186.43
+"Sudan","2007",163.06
+"Sudan","2008",197.52
+"Sudan","2009",279.74
+"Sudan","2010",197.89
+"Sudan","2011",252.7
+"Sudan","2012",248.27
+"Sudan","2013",166.7
+"Sudan","2014",120.36
+"Suriname","1990",4.52
+"Suriname","1991",4.52
+"Suriname","1992",4.52
+"Suriname","1993",4.52
+"Suriname","1994",4.52
+"Suriname","1995",4.52
+"Suriname","1996",4.35
+"Suriname","1997",4.52
+"Suriname","1998",5
+"Suriname","1999",4.16
+"Suriname","2000",3.98
+"Suriname","2001",3.82
+"Suriname","2002",3.96
+"Suriname","2003",5.73
+"Suriname","2004",4.86
+"Suriname","2005",4.15
+"Suriname","2006",4.49
+"Suriname","2007",4.2
+"Suriname","2008",4.68
+"Suriname","2009",5.54
+"Suriname","2010",3.86
+"Suriname","2011",3.82
+"Suriname","2012",5.3
+"Suriname","2013",4.81
+"Suriname","2014",4.62
+"Sweden","1990",-19.89
+"Sweden","1991",-19.89
+"Sweden","1992",-19.89
+"Sweden","1993",-19.89
+"Sweden","1994",-19.89
+"Sweden","1995",-19.89
+"Sweden","1996",-19.9
+"Sweden","1997",-19.91
+"Sweden","1998",-19.85
+"Sweden","1999",-19.91
+"Sweden","2000",-19.91
+"Sweden","2001",-51.12
+"Sweden","2002",-51.12
+"Sweden","2003",-51.12
+"Sweden","2004",-51.12
+"Sweden","2005",-51.12
+"Sweden","2006",-4.1
+"Sweden","2007",-4.18
+"Sweden","2008",-4.16
+"Sweden","2009",-4.18
+"Sweden","2010",-4.18
+"Sweden","2011",-4.26
+"Sweden","2012",-4.26
+"Sweden","2013",-4.26
+"Sweden","2014",-3.96
+"Switzerland","1990",-1.92
+"Switzerland","1991",-1.92
+"Switzerland","1992",-1.92
+"Switzerland","1993",-1.92
+"Switzerland","1994",-1.92
+"Switzerland","1995",-1.92
+"Switzerland","1996",-1.92
+"Switzerland","1997",-1.92
+"Switzerland","1998",-1.92
+"Switzerland","1999",-1.92
+"Switzerland","2000",-1.92
+"Switzerland","2001",-1.55
+"Switzerland","2002",-1.55
+"Switzerland","2003",-1.55
+"Switzerland","2004",-1.55
+"Switzerland","2005",-1.55
+"Switzerland","2006",-3.39
+"Switzerland","2007",-3.39
+"Switzerland","2008",-3.39
+"Switzerland","2009",-3.39
+"Switzerland","2010",-3.39
+"Switzerland","2011",-1.55
+"Switzerland","2012",-1.55
+"Switzerland","2013",-1.55
+"Switzerland","2014",-1.55
+"Syria","1990",-1.53
+"Syria","1991",-1.53
+"Syria","1992",-1.53
+"Syria","1993",-1.53
+"Syria","1994",-1.53
+"Syria","1995",-1.53
+"Syria","1996",-1.53
+"Syria","1997",-1.53
+"Syria","1998",-1.53
+"Syria","1999",-1.53
+"Syria","2000",-1.53
+"Syria","2001",-1.55
+"Syria","2002",-1.55
+"Syria","2003",-1.55
+"Syria","2004",-1.55
+"Syria","2005",-1.55
+"Syria","2006",-2.24
+"Syria","2007",-2.24
+"Syria","2008",-2.24
+"Syria","2009",-2.24
+"Syria","2010",-2.24
+"Syria","2011",-1.21
+"Syria","2012",-1.2
+"Syria","2013",-1.21
+"Syria","2014",-1.21
+"Tajikistan","1990",0.09
+"Tajikistan","1991",0.09
+"Tajikistan","1992",0.09
+"Tajikistan","1993",0.09
+"Tajikistan","1994",0.09
+"Tajikistan","1995",0.09
+"Tajikistan","1996",0.09
+"Tajikistan","1997",0.09
+"Tajikistan","1998",0.09
+"Tajikistan","1999",0.09
+"Tajikistan","2000",0.09
+"Tajikistan","2001",0
+"Tajikistan","2002",0
+"Tajikistan","2003",0
+"Tajikistan","2004",0
+"Tajikistan","2005",0
+"Tajikistan","2006",0
+"Tajikistan","2007",0
+"Tajikistan","2008",0
+"Tajikistan","2009",0
+"Tajikistan","2010",0
+"Tajikistan","2011",0
+"Tajikistan","2012",0
+"Tajikistan","2013",0
+"Tajikistan","2014",0
+"Tanzania","1990",235.76
+"Tanzania","1991",235.76
+"Tanzania","1992",235.76
+"Tanzania","1993",235.76
+"Tanzania","1994",235.76
+"Tanzania","1995",235.76
+"Tanzania","1996",248.5
+"Tanzania","1997",234.51
+"Tanzania","1998",248.27
+"Tanzania","1999",242.55
+"Tanzania","2000",220.08
+"Tanzania","2001",244.69
+"Tanzania","2002",224.3
+"Tanzania","2003",246.03
+"Tanzania","2004",242.89
+"Tanzania","2005",256.51
+"Tanzania","2006",227.22
+"Tanzania","2007",240.49
+"Tanzania","2008",239.59
+"Tanzania","2009",231.85
+"Tanzania","2010",232.49
+"Tanzania","2011",217.27
+"Tanzania","2012",216.07
+"Tanzania","2013",209.17
+"Tanzania","2014",208.4
+"Thailand","1990",12.73
+"Thailand","1991",12.73
+"Thailand","1992",12.73
+"Thailand","1993",12.73
+"Thailand","1994",12.73
+"Thailand","1995",12.73
+"Thailand","1996",12.56
+"Thailand","1997",12.53
+"Thailand","1998",14.8
+"Thailand","1999",13.12
+"Thailand","2000",12.3
+"Thailand","2001",4.47
+"Thailand","2002",5.11
+"Thailand","2003",4.54
+"Thailand","2004",6.97
+"Thailand","2005",5.79
+"Thailand","2006",-0.1
+"Thailand","2007",2.35
+"Thailand","2008",0.82
+"Thailand","2009",0.2
+"Thailand","2010",1.07
+"Thailand","2011",14.04
+"Thailand","2012",15.38
+"Thailand","2013",14.94
+"Thailand","2014",15.97
+"Togo","1990",6.72
+"Togo","1991",6.72
+"Togo","1992",6.72
+"Togo","1993",6.72
+"Togo","1994",6.72
+"Togo","1995",6.72
+"Togo","1996",6.74
+"Togo","1997",6.77
+"Togo","1998",6.86
+"Togo","1999",6.95
+"Togo","2000",6.71
+"Togo","2001",6.63
+"Togo","2002",6.63
+"Togo","2003",6.62
+"Togo","2004",6.58
+"Togo","2005",6.63
+"Togo","2006",6.49
+"Togo","2007",6.49
+"Togo","2008",6.49
+"Togo","2009",6.48
+"Togo","2010",6.5
+"Togo","2011",6.6
+"Togo","2012",6.58
+"Togo","2013",6.58
+"Togo","2014",6.58
+"Tonga","1990",0
+"Tonga","1991",0
+"Tonga","1992",0
+"Tonga","1993",0
+"Tonga","1994",0
+"Tonga","1995",0
+"Tonga","1996",0
+"Tonga","1997",0
+"Tonga","1998",0
+"Tonga","1999",0
+"Tonga","2000",0
+"Tonga","2001",0
+"Tonga","2002",0
+"Tonga","2003",0
+"Tonga","2004",0
+"Tonga","2005",0
+"Tonga","2006",-0.51
+"Tonga","2007",-0.51
+"Tonga","2008",-0.51
+"Tonga","2009",-0.51
+"Tonga","2010",-0.51
+"Tonga","2011",0
+"Tonga","2012",0
+"Tonga","2013",0
+"Tonga","2014",0
+"Trinidad and Tobago","1990",0.29
+"Trinidad and Tobago","1991",0.29
+"Trinidad and Tobago","1992",0.29
+"Trinidad and Tobago","1993",0.29
+"Trinidad and Tobago","1994",0.29
+"Trinidad and Tobago","1995",0.29
+"Trinidad and Tobago","1996",0.29
+"Trinidad and Tobago","1997",0.29
+"Trinidad and Tobago","1998",0.3
+"Trinidad and Tobago","1999",0.29
+"Trinidad and Tobago","2000",0.3
+"Trinidad and Tobago","2001",0.1
+"Trinidad and Tobago","2002",0.1
+"Trinidad and Tobago","2003",0.1
+"Trinidad and Tobago","2004",0.1
+"Trinidad and Tobago","2005",0.1
+"Trinidad and Tobago","2006",0.33
+"Trinidad and Tobago","2007",0.34
+"Trinidad and Tobago","2008",0.33
+"Trinidad and Tobago","2009",0.33
+"Trinidad and Tobago","2010",0.35
+"Trinidad and Tobago","2011",-0.5
+"Trinidad and Tobago","2012",-0.5
+"Trinidad and Tobago","2013",-0.5
+"Trinidad and Tobago","2014",-0.5
+"Tunisia","1990",-0.66
+"Tunisia","1991",-0.66
+"Tunisia","1992",-0.66
+"Tunisia","1993",-0.66
+"Tunisia","1994",-0.66
+"Tunisia","1995",-0.66
+"Tunisia","1996",-0.66
+"Tunisia","1997",-0.66
+"Tunisia","1998",-0.66
+"Tunisia","1999",-0.66
+"Tunisia","2000",-0.66
+"Tunisia","2001",-0.44
+"Tunisia","2002",-0.44
+"Tunisia","2003",-0.44
+"Tunisia","2004",-0.44
+"Tunisia","2005",-0.44
+"Tunisia","2006",-0.51
+"Tunisia","2007",-0.51
+"Tunisia","2008",-0.51
+"Tunisia","2009",-0.51
+"Tunisia","2010",-0.51
+"Tunisia","2011",-0.29
+"Tunisia","2012",-0.29
+"Tunisia","2013",-0.29
+"Tunisia","2014",-0.29
+"Turkey","1990",-21.46
+"Turkey","1991",-21.46
+"Turkey","1992",-21.46
+"Turkey","1993",-21.46
+"Turkey","1994",-21.46
+"Turkey","1995",-21.46
+"Turkey","1996",-21.46
+"Turkey","1997",-21.47
+"Turkey","1998",-21.46
+"Turkey","1999",-21.46
+"Turkey","2000",-21.47
+"Turkey","2001",-29.9
+"Turkey","2002",-29.9
+"Turkey","2003",-29.9
+"Turkey","2004",-29.9
+"Turkey","2005",-29.9
+"Turkey","2006",-54.91
+"Turkey","2007",-54.89
+"Turkey","2008",-54.9
+"Turkey","2009",-54.93
+"Turkey","2010",-54.93
+"Turkey","2011",-64.87
+"Turkey","2012",-64.85
+"Turkey","2013",-64.86
+"Turkey","2014",-64.86
+"Turkmenistan","1990",0
+"Turkmenistan","1991",0
+"Turkmenistan","1992",0
+"Turkmenistan","1993",0
+"Turkmenistan","1994",0
+"Turkmenistan","1995",0
+"Turkmenistan","1996",0
+"Turkmenistan","1997",0
+"Turkmenistan","1998",0
+"Turkmenistan","1999",0
+"Turkmenistan","2000",0
+"Turkmenistan","2001",-0.29
+"Turkmenistan","2002",-0.29
+"Turkmenistan","2003",-0.29
+"Turkmenistan","2004",-0.29
+"Turkmenistan","2005",-0.29
+"Turkmenistan","2006",0
+"Turkmenistan","2007",0
+"Turkmenistan","2008",0
+"Turkmenistan","2009",0
+"Turkmenistan","2010",0
+"Turkmenistan","2011",0
+"Turkmenistan","2012",0
+"Turkmenistan","2013",0
+"Turkmenistan","2014",0
+"Tuvalu","1990",0
+"Tuvalu","1991",0
+"Tuvalu","1992",0
+"Tuvalu","1993",0
+"Tuvalu","1994",0
+"Tuvalu","1995",0
+"Tuvalu","1996",0
+"Tuvalu","1997",0
+"Tuvalu","1998",0
+"Tuvalu","1999",0
+"Tuvalu","2000",0
+"Tuvalu","2001",0
+"Tuvalu","2002",0
+"Tuvalu","2003",0
+"Tuvalu","2004",0
+"Tuvalu","2005",0
+"Tuvalu","2006",0
+"Tuvalu","2007",0
+"Tuvalu","2008",0
+"Tuvalu","2009",0
+"Tuvalu","2010",0
+"Tuvalu","2011",0
+"Tuvalu","2012",0
+"Tuvalu","2013",0
+"Tuvalu","2014",0
+"Uganda","1990",20.68
+"Uganda","1991",20.68
+"Uganda","1992",20.68
+"Uganda","1993",20.68
+"Uganda","1994",20.68
+"Uganda","1995",20.68
+"Uganda","1996",20.96
+"Uganda","1997",20.88
+"Uganda","1998",21.89
+"Uganda","1999",21.58
+"Uganda","2000",21.25
+"Uganda","2001",18.76
+"Uganda","2002",21.14
+"Uganda","2003",21.68
+"Uganda","2004",23.51
+"Uganda","2005",20.77
+"Uganda","2006",25.56
+"Uganda","2007",24.32
+"Uganda","2008",25.33
+"Uganda","2009",27.58
+"Uganda","2010",25.14
+"Uganda","2011",25.55
+"Uganda","2012",25.78
+"Uganda","2013",27.31
+"Uganda","2014",25.81
+"Ukraine","1990",-45.2
+"Ukraine","1991",-45.2
+"Ukraine","1992",-46.05
+"Ukraine","1993",-46.05
+"Ukraine","1994",-46.05
+"Ukraine","1995",-46.05
+"Ukraine","1996",-46.22
+"Ukraine","1997",-46.29
+"Ukraine","1998",-46.27
+"Ukraine","1999",-46.36
+"Ukraine","2000",-46.76
+"Ukraine","2001",-22.49
+"Ukraine","2002",-20.88
+"Ukraine","2003",-22.19
+"Ukraine","2004",-22.76
+"Ukraine","2005",-23.11
+"Ukraine","2006",-20.43
+"Ukraine","2007",-19.17
+"Ukraine","2008",-20.15
+"Ukraine","2009",-20.03
+"Ukraine","2010",-21.14
+"Ukraine","2011",-5.02
+"Ukraine","2012",-5.34
+"Ukraine","2013",-5.45
+"Ukraine","2014",-3.42
+"United Arab Emirates","1990",-1.19
+"United Arab Emirates","1991",-1.19
+"United Arab Emirates","1992",-1.19
+"United Arab Emirates","1993",-1.19
+"United Arab Emirates","1994",-1.19
+"United Arab Emirates","1995",-1.19
+"United Arab Emirates","1996",-1.19
+"United Arab Emirates","1997",-1.19
+"United Arab Emirates","1998",-1.19
+"United Arab Emirates","1999",-1.19
+"United Arab Emirates","2000",-1.19
+"United Arab Emirates","2001",-0.05
+"United Arab Emirates","2002",-0.05
+"United Arab Emirates","2003",-0.05
+"United Arab Emirates","2004",-0.05
+"United Arab Emirates","2005",-0.05
+"United Arab Emirates","2006",-0.21
+"United Arab Emirates","2007",-0.21
+"United Arab Emirates","2008",-0.21
+"United Arab Emirates","2009",-0.21
+"United Arab Emirates","2010",-0.21
+"United Arab Emirates","2011",-0.21
+"United Arab Emirates","2012",-0.21
+"United Arab Emirates","2013",-0.21
+"United Arab Emirates","2014",-0.21
+"United Kingdom","1990",-12.16
+"United Kingdom","1991",-12.16
+"United Kingdom","1992",-12.16
+"United Kingdom","1993",-12.16
+"United Kingdom","1994",-12.16
+"United Kingdom","1995",-12.16
+"United Kingdom","1996",-12.15
+"United Kingdom","1997",-12.16
+"United Kingdom","1998",-12.16
+"United Kingdom","1999",-12.16
+"United Kingdom","2000",-12.16
+"United Kingdom","2001",-12.22
+"United Kingdom","2002",-12.22
+"United Kingdom","2003",-11.85
+"United Kingdom","2004",-12.22
+"United Kingdom","2005",-12.18
+"United Kingdom","2006",-11.48
+"United Kingdom","2007",-11.26
+"United Kingdom","2008",-11.48
+"United Kingdom","2009",-11.48
+"United Kingdom","2010",-11.48
+"United Kingdom","2011",-12.08
+"United Kingdom","2012",-12.22
+"United Kingdom","2013",-12.19
+"United Kingdom","2014",-12.22
+"United States","1990",-316.6
+"United States","1991",-316.6
+"United States","1992",-316.6
+"United States","1993",-316.6
+"United States","1994",-316.6
+"United States","1995",-316.6
+"United States","1996",-326.25
+"United States","1997",-341.75
+"United States","1998",-333.04
+"United States","1999",-310.47
+"United States","2000",-333.72
+"United States","2001",-375.81
+"United States","2002",-371.93
+"United States","2003",-354.52
+"United States","2004",-307.44
+"United States","2005",-334.99
+"United States","2006",-351.73
+"United States","2007",-252.02
+"United States","2008",-365.63
+"United States","2009",-331.69
+"United States","2010",-355.23
+"United States","2011",-49.39
+"United States","2012",-61.14
+"United States","2013",-66.57
+"United States","2014",-52.08
+"Uruguay","1990",-25.53
+"Uruguay","1991",-25.53
+"Uruguay","1992",-25.53
+"Uruguay","1993",-25.53
+"Uruguay","1994",-25.53
+"Uruguay","1995",-25.53
+"Uruguay","1996",-25.53
+"Uruguay","1997",-25.53
+"Uruguay","1998",-25.52
+"Uruguay","1999",-25.53
+"Uruguay","2000",-25.52
+"Uruguay","2001",-13.89
+"Uruguay","2002",-13.89
+"Uruguay","2003",-13.89
+"Uruguay","2004",-13.87
+"Uruguay","2005",-13.79
+"Uruguay","2006",-19.29
+"Uruguay","2007",-19.32
+"Uruguay","2008",-19.31
+"Uruguay","2009",-19.3
+"Uruguay","2010",-19.32
+"Uruguay","2011",-10.48
+"Uruguay","2012",-10.51
+"Uruguay","2013",-10.51
+"Uruguay","2014",-10.52
+"Uzbekistan","1990",-2.19
+"Uzbekistan","1991",-2.19
+"Uzbekistan","1992",-2.24
+"Uzbekistan","1993",-2.24
+"Uzbekistan","1994",-2.24
+"Uzbekistan","1995",-2.24
+"Uzbekistan","1996",-2.23
+"Uzbekistan","1997",-2.23
+"Uzbekistan","1998",-2.23
+"Uzbekistan","1999",-2.24
+"Uzbekistan","2000",-2.22
+"Uzbekistan","2001",-2.34
+"Uzbekistan","2002",-2.52
+"Uzbekistan","2003",-2.57
+"Uzbekistan","2004",-2.57
+"Uzbekistan","2005",-2.57
+"Uzbekistan","2006",-1.31
+"Uzbekistan","2007",-1.27
+"Uzbekistan","2008",-1.28
+"Uzbekistan","2009",-1.32
+"Uzbekistan","2010",-1.32
+"Uzbekistan","2011",-16.41
+"Uzbekistan","2012",-16.39
+"Uzbekistan","2013",-16.42
+"Uzbekistan","2014",-16.4
+"Vanuatu","1990",-0.03
+"Vanuatu","1991",-0.03
+"Vanuatu","1992",-0.03
+"Vanuatu","1993",-0.03
+"Vanuatu","1994",-0.03
+"Vanuatu","1995",-0.03
+"Vanuatu","1996",-0.03
+"Vanuatu","1997",-0.03
+"Vanuatu","1998",-0.03
+"Vanuatu","1999",-0.03
+"Vanuatu","2000",-0.03
+"Vanuatu","2001",-0.02
+"Vanuatu","2002",-0.01
+"Vanuatu","2003",-0.02
+"Vanuatu","2004",-0.02
+"Vanuatu","2005",-0.01
+"Vanuatu","2006",-0.03
+"Vanuatu","2007",-0.03
+"Vanuatu","2008",-0.03
+"Vanuatu","2009",-0.03
+"Vanuatu","2010",-0.03
+"Vanuatu","2011",-0.01
+"Vanuatu","2012",-0.01
+"Vanuatu","2013",-0.01
+"Vanuatu","2014",-0.01
+"Venezuela","1990",112.79
+"Venezuela","1991",112.79
+"Venezuela","1992",112.79
+"Venezuela","1993",112.79
+"Venezuela","1994",112.79
+"Venezuela","1995",112.79
+"Venezuela","1996",112.85
+"Venezuela","1997",112.69
+"Venezuela","1998",115.79
+"Venezuela","1999",112.92
+"Venezuela","2000",112.68
+"Venezuela","2001",122.5
+"Venezuela","2002",113.14
+"Venezuela","2003",122.17
+"Venezuela","2004",113.46
+"Venezuela","2005",115.96
+"Venezuela","2006",2.94
+"Venezuela","2007",5.45
+"Venezuela","2008",1.61
+"Venezuela","2009",0.04
+"Venezuela","2010",9.09
+"Venezuela","2011",62.96
+"Venezuela","2012",62.98
+"Venezuela","2013",70.94
+"Venezuela","2014",66.4
+"Vietnam","1990",-44.75
+"Vietnam","1991",-44.75
+"Vietnam","1992",-44.75
+"Vietnam","1993",-44.75
+"Vietnam","1994",-44.75
+"Vietnam","1995",-44.75
+"Vietnam","1996",-44.89
+"Vietnam","1997",-45.12
+"Vietnam","1998",-43.76
+"Vietnam","1999",-44.56
+"Vietnam","2000",-44.59
+"Vietnam","2001",-18.19
+"Vietnam","2002",-15.42
+"Vietnam","2003",-17.7
+"Vietnam","2004",-17.31
+"Vietnam","2005",-16.87
+"Vietnam","2006",-6.99
+"Vietnam","2007",-5.97
+"Vietnam","2008",-7.15
+"Vietnam","2009",-7.02
+"Vietnam","2010",-5.77
+"Vietnam","2011",-19.52
+"Vietnam","2012",-19.26
+"Vietnam","2013",-17.67
+"Vietnam","2014",-18.35
+"World","1990",3859.43
+"World","1991",3859.44
+"World","1992",3859.41
+"World","1993",3859.44
+"World","1994",3859.45
+"World","1995",3859.46
+"World","1996",3745.63
+"World","1997",4672.82
+"World","1998",4122.47
+"World","1999",3766.65
+"World","2000",3594.33
+"World","2001",3834.58
+"World","2002",4446.48
+"World","2003",4213.92
+"World","2004",4324.75
+"World","2005",4231.65
+"World","2006",3417.99
+"World","2007",3065.95
+"World","2008",3131.42
+"World","2009",3248.63
+"World","2010",2989.32
+"World","2011",2966.24
+"World","2012",3052.63
+"World","2013",2996.05
+"World","2014",3151.68
+"Yemen","1990",0
+"Yemen","1991",0
+"Yemen","1992",0
+"Yemen","1993",0
+"Yemen","1994",0
+"Yemen","1995",0
+"Yemen","1996",0
+"Yemen","1997",0
+"Yemen","1998",0
+"Yemen","1999",0
+"Yemen","2000",0
+"Yemen","2001",0
+"Yemen","2002",0
+"Yemen","2003",0
+"Yemen","2004",0
+"Yemen","2005",0
+"Yemen","2006",0
+"Yemen","2007",0
+"Yemen","2008",0
+"Yemen","2009",0
+"Yemen","2010",0
+"Yemen","2011",0
+"Yemen","2012",0
+"Yemen","2013",0
+"Yemen","2014",0
+"Zambia","1990",355.67
+"Zambia","1991",355.67
+"Zambia","1992",355.67
+"Zambia","1993",355.67
+"Zambia","1994",355.67
+"Zambia","1995",355.67
+"Zambia","1996",385.36
+"Zambia","1997",349.28
+"Zambia","1998",355.94
+"Zambia","1999",320.82
+"Zambia","2000",363.81
+"Zambia","2001",335.18
+"Zambia","2002",333.07
+"Zambia","2003",348.28
+"Zambia","2004",376.26
+"Zambia","2005",433.76
+"Zambia","2006",366.86
+"Zambia","2007",348.48
+"Zambia","2008",369.45
+"Zambia","2009",321.25
+"Zambia","2010",353.61
+"Zambia","2011",315.56
+"Zambia","2012",315.62
+"Zambia","2013",340.07
+"Zambia","2014",328.69
+"Zimbabwe","1990",37.86
+"Zimbabwe","1991",37.86
+"Zimbabwe","1992",37.86
+"Zimbabwe","1993",37.86
+"Zimbabwe","1994",37.86
+"Zimbabwe","1995",37.86
+"Zimbabwe","1996",37.94
+"Zimbabwe","1997",38.1
+"Zimbabwe","1998",38.15
+"Zimbabwe","1999",38.01
+"Zimbabwe","2000",37.77
+"Zimbabwe","2001",37.75
+"Zimbabwe","2002",37.76
+"Zimbabwe","2003",37.76
+"Zimbabwe","2004",37.76
+"Zimbabwe","2005",37.87
+"Zimbabwe","2006",37.65
+"Zimbabwe","2007",37.69
+"Zimbabwe","2008",37.82
+"Zimbabwe","2009",37.63
+"Zimbabwe","2010",37.67
+"Zimbabwe","2011",36.11
+"Zimbabwe","2012",36.12
+"Zimbabwe","2013",36.09
+"Zimbabwe","2014",36.07

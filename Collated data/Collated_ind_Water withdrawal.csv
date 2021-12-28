@@ -1,0 +1,657 @@
+"country","year","value"
+"Afghanistan",1987,25.85
+"Afghanistan",1998,20
+"Albania",1990,1
+"Albania",1995,0.67
+"Albania",2000,1.06
+"Albania",2006,0.5176
+"Algeria",1980,2.22
+"Algeria",1990,2.7
+"Algeria",2001,3.502
+"Algeria",2012,4.99
+"Algeria",2016,6.4
+"Angola",1987,0.365
+"Angola",2000,0.21
+"Angola",2005,0.1467
+"Antigua and Barbuda",1990,0.001
+"Antigua and Barbuda",1997,0.0013
+"Antigua and Barbuda",2005,0.0013
+"Antigua and Barbuda",2012,0.0018
+"Argentina",1995,21.52
+"Argentina",2000,21.52
+"Argentina",2011,27.93
+"Armenia",1995,1.94
+"Armenia",2002,1.14
+"Armenia",2007,1.89
+"Armenia",2012,2.597
+"Armenia",2017,2.38
+"Australia",1996,15.5
+"Australia",2001,15.03
+"Australia",2005,12.24
+"Australia",2012,9.587
+"Australia",2016,9.604
+"Austria",1980,0.09
+"Austria",1985,0.2
+"Austria",1990,0.1
+"Austria",1997,0.1
+"Austria",2002,0.1
+"Austria",2010,0.0771
+"Azerbaijan",1992,10.93
+"Azerbaijan",1997,9.254
+"Azerbaijan",2002,6.376
+"Azerbaijan",2007,8.581
+"Azerbaijan",2012,8.887
+"Azerbaijan",2017,9.27
+"Bahrain",1990,0.135
+"Bahrain",2000,0.17
+"Bahrain",2003,0.1592
+"Bahrain",2016,0.1447
+"Bangladesh",2008,31.5
+"Barbados",1989,0.0548
+"Barbados",1996,0.0548
+"Barbados",2005,0.0548
+"Belarus",1995,0.568
+"Belarus",2000,0.442
+"Belarus",2005,0.409
+"Belarus",2010,0.471
+"Belarus",2016,0.428
+"Belgium",1980,0.3612
+"Belgium",1997,0.016
+"Belgium",2002,0.0382
+"Belgium",2007,0.0369
+"Belgium",2009,0.0402
+"Belize",1987,0.018
+"Belize",1990,0.019
+"Belize",1993,0.02
+"Belize",2000,0.0684
+"Benin",1985,0.064
+"Benin",1990,0.0823
+"Benin",1994,0.097
+"Benin",2001,0.059
+"Bhutan",2008,0.318
+"Bolivia (Plurinational State of)",1987,1.054
+"Bolivia (Plurinational State of)",1999,1.777
+"Bolivia (Plurinational State of)",2008,1.92
+"Botswana",1992,0.054
+"Botswana",1995,0.0638
+"Botswana",2000,0.08
+"Botswana",2012,0.0743
+"Botswana",2016,0.081
+"Brazil",1996,33.43
+"Brazil",2006,31.7
+"Brazil",2010,44.9
+"Brazil",2016,35.41
+"Brunei Darussalam",1995,0.0053
+"Bulgaria",1990,2.225
+"Bulgaria",2002,0.743
+"Bulgaria",2006,0.8759
+"Bulgaria",2012,0.9494
+"Bulgaria",2015,0.8288
+"Burkina Faso",1985,0.23
+"Burkina Faso",1992,0.303
+"Burkina Faso",2001,0.4207
+"Burkina Faso",2005,0.4207
+"Burundi",1987,0.064
+"Burundi",2000,0.222
+"Cabo Verde",1990,0.022
+"Cabo Verde",2000,0.02
+"Cabo Verde",2004,0.025
+"Cambodia",2006,2.053
+"Cameroon",1987,0.14
+"Cameroon",1992,0.14
+"Cameroon",2000,0.737
+"Canada",1991,3.991
+"Canada",1996,4.104
+"Canada",2007,2.322
+"Canada",2010,4.749
+"Canada",2015,2.639
+"Central African Republic",1987,4e-04
+"Central African Republic",2000,4e-04
+"Central African Republic",2005,4e-04
+"Chad",1987,0.148
+"Chad",2002,0.6722
+"Chad",2005,0.6722
+"Chile",2006,29.42
+"China",1980,391.2
+"China",1985,415.2
+"China",1990,415
+"China",1993,407.7
+"China",2000,378.4
+"China",2007,360
+"China",2012,388
+"China",2015,385.2
+"Colombia",1996,3.308
+"Colombia",2000,4.92
+"Colombia",2008,6.391
+"Comoros",1999,0.0047
+"Congo",1987,0.0044
+"Congo",2002,0.004
+"Costa Rica",2012,1.673
+"Costa Rica",2015,2.302
+"Côte d'Ivoire",1987,0.475
+"Côte d'Ivoire",1994,0.8
+"Côte d'Ivoire",2000,0.6
+"Côte d'Ivoire",2005,0.5953
+"Côte d'Ivoire",2008,0.5953
+"Côte d'Ivoire",2014,0.6
+"Croatia",2002,0.0059
+"Croatia",2007,0.0032
+"Croatia",2010,0.0086
+"Cuba",1995,2.666
+"Cuba",2007,2.476
+"Cuba",2010,3.569
+"Cuba",2013,4.519
+"Cyprus",1975,0.13
+"Cyprus",1980,0.14
+"Cyprus",1985,0.155
+"Cyprus",1990,0.166
+"Cyprus",1993,0.156
+"Cyprus",2002,0.1606
+"Cyprus",2007,0.143
+"Cyprus",2012,0.171
+"Cyprus",2016,0.2
+"Czechia",1985,NA
+"Czechia",1990,NA
+"Czechia",1997,0.02
+"Czechia",2002,0.0187
+"Czechia",2007,0.0298
+"Czechia",2012,0.0432
+"Czechia",2016,0.0475
+"Democratic People's Republic of Korea",1995,6.61
+"Democratic People's Republic of Korea",2005,6.61
+"Democratic Republic of the Congo",1995,0.083
+"Democratic Republic of the Congo",2000,0.0719
+"Democratic Republic of the Congo",2005,0.0719
+"Denmark",1970,0.18
+"Denmark",1975,0.46
+"Denmark",1980,0.46
+"Denmark",1985,0.7
+"Denmark",1990,0.465
+"Denmark",1997,0.369
+"Denmark",2002,0.1652
+"Denmark",2007,0.1175
+"Denmark",2012,0.164
+"Djibouti",1985,0.007
+"Djibouti",2000,0.003
+"Dominica",2010,0.001
+"Dominican Republic",2000,4.2
+"Dominican Republic",2005,4.487
+"Dominican Republic",2010,5.715
+"Dominican Republic",2015,7.563
+"Ecuador",2000,8.076
+"Ecuador",2005,8.076
+"Egypt",1995,50.71
+"Egypt",2000,59
+"Egypt",2012,61.5
+"Egypt",2017,61.35
+"El Salvador",1992,0.336
+"El Salvador",2000,0.76
+"El Salvador",2005,1.431
+"Equatorial Guinea",1987,6e-04
+"Equatorial Guinea",2000,0.001
+"Eritrea",2000,0.29
+"Eritrea",2004,0.55
+"Estonia",1995,0.008
+"Estonia",2002,0.03
+"Estonia",2007,0.0076
+"Estonia",2012,0.0045
+"Estonia",2014,0.005
+"Eswatini",1980,0.63
+"Eswatini",2000,1.006
+"Ethiopia",2002,5.204
+"Ethiopia",2005,7
+"Ethiopia",2016,9.687
+"Fiji",1987,0.018
+"Fiji",2000,0.05
+"Fiji",2005,0.05
+"Finland",1990,0.02
+"Finland",1995,0.05
+"Finland",2002,0.05
+"Finland",2005,0.05
+"France",1992,4.919
+"France",1997,3.35
+"France",2002,4.291
+"France",2007,3.933
+"France",2012,2.913
+"France",2016,3.111
+"Gabon",1987,0.0036
+"Gabon",2000,0.0403
+"Gabon",2005,0.0403
+"Gambia",1982,0.0182
+"Gambia",1999,0.0392
+"Georgia",2005,1.055
+"Germany",1991,1.6
+"Germany",1995,1.6
+"Germany",2000,1.14
+"Germany",2007,0.1317
+"Germany",2010,0.2109
+"Germany",2013,0.597
+"Ghana",1970,0.156
+"Ghana",2000,0.652
+"Ghana",2016,1.07
+"Greece",1970,2.425
+"Greece",1975,3.576
+"Greece",1985,4.6
+"Greece",1992,7.9
+"Greece",1997,7.6
+"Greece",2002,8.42
+"Greece",2007,8.458
+"Greece",2011,7.918
+"Grenada",1997,0.0022
+"Grenada",2014,0.0021
+"Guatemala",2001,1.472
+"Guatemala",2006,1.886
+"Guinea",1987,0.644
+"Guinea",2001,0.2929
+"Guinea-Bissau",1991,0.006
+"Guinea-Bissau",1996,0.144
+"Guinea-Bissau",2000,0.144
+"Guyana",1992,1.438
+"Guyana",2000,1.6
+"Guyana",2010,1.363
+"Haiti",1991,0.9246
+"Haiti",1995,1.169
+"Haiti",2009,1.209
+"Honduras",2003,1.178
+"Hungary",1970,0.665
+"Hungary",1975,0.8903
+"Hungary",1985,2.286
+"Hungary",1992,0.949
+"Hungary",1996,0.4556
+"Hungary",2002,0.6796
+"Hungary",2006,0.3054
+"Hungary",2012,0.322
+"Iceland",1980,0.004
+"Iceland",1985,0.004
+"Iceland",1992,0.07
+"Iceland",2002,0.07
+"Iceland",2004,0.07
+"Iceland",2012,3e-04
+"Iceland",2015,3e-04
+"India",1975,353.4
+"India",1980,411.7
+"India",1986,468
+"India",1990,460
+"India",2000,558.4
+"India",2010,688
+"Indonesia",1990,69.24
+"Indonesia",2000,92.76
+"Indonesia",2016,189.7
+"Iran (Islamic Republic of)",1995,76
+"Iran (Islamic Republic of)",2001,83.75
+"Iran (Islamic Republic of)",2004,86
+"Iraq",1975,39.53
+"Iraq",1980,39.77
+"Iraq",1985,40
+"Iraq",1990,39.38
+"Iraq",1995,45.69
+"Iraq",2000,52
+"Iraq",2016,35.27
+"Ireland",1970,0.179
+"Ireland",1980,0.13
+"Ireland",1994,0.179
+"Israel",1970,1.249
+"Israel",1975,1.242
+"Israel",1980,1.235
+"Israel",1990,1.216
+"Israel",2002,1.021
+"Israel",2004,1.129
+"Israel",2009,1.016
+"Italy",1970,25.6
+"Italy",2000,20.01
+"Italy",2007,12.89
+"Italy",2013,17
+"Jamaica",1993,0.696
+"Jamaica",2007,0.448
+"Jamaica",2016,0.114
+"Japan",1980,58
+"Japan",1992,58.6
+"Japan",1997,58.88
+"Japan",2002,56.05
+"Japan",2007,54.5
+"Japan",2009,54.43
+"Jordan",1975,0.293
+"Jordan",1980,0.377
+"Jordan",1985,0.461
+"Jordan",1992,0.737
+"Jordan",2002,0.517
+"Jordan",2007,0.589
+"Jordan",2012,0.462
+"Jordan",2016,0.5547
+"Kazakhstan",1995,27.41
+"Kazakhstan",2002,14.8
+"Kazakhstan",2007,14.03
+"Kazakhstan",2012,13.69
+"Kazakhstan",2016,15.19
+"Kenya",1990,1.566
+"Kenya",2000,1.01
+"Kenya",2003,1.75
+"Kenya",2010,1.907
+"Kenya",2016,3.234
+"Kuwait",1994,0.324
+"Kuwait",2002,0.4919
+"Kyrgyzstan",1994,9.496
+"Kyrgyzstan",2000,9.45
+"Kyrgyzstan",2006,7.447
+"Kyrgyzstan",2011,7.1
+"Lao People's Democratic Republic",2005,3.193
+"Lao People's Democratic Republic",2016,7.36
+"Latvia",1995,0.036
+"Latvia",2002,0.0532
+"Latvia",2007,0.0506
+"Latvia",2012,0.0408
+"Latvia",2016,0.0581
+"Lebanon",1975,0.638
+"Lebanon",1994,0.875
+"Lebanon",2000,0.92
+"Lebanon",2005,0.78
+"Lebanon",2015,0.7
+"Lesotho",1987,0.028
+"Lesotho",1999,0.0038
+"Liberia",1987,0.078
+"Liberia",2000,0.0123
+"Libya",1985,1.965
+"Libya",1990,4.28
+"Libya",1994,4
+"Libya",2000,3.584
+"Libya",2012,4.85
+"Lithuania",1995,0.008
+"Lithuania",2001,0.053
+"Lithuania",2007,0.0818
+"Lithuania",2009,0.0793
+"Lithuania",2017,0.0591
+"Luxembourg",1995,2e-04
+"Luxembourg",1999,2e-04
+"Luxembourg",2012,2e-04
+"Luxembourg",2016,3e-04
+"Madagascar",1984,16.14
+"Madagascar",2000,13
+"Madagascar",2005,13
+"Malawi",1994,0.809
+"Malawi",2002,1.166
+"Malawi",2005,1.166
+"Malaysia",1990,8.3
+"Malaysia",1996,2.505
+"Malaysia",2000,2.505
+"Malaysia",2005,2.505
+"Maldives",1987,0
+"Maldives",2008,0
+"Mali",1987,1.319
+"Mali",1996,3.725
+"Mali",2001,4.99
+"Mali",2006,5.075
+"Malta",1995,0.007
+"Malta",2002,0.0189
+"Malta",2007,0.0203
+"Malta",2012,0.0241
+"Malta",2016,0.0255
+"Mauritania",1980,0.613
+"Mauritania",1985,1.5
+"Mauritania",2000,1.5
+"Mauritania",2004,1.223
+"Mauritius",1974,0.2768
+"Mauritius",1995,0.46
+"Mauritius",2003,0.491
+"Mexico",1995,62.5
+"Mexico",2002,56.1
+"Mexico",2007,60.57
+"Mexico",2012,63.35
+"Mexico",2016,66.05
+"Monaco",1990,0
+"Monaco",1997,0
+"Monaco",2002,0
+"Monaco",2007,0
+"Monaco",2009,0
+"Mongolia",1993,0.227
+"Mongolia",2006,0.224
+"Mongolia",2009,0.242
+"Mongolia",2016,0.2509
+"Montenegro",2007,0.0066
+"Montenegro",2010,0.0017
+"Morocco",1992,10.18
+"Morocco",1995,9.884
+"Morocco",2002,11.05
+"Morocco",2010,9.156
+"Mozambique",1990,0.54
+"Mozambique",2001,0.69
+"Mozambique",2015,1.076
+"Myanmar",1987,27.86
+"Myanmar",2000,29.57
+"Namibia",1985,0.115
+"Namibia",1991,0.17
+"Namibia",1995,0.1915
+"Namibia",2002,0.201
+"Nepal",2000,9.32
+"Nepal",2006,9.32
+"Netherlands",1991,0.184
+"Netherlands",1996,0.23
+"Netherlands",2002,0.0526
+"Netherlands",2007,0.0719
+"Netherlands",2012,0.0602
+"Netherlands",2014,0.0827
+"New Zealand",1985,0.836
+"New Zealand",2006,2.82
+"New Zealand",2010,3.207
+"Nicaragua",2001,1.18
+"Nicaragua",2011,1.185
+"Niger",1988,0.41
+"Niger",2005,0.6565
+"Niger",2016,1.536
+"Nigeria",1987,3.92
+"Nigeria",2000,5.51
+"Nigeria",2004,5.51
+"Nigeria",2010,5.51
+"North Macedonia",1996,1.066
+"North Macedonia",2002,0.2814
+"North Macedonia",2007,0.1255
+"Norway",1996,0.73
+"Norway",2002,0.808
+"Norway",2006,0.8449
+"Occupied Palestinian Territory",2001,0.167
+"Occupied Palestinian Territory",2005,0.189
+"Oman",1991,1.148
+"Oman",2000,1.23
+"Oman",2003,1.168
+"Pakistan",1975,150.3
+"Pakistan",1991,150.6
+"Pakistan",2000,162.7
+"Pakistan",2008,172.4
+"Panama",2010,0.446
+"Panama",2016,0.4461
+"Papua New Guinea",2000,0.001
+"Papua New Guinea",2005,0.001
+"Paraguay",1987,0.3354
+"Paraguay",2000,0.35
+"Paraguay",2012,1.897
+"Peru",2008,12.12
+"Philippines",2006,65.59
+"Philippines",2009,67.07
+"Philippines",2016,67.78
+"Poland",1970,1.681
+"Poland",1975,1.662
+"Poland",1980,1.323
+"Poland",1985,1.606
+"Poland",1992,1.37
+"Poland",1997,1.083
+"Poland",2002,1.108
+"Poland",2007,1.122
+"Poland",2012,1.102
+"Poland",2016,1.053
+"Portugal",1991,5.1
+"Portugal",1995,10
+"Portugal",1998,8.767
+"Puerto Rico",1990,0.2063
+"Puerto Rico",2000,0.1306
+"Puerto Rico",2005,0.0739
+"Puerto Rico",2010,0.0641
+"Qatar",1994,0.2106
+"Qatar",2000,0.21
+"Qatar",2005,0.262
+"Qatar",2016,0.23
+"Republic of Korea",1990,14.1
+"Republic of Korea",1997,15.29
+"Republic of Korea",2002,16.1
+"Republic of Korea",2003,15.96
+"Republic of Moldova",1992,0.775
+"Republic of Moldova",1996,0.35
+"Republic of Moldova",2007,0.036
+"Republic of Moldova",2012,0.039
+"Republic of Moldova",2013,0.038
+"Romania",1970,3.4
+"Romania",1975,5.75
+"Romania",1980,6.79
+"Romania",1985,8.49
+"Romania",1990,9.1
+"Romania",1997,2.98
+"Romania",2002,1.192
+"Romania",2007,1.099
+"Romania",2012,1.093
+"Romania",2016,1.243
+"Russian Federation",1994,15.3
+"Russian Federation",2001,13.2
+"Russian Federation",2016,18.24
+"Rwanda",2000,0.102
+"Saint Kitts and Nevis",1997,2e-04
+"Saint Kitts and Nevis",2012,2e-04
+"Saint Lucia",2007,0.0304
+"Saint Vincent and the Grenadines",1990,0.0101
+"Saint Vincent and the Grenadines",2013,0
+"Sao Tome and Principe",2016,0.0256
+"Saudi Arabia",1992,15.31
+"Saudi Arabia",2006,20.83
+"Saudi Arabia",2012,17.51
+"Saudi Arabia",2017,19.2
+"Senegal",1987,1.251
+"Senegal",2002,2.065
+"Serbia",2007,0.1282
+"Serbia",2011,0.0974
+"Serbia",2016,0.6345
+"Seychelles",1989,9e-04
+"Seychelles",2003,9e-04
+"Sierra Leone",1987,0.329
+"Sierra Leone",1992,0.0457
+"Sierra Leone",2000,0.0457
+"Sierra Leone",2005,0.0457
+"Singapore",1975,0.0076
+"Slovakia",1992,NA
+"Slovakia",1997,0.067
+"Slovakia",2002,0.056
+"Slovakia",2007,0.0225
+"Slovakia",2012,0.0307
+"Slovakia",2016,0.0208
+"Slovenia",1992,0.0037
+"Slovenia",1995,0.0048
+"Slovenia",2002,0.0066
+"Slovenia",2007,0.0046
+"Slovenia",2012,0.0023
+"Slovenia",2016,0.0033
+"Somalia",1987,0.786
+"Somalia",2000,3.28
+"Somalia",2003,3.281
+"South Africa",1990,9.58
+"South Africa",1995,8.708
+"South Africa",2000,7.836
+"South Africa",2013,9.69
+"South Sudan",2011,0.24
+"Spain",1986,28.43
+"Spain",1991,23.7
+"Spain",1997,23.41
+"Spain",2002,23.04
+"Spain",2007,23.18
+"Spain",2012,25.47
+"Spain",2014,21.96
+"Sri Lanka",1990,9.379
+"Sri Lanka",2000,12
+"Sri Lanka",2005,11.31
+"Sudan",2011,25.91
+"Suriname",1987,0.41
+"Suriname",2000,0.62
+"Suriname",2006,0.4311
+"Sweden",1970,0.132
+"Sweden",1975,0.137
+"Sweden",1980,0.14
+"Sweden",1992,0.174
+"Sweden",1997,0.15
+"Sweden",2002,0.135
+"Sweden",2007,0.107
+"Sweden",2010,0.098
+"Switzerland",2000,0.05
+"Switzerland",2012,0.1601
+"Syrian Arab Republic",1997,12.84
+"Syrian Arab Republic",2002,14.41
+"Syrian Arab Republic",2003,14.67
+"Tajikistan",1994,10.96
+"Tajikistan",2000,10.96
+"Tajikistan",2006,10.44
+"Thailand",2007,51.79
+"Timor-Leste",2004,1.071
+"Togo",1987,0.023
+"Togo",2002,0.076
+"Trinidad and Tobago",1997,0.0156
+"Trinidad and Tobago",2000,0.017
+"Trinidad and Tobago",2005,0.015
+"Trinidad and Tobago",2011,0.0167
+"Tunisia",1990,2.728
+"Tunisia",1995,2.446
+"Tunisia",2000,2.165
+"Tunisia",2011,2.644
+"Tunisia",2017,3.773
+"Turkey",1992,22.9
+"Turkey",2000,31.5
+"Turkey",2003,29.6
+"Turkey",2008,34
+"Turkey",2016,50.81
+"Turkmenistan",1994,23.29
+"Turkmenistan",2000,24.04
+"Turkmenistan",2004,26.36
+"Uganda",1970,0.12
+"Uganda",2002,0.12
+"Uganda",2008,0.259
+"Ukraine",1992,7.865
+"Ukraine",2000,5.485
+"Ukraine",2005,4.525
+"Ukraine",2010,4.454
+"Ukraine",2016,3.166
+"United Arab Emirates",1980,0.72
+"United Arab Emirates",1995,1.408
+"United Arab Emirates",2000,2.279
+"United Arab Emirates",2005,3.312
+"United Kingdom",1990,0.6681
+"United Kingdom",1995,1.723
+"United Kingdom",2002,1.308
+"United Kingdom",2007,1.33
+"United Kingdom",2012,1.049
+"United Kingdom",2016,1.183
+"United Republic of Tanzania",1994,1.04
+"United Republic of Tanzania",2002,4.632
+"United States of America",1969,100.1
+"United States of America",1974,106.5
+"United States of America",1979,117.1
+"United States of America",1990,194.7
+"United States of America",2000,196.5
+"United States of America",2005,191.9
+"United States of America",2010,175.1
+"United States of America",2015,176.2
+"Uruguay",1965,0.5915
+"Uruguay",2000,3.17
+"Uzbekistan",1994,54.37
+"Uzbekistan",2001,54.78
+"Uzbekistan",2005,50.4
+"Uzbekistan",2016,50.01
+"Venezuela (Bolivarian Republic of)",1970,1.886
+"Venezuela (Bolivarian Republic of)",2000,3.97
+"Venezuela (Bolivarian Republic of)",2007,16.71
+"Venezuela (Bolivarian Republic of)",2008,16.71
+"Viet Nam",1980,35.04
+"Viet Nam",1985,40.65
+"Viet Nam",1990,47
+"Viet Nam",2005,77.75
+"Yemen",1990,2.7
+"Yemen",2000,3.06
+"Yemen",2005,3.235
+"Zambia",1992,1.339
+"Zambia",1994,1.318
+"Zambia",2002,1.152
+"Zimbabwe",1987,0.964
+"Zimbabwe",2002,3.318
+"Zimbabwe",2007,2.93

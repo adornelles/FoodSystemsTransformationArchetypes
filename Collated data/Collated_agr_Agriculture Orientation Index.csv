@@ -1,0 +1,2332 @@
+"country","year","value"
+"Afghanistan",2003,0.12972
+"Afghanistan",2004,0.436
+"Afghanistan",2005,0.13684
+"Afghanistan",2006,0.08049
+"Afghanistan",2007,0.09808
+"Afghanistan",2008,0.14462
+"Afghanistan",2009,0.17394
+"Afghanistan",2010,0.13237
+"Afghanistan",2011,0.15777
+"Afghanistan",2012,0.16942
+"Afghanistan",2013,0.19715
+"Afghanistan",2014,0.16643
+"Afghanistan",2015,0.18899
+"Albania",2002,0.19502
+"Albania",2003,0.14276
+"Albania",2004,0.13286
+"Albania",2010,0.11511
+"Albania",2011,0.11093
+"Albania",2012,0.10195
+"Albania",2013,0.10872
+"Albania",2014,0.10615
+"Albania",2015,0.12414
+"Albania",2016,0.16663
+"Albania",2017,0.09834
+"Algeria",2006,0.56202
+"Algeria",2007,0.28959
+"Algeria",2008,0.78991
+"Algeria",2009,0.39058
+"Angola",2001,0.15033
+"Angola",2002,0.08861
+"Angola",2003,0.10404
+"Angola",2004,0.21161
+"Angola",2005,0.34252
+"Angola",2006,0.32481
+"Angola",2007,0.54255
+"Angola",2008,0.44016
+"Angola",2009,0.13405
+"Angola",2010,0.17532
+"Angola",2011,0.20906
+"Angola",2012,0.16415
+"Angola",2013,0.19365
+"Angola",2014,0.10603
+"Angola",2015,0.08507
+"Angola",2016,0.07278
+"Angola",2017,0.07802
+"Argentina",2001,0.23388
+"Argentina",2002,0.08273
+"Argentina",2003,0.06456
+"Argentina",2004,0.08248
+"Argentina",2005,0.07108
+"Argentina",2006,0.09389
+"Argentina",2007,0.26753
+"Argentina",2008,0.49989
+"Argentina",2009,0.44152
+"Argentina",2010,0.34946
+"Argentina",2011,0.16545
+"Argentina",2012,0.16961
+"Argentina",2013,0.16319
+"Argentina",2014,0.10083
+"Argentina",2015,0.1451
+"Argentina",2016,0.10151
+"Argentina",2017,0.14104
+"Armenia",2009,0.24536
+"Armenia",2010,0.26309
+"Armenia",2011,0.22532
+"Armenia",2012,0.1215
+"Armenia",2013,0.08627
+"Armenia",2014,0.09168
+"Armenia",2015,0.14137
+"Armenia",2016,0.20429
+"Armenia",2017,0.16875
+"Australia",2001,0.24202
+"Australia",2002,0.30411
+"Australia",2003,0.31623
+"Australia",2004,0.31643
+"Australia",2005,0.27832
+"Australia",2006,0.5034
+"Australia",2007,0.45124
+"Australia",2008,0.57979
+"Australia",2009,0.36921
+"Australia",2010,0.36582
+"Australia",2011,0.30562
+"Australia",2012,0.3299
+"Australia",2013,0.25911
+"Australia",2014,0.23815
+"Australia",2015,0.22035
+"Australia",2016,0.18794
+"Australia",2017,0.2128
+"Australia and New Zealand",2001,0.24202
+"Australia and New Zealand",2002,0.30411
+"Australia and New Zealand",2003,0.31623
+"Australia and New Zealand",2004,0.31558
+"Australia and New Zealand",2005,0.30064
+"Australia and New Zealand",2006,0.5034
+"Australia and New Zealand",2007,0.45124
+"Australia and New Zealand",2008,0.57979
+"Australia and New Zealand",2009,0.36921
+"Australia and New Zealand",2010,0.36582
+"Australia and New Zealand",2011,0.30562
+"Australia and New Zealand",2012,0.3299
+"Australia and New Zealand",2013,0.25911
+"Australia and New Zealand",2014,0.23815
+"Australia and New Zealand",2015,0.22035
+"Australia and New Zealand",2016,0.18794
+"Australia and New Zealand",2017,0.2128
+"Azerbaijan",2008,0.4473
+"Azerbaijan",2009,0.57845
+"Azerbaijan",2010,0.53811
+"Azerbaijan",2011,0.54218
+"Azerbaijan",2012,0.45901
+"Azerbaijan",2013,0.46202
+"Azerbaijan",2014,0.48374
+"Azerbaijan",2015,0.47651
+"Bahamas",2001,0.99346
+"Bahamas",2002,0.80158
+"Bahamas",2003,0.92258
+"Bahamas",2004,1.10474
+"Bahamas",2005,1.18756
+"Bahamas",2006,0.90993
+"Bahamas",2007,0.92231
+"Bahamas",2008,0.89371
+"Bahamas",2009,1.06072
+"Bahamas",2010,0.84575
+"Bahamas",2011,0.73469
+"Bahamas",2012,0.71196
+"Bahamas",2013,0.9129
+"Bahamas",2014,0.84231
+"Bahamas",2015,1.05847
+"Bahamas",2016,1.41638
+"Bahrain",2001,0.83929
+"Bahrain",2002,0.64841
+"Bahrain",2003,0.99248
+"Bahrain",2004,1.35164
+"Bahrain",2005,1.27309
+"Bahrain",2006,1.32946
+"Bahrain",2007,1.1126
+"Bahrain",2008,1.11474
+"Bangladesh",2001,0.19968
+"Bangladesh",2002,0.19107
+"Bangladesh",2003,0.16269
+"Bangladesh",2004,0.16509
+"Bangladesh",2005,0.27887
+"Bangladesh",2006,0.28914
+"Bangladesh",2007,0.32531
+"Bangladesh",2008,0.5005
+"Bangladesh",2009,0.52341
+"Bangladesh",2011,0.51678
+"Bangladesh",2012,0.58046
+"Bangladesh",2013,0.779
+"Bangladesh",2014,0.56089
+"Bangladesh",2015,0.52921
+"Bangladesh",2016,0.409
+"Barbados",2003,1.44767
+"Barbados",2005,1.39587
+"Belarus",2001,1.11608
+"Belarus",2002,1.04338
+"Belarus",2003,1.23501
+"Belarus",2004,1.66814
+"Belarus",2005,1.73193
+"Belarus",2006,1.5941
+"Belarus",2007,1.37549
+"Belarus",2008,1.17393
+"Belarus",2009,1.42321
+"Belarus",2010,1.23443
+"Belarus",2011,1.21861
+"Belarus",2012,0.96298
+"Belarus",2013,0.95491
+"Belarus",2014,0.91555
+"Belarus",2015,1.171
+"Belarus",2016,1.0629
+"Belarus",2017,0.74669
+"Belgium",2001,0.19928
+"Belgium",2002,0.07834
+"Belgium",2003,0.07134
+"Belgium",2004,0.06834
+"Belgium",2005,0.0728
+"Belgium",2006,0.071
+"Belgium",2007,0.05963
+"Belgium",2008,0.07364
+"Belgium",2009,0.02855
+"Belgium",2010,0.02994
+"Belgium",2011,0.02065
+"Belgium",2012,0.0144
+"Belgium",2013,0.0151
+"Belgium",2014,0.01418
+"Belgium",2015,4.24e-05
+"Belgium",2016,0
+"Benin",2010,0.07092
+"Bhutan",2001,0.27481
+"Bhutan",2002,0.35389
+"Bhutan",2003,0.46237
+"Bhutan",2004,0.42085
+"Bhutan",2005,0.49129
+"Bhutan",2006,0.55797
+"Bhutan",2007,0.61588
+"Bhutan",2008,0.53404
+"Bhutan",2009,0.61356
+"Bhutan",2010,0.65416
+"Bhutan",2011,0.82988
+"Bhutan",2012,0.88491
+"Bhutan",2013,0.84544
+"Bhutan",2014,0.78566
+"Bhutan",2015,0.67849
+"Bhutan",2016,0.76106
+"Bhutan",2017,0.76949
+"Bolivia (Plurinational State of)",2001,0.69563
+"Bolivia (Plurinational State of)",2002,0.71121
+"Bolivia (Plurinational State of)",2003,0.6087
+"Bolivia (Plurinational State of)",2004,0.61389
+"Bolivia (Plurinational State of)",2005,0.7744
+"Bolivia (Plurinational State of)",2006,0.78997
+"Bolivia (Plurinational State of)",2007,0.82533
+"Bolivia (Plurinational State of)",2008,0.57862
+"Bolivia (Plurinational State of)",2009,0.56125
+"Bolivia (Plurinational State of)",2010,0.52906
+"Bolivia (Plurinational State of)",2011,0.63236
+"Bolivia (Plurinational State of)",2012,0.66326
+"Bolivia (Plurinational State of)",2013,0.59084
+"Bolivia (Plurinational State of)",2014,0.62754
+"Botswana",2005,1.69908
+"Botswana",2006,2.19247
+"Botswana",2007,1.63071
+"Botswana",2008,1.3451
+"Botswana",2009,1.51263
+"Botswana",2010,1.20607
+"Botswana",2011,1.14772
+"Botswana",2012,1.17653
+"Botswana",2013,1.32579
+"Botswana",2014,2.00839
+"Botswana",2015,1.88654
+"Botswana",2016,2.47239
+"Botswana",2017,1.11437
+"Brazil",2009,0.11701
+"Brazil",2010,0.08974
+"Brazil",2011,0.07746
+"Brazil",2012,0.12601
+"Brazil",2013,0.08393
+"Brazil",2014,0.08802
+"Brazil",2015,0.25235
+"Brazil",2016,0.24915
+"Brazil",2017,0.22153
+"Bulgaria",2001,0.18721
+"Bulgaria",2002,0.29241
+"Bulgaria",2003,0.32538
+"Bulgaria",2004,0.31245
+"Bulgaria",2005,0.40626
+"Bulgaria",2006,0.57124
+"Bulgaria",2007,0.54309
+"Bulgaria",2008,0.35054
+"Bulgaria",2009,0.40211
+"Bulgaria",2010,0.29525
+"Bulgaria",2011,0.78064
+"Bulgaria",2012,0.82686
+"Bulgaria",2013,0.70269
+"Bulgaria",2014,0.54123
+"Bulgaria",2015,0.83669
+"Bulgaria",2016,0.50817
+"Burkina Faso",2004,0.00321
+"Burkina Faso",2005,0.00303
+"Burkina Faso",2006,0.00704
+"Burkina Faso",2007,0.00324
+"Burkina Faso",2008,0.00815
+"Burkina Faso",2009,0.06565
+"Burkina Faso",2010,0.08088
+"Burkina Faso",2011,0.09712
+"Burkina Faso",2017,0.12106
+"Burundi",2010,0.0298
+"Burundi",2011,0.07846
+"Burundi",2012,0.08512
+"Burundi",2013,0.07271
+"Côte d'Ivoire",2009,0.11479
+"Côte d'Ivoire",2011,0.07101
+"Côte d'Ivoire",2012,0.18902
+"Côte d'Ivoire",2014,0.24324
+"Cabo Verde",2001,0.66948
+"Cabo Verde",2002,0.78084
+"Cabo Verde",2005,0.46056
+"Cabo Verde",2006,0.42561
+"Cabo Verde",2007,0.58302
+"Cabo Verde",2008,0.62589
+"Cabo Verde",2009,0.50426
+"Cabo Verde",2010,0.59073
+"Cabo Verde",2011,0.74953
+"Cabo Verde",2012,0.53329
+"Cabo Verde",2013,0.51738
+"Cabo Verde",2014,0.42521
+"Cabo Verde",2015,0.50017
+"Cabo Verde",2016,0.31827
+"Canada",2009,1.05063
+"Canada",2010,1.09927
+"Canada",2011,0.90804
+"Canada",2012,0.89689
+"Caribbean",2001,0.61171
+"Caribbean",2002,0.53642
+"Caribbean",2003,0.69345
+"Caribbean",2004,0.80618
+"Caribbean",2005,1.02056
+"Caribbean",2006,0.82321
+"Caribbean",2007,1.11107
+"Caribbean",2008,0.92457
+"Caribbean",2009,0.79013
+"Caribbean",2010,0.74277
+"Caribbean",2011,0.43685
+"Caribbean",2012,0.48244
+"Caribbean",2013,0.4292
+"Caribbean",2014,0.38584
+"Caribbean",2015,0.31921
+"Caribbean",2016,0.34511
+"Caribbean",2017,0.28895
+"Caucasus and Central Asia",2001,0.38044
+"Caucasus and Central Asia",2002,0.54581
+"Caucasus and Central Asia",2003,0.54927
+"Caucasus and Central Asia",2004,0.71548
+"Caucasus and Central Asia",2005,0.482
+"Caucasus and Central Asia",2006,0.54602
+"Caucasus and Central Asia",2007,0.57076
+"Caucasus and Central Asia",2008,0.58926
+"Caucasus and Central Asia",2009,0.55039
+"Caucasus and Central Asia",2010,0.65601
+"Caucasus and Central Asia",2011,0.54935
+"Caucasus and Central Asia",2012,0.56324
+"Caucasus and Central Asia",2013,0.48857
+"Caucasus and Central Asia",2014,0.43593
+"Caucasus and Central Asia",2015,0.46293
+"Caucasus and Central Asia",2016,0.43704
+"Caucasus and Central Asia",2017,0.33604
+"Central African Republic",2008,0.03279
+"Central African Republic",2009,0.0502
+"Central African Republic",2010,0.04567
+"Central America",2001,0.25949
+"Central America",2002,0.20652
+"Central America",2003,0.26033
+"Central America",2004,0.27319
+"Central America",2005,0.26168
+"Central America",2006,0.30528
+"Central America",2007,0.33731
+"Central America",2008,0.38726
+"Central America",2009,0.35146
+"Central America",2010,0.55243
+"Central America",2011,0.54326
+"Central America",2012,0.63906
+"Central America",2013,0.7852
+"Central America",2014,0.77215
+"Central America",2015,0.68004
+"Central America",2016,0.57366
+"Central America",2017,0.4424
+"Central and Southern Asia",2001,0.20334
+"Central and Southern Asia",2002,0.22334
+"Central and Southern Asia",2003,0.19349
+"Central and Southern Asia",2004,0.25417
+"Central and Southern Asia",2005,0.27861
+"Central and Southern Asia",2006,0.33097
+"Central and Southern Asia",2007,0.3555
+"Central and Southern Asia",2008,0.52085
+"Central and Southern Asia",2009,0.37647
+"Central and Southern Asia",2010,0.40541
+"Central and Southern Asia",2011,0.38587
+"Central and Southern Asia",2012,0.35316
+"Central and Southern Asia",2013,0.34158
+"Central and Southern Asia",2014,0.32494
+"Central and Southern Asia",2015,0.31368
+"Central and Southern Asia",2016,0.30229
+"Central and Southern Asia",2017,0.51272
+"Central Asia",2001,0.38044
+"Central Asia",2002,0.54581
+"Central Asia",2003,0.69878
+"Central Asia",2004,0.87202
+"Central Asia",2005,0.57596
+"Central Asia",2006,0.62556
+"Central Asia",2007,0.63245
+"Central Asia",2008,0.77708
+"Central Asia",2009,0.69221
+"Central Asia",2010,0.92354
+"Central Asia",2011,0.67591
+"Central Asia",2012,0.72676
+"Central Asia",2013,0.6006
+"Central Asia",2014,0.49812
+"Central Asia",2015,0.53842
+"Central Asia",2016,0.47788
+"Central Asia",2017,0.37893
+"Chile",2001,0.40688
+"Chile",2002,0.38036
+"Chile",2003,0.43762
+"Chile",2004,0.45724
+"Chile",2005,0.46861
+"Chile",2006,0.47863
+"Chile",2007,0.51619
+"Chile",2008,0.52331
+"Chile",2009,0.50288
+"Chile",2010,0.46848
+"Chile",2011,0.45895
+"Chile",2012,0.49901
+"Chile",2013,0.49154
+"Chile",2014,0.41913
+"Chile",2015,0.43713
+"Chile",2016,0.39075
+"Chile",2017,0.41918
+"China",2007,0.25883
+"China",2008,0.21911
+"China",2009,0.20704
+"China",2010,0.24721
+"China",2011,0.25993
+"China",2012,0.27632
+"China",2013,0.26891
+"China",2014,0.25593
+"China",2015,0.31679
+"China",2016,0.32041
+"China",2017,0.2887
+"Congo",2004,0.15843
+"Congo",2005,0.24813
+"Congo",2006,0.19824
+"Congo",2007,0.26822
+"Congo",2008,0.45295
+"Congo",2009,0.25935
+"Congo",2010,0.60916
+"Congo",2011,0.90652
+"Congo",2012,0.57897
+"Cook Islands",2005,0.44482
+"Cook Islands",2006,0.57494
+"Cook Islands",2007,0.62894
+"Cook Islands",2008,0.8428
+"Cook Islands",2009,0.644
+"Cook Islands",2010,0.51633
+"Cook Islands",2011,0.51045
+"Cook Islands",2012,0.70267
+"Cook Islands",2013,0.40096
+"Costa Rica",2001,0.22003
+"Costa Rica",2002,0.18922
+"Costa Rica",2003,0.27973
+"Costa Rica",2004,0.19871
+"Costa Rica",2005,0.28171
+"Costa Rica",2006,0.34935
+"Costa Rica",2007,0.48041
+"Costa Rica",2008,0.64024
+"Costa Rica",2009,0.66105
+"Costa Rica",2010,0.94201
+"Costa Rica",2011,1.02488
+"Costa Rica",2012,1.30954
+"Costa Rica",2013,0.58048
+"Costa Rica",2014,0.28636
+"Costa Rica",2015,0.29535
+"Costa Rica",2016,0.25073
+"Costa Rica",2017,0.22643
+"Croatia",2002,0.52059
+"Croatia",2003,0.73193
+"Croatia",2004,0.54931
+"Croatia",2005,0.64502
+"Croatia",2006,0.72101
+"Croatia",2007,0.92137
+"Croatia",2008,0.90811
+"Croatia",2009,0.90284
+"Croatia",2010,1.07769
+"Croatia",2011,1.08261
+"Croatia",2012,0.96024
+"Croatia",2013,0.82322
+"Croatia",2014,0.98651
+"Croatia",2015,1.49645
+"Croatia",2016,1.38373
+"Croatia",2017,1.50319
+"Cyprus",2001,1.59228
+"Cyprus",2002,1.35114
+"Cyprus",2003,1.45996
+"Cyprus",2004,1.61338
+"Cyprus",2005,1.40127
+"Cyprus",2006,1.4864
+"Cyprus",2007,1.50354
+"Cyprus",2008,1.51284
+"Cyprus",2009,1.12373
+"Cyprus",2010,1.17794
+"Cyprus",2011,1.00935
+"Cyprus",2012,1.05228
+"Cyprus",2013,1.1372
+"Cyprus",2014,1.01287
+"Cyprus",2015,1.15134
+"Cyprus",2016,1.35243
+"Czechia",2001,0.84647
+"Czechia",2002,1.00631
+"Czechia",2003,1.1237
+"Czechia",2004,1.22939
+"Czechia",2005,1.57522
+"Czechia",2006,1.68306
+"Czechia",2007,1.89075
+"Czechia",2008,1.81613
+"Czechia",2009,2.36766
+"Czechia",2010,2.29401
+"Czechia",2011,1.53358
+"Czechia",2012,1.40801
+"Czechia",2013,1.2306
+"Czechia",2014,1.38074
+"Czechia",2015,1.29939
+"Czechia",2016,1.66408
+"Czechia",2017,1.67686
+"Democratic Republic of the Congo",2010,0.08282
+"Democratic Republic of the Congo",2011,0.11941
+"Democratic Republic of the Congo",2012,0.30137
+"Democratic Republic of the Congo",2013,0.20653
+"Democratic Republic of the Congo",2014,0.37204
+"Democratic Republic of the Congo",2015,0.20207
+"Democratic Republic of the Congo",2016,0.35082
+"Democratic Republic of the Congo",2017,0.54855
+"Denmark",2001,0.12609
+"Denmark",2002,0.26606
+"Denmark",2003,0.29335
+"Denmark",2004,0.21996
+"Denmark",2005,0.32594
+"Denmark",2006,0.33522
+"Denmark",2007,0.25749
+"Denmark",2008,0.45458
+"Denmark",2009,0.54149
+"Denmark",2010,0.27145
+"Denmark",2011,0.38082
+"Denmark",2012,0.28352
+"Denmark",2013,0.30342
+"Denmark",2014,0.29734
+"Denmark",2015,0.37883
+"Denmark",2016,0.37959
+"Denmark",2017,0.28412
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2001,0.56646
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2002,0.54442
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2003,0.5087
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2004,0.50702
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2005,0.55702
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2006,0.65232
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2007,0.61052
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2008,0.5479
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2009,0.55046
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2010,0.48838
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2011,0.50973
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2012,0.46782
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2013,0.43176
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2014,0.42314
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2015,0.40729
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2016,0.40415
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",2017,0.36169
+"Developing regions",2001,0.37263
+"Developing regions",2002,0.35956
+"Developing regions",2003,0.31496
+"Developing regions",2004,0.3327
+"Developing regions",2005,0.34902
+"Developing regions",2006,0.38687
+"Developing regions",2007,0.37521
+"Developing regions",2008,0.40617
+"Developing regions",2009,0.31522
+"Developing regions",2010,0.30541
+"Developing regions",2011,0.29808
+"Developing regions",2012,0.31392
+"Developing regions",2013,0.28926
+"Developing regions",2014,0.30223
+"Developing regions",2015,0.33426
+"Developing regions",2016,0.33213
+"Developing regions",2017,0.28166
+"Dominican Republic",2002,0.67828
+"Dominican Republic",2003,0.8545
+"Dominican Republic",2011,0.37257
+"Dominican Republic",2012,0.37106
+"Dominican Republic",2013,0.41803
+"Dominican Republic",2014,0.35544
+"Dominican Republic",2015,0.2951
+"Dominican Republic",2016,0.3163
+"Dominican Republic",2017,0.28828
+"Eastern Africa",2001,0.16413
+"Eastern Africa",2002,0.18748
+"Eastern Africa",2003,0.17624
+"Eastern Africa",2004,0.17552
+"Eastern Africa",2005,0.24777
+"Eastern Africa",2006,0.24128
+"Eastern Africa",2007,0.25169
+"Eastern Africa",2008,0.2262
+"Eastern Africa",2009,0.23386
+"Eastern Africa",2010,0.20746
+"Eastern Africa",2011,0.23736
+"Eastern Africa",2012,0.16046
+"Eastern Africa",2013,0.15413
+"Eastern Africa",2014,0.15492
+"Eastern Africa",2015,0.14306
+"Eastern Africa",2016,0.15644
+"Eastern Africa",2017,0.14792
+"Eastern and South-Eastern Asia",2001,0.93709
+"Eastern and South-Eastern Asia",2002,0.87743
+"Eastern and South-Eastern Asia",2003,0.87957
+"Eastern and South-Eastern Asia",2004,0.59759
+"Eastern and South-Eastern Asia",2005,0.64698
+"Eastern and South-Eastern Asia",2006,0.65218
+"Eastern and South-Eastern Asia",2007,0.41126
+"Eastern and South-Eastern Asia",2008,0.35214
+"Eastern and South-Eastern Asia",2009,0.33409
+"Eastern and South-Eastern Asia",2010,0.32621
+"Eastern and South-Eastern Asia",2011,0.35586
+"Eastern and South-Eastern Asia",2012,0.39562
+"Eastern and South-Eastern Asia",2013,0.34031
+"Eastern and South-Eastern Asia",2014,0.38419
+"Eastern and South-Eastern Asia",2015,0.42945
+"Eastern and South-Eastern Asia",2016,0.43122
+"Eastern and South-Eastern Asia",2017,0.33277
+"Eastern Asia",2001,1.52586
+"Eastern Asia",2002,1.52817
+"Eastern Asia",2003,1.56098
+"Eastern Asia",2004,1.39491
+"Eastern Asia",2005,1.58299
+"Eastern Asia",2006,1.89281
+"Eastern Asia",2007,0.45877
+"Eastern Asia",2008,0.39367
+"Eastern Asia",2009,0.35057
+"Eastern Asia",2010,0.39414
+"Eastern Asia",2011,0.41859
+"Eastern Asia",2012,0.38891
+"Eastern Asia",2013,0.37411
+"Eastern Asia",2014,0.35135
+"Eastern Asia",2015,0.40756
+"Eastern Asia",2016,0.41398
+"Eastern Asia",2017,0.2887
+"Eastern Asia (excluding Japan)",2001,1.52586
+"Eastern Asia (excluding Japan)",2002,1.52817
+"Eastern Asia (excluding Japan)",2003,1.56098
+"Eastern Asia (excluding Japan)",2004,1.39491
+"Eastern Asia (excluding Japan)",2005,1.58299
+"Eastern Asia (excluding Japan)",2006,1.89281
+"Eastern Asia (excluding Japan)",2007,0.45877
+"Eastern Asia (excluding Japan)",2008,0.39367
+"Eastern Asia (excluding Japan)",2009,0.35057
+"Eastern Asia (excluding Japan)",2010,0.39414
+"Eastern Asia (excluding Japan)",2011,0.41859
+"Eastern Asia (excluding Japan)",2012,0.38891
+"Eastern Asia (excluding Japan)",2013,0.37411
+"Eastern Asia (excluding Japan)",2014,0.35135
+"Eastern Asia (excluding Japan)",2015,0.40756
+"Eastern Asia (excluding Japan)",2016,0.41398
+"Eastern Asia (excluding Japan)",2017,0.2887
+"Eastern Europe",2001,0.52018
+"Eastern Europe",2002,0.53711
+"Eastern Europe",2003,0.55319
+"Eastern Europe",2004,0.55774
+"Eastern Europe",2005,0.71443
+"Eastern Europe",2006,1.01766
+"Eastern Europe",2007,0.98823
+"Eastern Europe",2008,0.5541
+"Eastern Europe",2009,0.57834
+"Eastern Europe",2010,0.49518
+"Eastern Europe",2011,0.60334
+"Eastern Europe",2012,0.54518
+"Eastern Europe",2013,0.55881
+"Eastern Europe",2014,0.49179
+"Eastern Europe",2015,0.45677
+"Eastern Europe",2016,0.48057
+"Eastern Europe",2017,0.49771
+"Ecuador",2001,0.04734
+"Ecuador",2002,0.07062
+"Ecuador",2003,0.07019
+"Ecuador",2004,0.07703
+"Ecuador",2005,0.07583
+"Ecuador",2006,0.07254
+"Ecuador",2007,0.07929
+"Ecuador",2008,0.07356
+"Ecuador",2009,0.17239
+"Ecuador",2010,0.18419
+"Ecuador",2011,0.09871
+"Ecuador",2012,0.12861
+"Ecuador",2013,0.14606
+"Ecuador",2014,0.22542
+"Ecuador",2015,0.26901
+"Egypt",2004,0.27544
+"Egypt",2005,0.18212
+"Egypt",2006,0.16331
+"Egypt",2007,0.17794
+"Egypt",2008,0.13917
+"Egypt",2009,0.16485
+"Egypt",2010,0.14489
+"Egypt",2011,0.12298
+"Egypt",2012,0.18919
+"Egypt",2013,0.16831
+"Egypt",2014,0.14056
+"Egypt",2015,0.1294
+"Egypt",2016,0.1143
+"Egypt",2017,0.12029
+"El Salvador",2001,0.34643
+"El Salvador",2002,0.26377
+"El Salvador",2003,0.15925
+"El Salvador",2004,0.29207
+"El Salvador",2005,0.15996
+"El Salvador",2006,0.12999
+"El Salvador",2007,0.16735
+"El Salvador",2008,0.16426
+"El Salvador",2009,0.28496
+"El Salvador",2010,0.21427
+"El Salvador",2011,0.13603
+"El Salvador",2012,0.186
+"El Salvador",2013,0.22147
+"El Salvador",2014,0.24864
+"El Salvador",2015,0.21267
+"El Salvador",2016,0.12788
+"El Salvador",2017,0.18815
+"Equatorial Guinea",2007,1.2715
+"Equatorial Guinea",2008,0.88447
+"Equatorial Guinea",2009,0.75737
+"Estonia",2001,0.56698
+"Estonia",2002,0.69424
+"Estonia",2003,0.74343
+"Estonia",2004,0.69481
+"Estonia",2005,0.61951
+"Estonia",2006,0.83371
+"Estonia",2007,0.87068
+"Estonia",2008,0.98407
+"Estonia",2009,0.85675
+"Estonia",2010,0.6589
+"Estonia",2011,0.58919
+"Estonia",2012,0.61276
+"Estonia",2013,0.72422
+"Estonia",2014,0.49042
+"Estonia",2015,0.49853
+"Estonia",2016,0.56612
+"Eswatini",2007,0.58944
+"Eswatini",2008,0.93166
+"Eswatini",2009,0.86085
+"Eswatini",2010,0.53119
+"Eswatini",2011,0.35538
+"Eswatini",2012,0.40734
+"Ethiopia",2001,0.09158
+"Ethiopia",2002,0.18664
+"Ethiopia",2003,0.13119
+"Ethiopia",2004,0.12616
+"Ethiopia",2005,0.37996
+"Ethiopia",2006,0.46903
+"Ethiopia",2007,0.41901
+"Ethiopia",2012,0.34724
+"Ethiopia",2013,0.16108
+"Ethiopia",2014,0.18675
+"Ethiopia",2015,0.19927
+"Ethiopia",2016,0.25137
+"Europe",2001,0.59597
+"Europe",2002,0.5618
+"Europe",2003,0.52271
+"Europe",2004,0.52608
+"Europe",2005,0.58756
+"Europe",2006,0.66839
+"Europe",2007,0.62612
+"Europe",2008,0.54893
+"Europe",2009,0.54441
+"Europe",2010,0.47219
+"Europe",2011,0.50947
+"Europe",2012,0.45887
+"Europe",2013,0.44778
+"Europe",2014,0.43954
+"Europe",2015,0.4257
+"Europe",2016,0.43142
+"Europe",2017,0.3945
+"Europe and Northern America",2001,0.59597
+"Europe and Northern America",2002,0.5618
+"Europe and Northern America",2003,0.52271
+"Europe and Northern America",2004,0.52608
+"Europe and Northern America",2005,0.58756
+"Europe and Northern America",2006,0.66839
+"Europe and Northern America",2007,0.62612
+"Europe and Northern America",2008,0.54893
+"Europe and Northern America",2009,0.56736
+"Europe and Northern America",2010,0.50127
+"Europe and Northern America",2011,0.53002
+"Europe and Northern America",2012,0.4812
+"Europe and Northern America",2013,0.44778
+"Europe and Northern America",2014,0.43954
+"Europe and Northern America",2015,0.4257
+"Europe and Northern America",2016,0.43142
+"Europe and Northern America",2017,0.3945
+"Fiji",2005,0.26251
+"Fiji",2006,0.24038
+"Fiji",2007,0.26816
+"Fiji",2008,0.26816
+"Fiji",2009,0.27793
+"Fiji",2010,0.30356
+"Fiji",2011,0.28319
+"Fiji",2012,0.28831
+"Fiji",2013,0.48628
+"Fiji",2014,0.42388
+"Fiji",2015,0.53087
+"Fiji",2016,0.35088
+"Finland",2001,2.08642
+"Finland",2002,2.09381
+"Finland",2003,2.18542
+"Finland",2004,2.22777
+"Finland",2005,2.4222
+"Finland",2006,2.65808
+"Finland",2007,2.15067
+"Finland",2008,2.19447
+"Finland",2009,2.0639
+"Finland",2010,1.90553
+"Finland",2011,1.93822
+"Finland",2012,1.77566
+"Finland",2013,1.49799
+"Finland",2014,1.56923
+"Finland",2015,1.60827
+"Finland",2016,1.53584
+"France",2001,0.27365
+"France",2002,0.29426
+"France",2003,0.25997
+"France",2004,0.41725
+"France",2005,0.44391
+"France",2006,0.48242
+"France",2007,0.40854
+"France",2008,0.39122
+"France",2009,0.45625
+"France",2010,0.40173
+"France",2011,0.33588
+"France",2012,0.36434
+"France",2013,0.36002
+"France",2014,0.37414
+"France",2015,0.45852
+"France",2016,0.39935
+"Georgia",2003,0.05504
+"Georgia",2004,0.18031
+"Georgia",2005,0.13386
+"Georgia",2006,0.17042
+"Georgia",2007,0.25229
+"Georgia",2008,0.14159
+"Georgia",2009,0.13812
+"Georgia",2010,0.06124
+"Georgia",2011,0.14975
+"Georgia",2012,0.39489
+"Georgia",2013,0.29436
+"Georgia",2014,0.33325
+"Georgia",2015,0.28804
+"Georgia",2016,0.31677
+"Georgia",2017,0.28537
+"Ghana",2001,0.03328
+"Ghana",2002,0.03772
+"Greece",2006,0.0441
+"Greece",2007,0.10224
+"Greece",2008,0.06622
+"Greece",2009,0.32487
+"Greece",2010,0.11044
+"Greece",2011,0.08543
+"Greece",2012,0.08744
+"Greece",2013,0.089
+"Greece",2014,0.12449
+"Greece",2015,0.15161
+"Greece",2016,0.18474
+"Grenada",2012,0.22504
+"Grenada",2013,0.37987
+"Grenada",2014,0.60085
+"Grenada",2015,0.47888
+"Grenada",2016,0.6084
+"Grenada",2017,0.27041
+"Guatemala",2001,0.22622
+"Guatemala",2002,0.20703
+"Guatemala",2003,0.25636
+"Guatemala",2004,0.26359
+"Guatemala",2005,0.24379
+"Guatemala",2006,0.25404
+"Guatemala",2007,0.21945
+"Guatemala",2008,0.23254
+"Guatemala",2009,0.12878
+"Guatemala",2010,0.20755
+"Guatemala",2011,0.21102
+"Guatemala",2012,0.2935
+"Guatemala",2013,0.25331
+"Guatemala",2014,0.31926
+"Guatemala",2015,0.1746
+"Guatemala",2016,0.1764
+"Guatemala",2017,0.2142
+"Guinea-Bissau",2009,0.29065
+"Guinea-Bissau",2010,0.3219
+"Guinea-Bissau",2011,0.28578
+"Guinea-Bissau",2012,0.06359
+"Guinea-Bissau",2013,0.13425
+"Guinea-Bissau",2014,0.07073
+"Guinea-Bissau",2015,0.09915
+"Hungary",2001,1.0835
+"Hungary",2002,1.61902
+"Hungary",2003,1.34845
+"Hungary",2004,1.02293
+"Hungary",2005,1.02691
+"Hungary",2006,0.93602
+"Hungary",2007,0.99566
+"Hungary",2008,0.57364
+"Hungary",2009,0.73858
+"Hungary",2010,0.46983
+"Hungary",2011,0.3862
+"Hungary",2012,0.38426
+"Hungary",2013,0.31335
+"Hungary",2014,0.4164
+"Hungary",2015,0.4252
+"Hungary",2016,0.37216
+"Iceland",2001,0.62866
+"Iceland",2002,0.60594
+"Iceland",2003,0.70089
+"Iceland",2004,0.76969
+"Iceland",2005,0.82096
+"Iceland",2006,0.79259
+"Iceland",2007,0.82989
+"Iceland",2008,0.51593
+"Iceland",2009,0.52379
+"Iceland",2010,0.45185
+"Iceland",2011,0.466
+"Iceland",2012,0.48665
+"Iceland",2013,0.49228
+"Iceland",2014,0.51233
+"Iceland",2015,0.4968
+"Iceland",2016,0.48307
+"India",2001,0.22999
+"India",2002,0.21064
+"India",2003,0.20698
+"India",2004,0.27055
+"India",2005,0.28235
+"India",2006,0.36066
+"India",2007,0.39045
+"India",2008,0.60604
+"India",2009,0.45981
+"India",2010,0.4399
+"India",2011,0.43143
+"India",2012,0.37502
+"India",2013,0.34839
+"India",2014,0.34878
+"India",2015,0.33174
+"India",2016,0.32312
+"Indonesia",2004,0.19781
+"Indonesia",2005,0.11476
+"Indonesia",2006,0.16037
+"Indonesia",2007,0.11998
+"Indonesia",2008,0.07254
+"Indonesia",2009,0.06672
+"Indonesia",2010,0.06215
+"Indonesia",2013,0.07846
+"Iran (Islamic Republic of)",2002,0.62075
+"Iran (Islamic Republic of)",2003,0.35089
+"Iran (Islamic Republic of)",2004,0.36939
+"Iran (Islamic Republic of)",2005,0.66647
+"Iran (Islamic Republic of)",2006,0.49535
+"Iran (Islamic Republic of)",2007,0.42663
+"Iran (Islamic Republic of)",2008,0.39659
+"Iran (Islamic Republic of)",2009,0.15758
+"Ireland",2001,1.64032
+"Ireland",2002,1.53351
+"Ireland",2003,1.53567
+"Ireland",2004,1.31943
+"Ireland",2005,1.85292
+"Ireland",2006,1.8829
+"Ireland",2007,1.83482
+"Ireland",2008,3.63304
+"Ireland",2009,2.42029
+"Ireland",2010,0.8393
+"Ireland",2011,0.81889
+"Ireland",2012,1.29414
+"Ireland",2013,0.95922
+"Ireland",2014,0.8436
+"Ireland",2015,1.18246
+"Ireland",2016,1.15613
+"Israel",2001,0.51819
+"Israel",2002,0.44391
+"Israel",2003,0.4752
+"Israel",2004,0.3745
+"Israel",2005,0.2807
+"Israel",2006,0.30932
+"Israel",2007,0.4012
+"Israel",2008,0.29358
+"Israel",2009,0.24599
+"Israel",2010,0.27225
+"Israel",2011,0.26772
+"Israel",2012,0.4111
+"Israel",2013,0.35349
+"Israel",2014,0.4865
+"Israel",2015,0.41035
+"Israel",2016,0.31723
+"Italy",2001,0.5194
+"Italy",2002,0.5655
+"Italy",2003,0.35569
+"Italy",2004,0.32871
+"Italy",2005,0.27115
+"Italy",2006,0.43333
+"Italy",2007,0.38038
+"Italy",2008,0.32661
+"Italy",2009,0.33952
+"Italy",2010,0.3661
+"Italy",2011,0.3582
+"Italy",2012,0.23841
+"Italy",2013,0.20138
+"Italy",2014,0.27214
+"Italy",2015,0.17177
+"Italy",2016,0.226
+"Jamaica",2001,0.17517
+"Jamaica",2002,0.16292
+"Jamaica",2003,0.23862
+"Jamaica",2004,0.19073
+"Jamaica",2005,0.24056
+"Jamaica",2006,0.18819
+"Jamaica",2007,0.2415
+"Jamaica",2008,0.29693
+"Jamaica",2009,0.27593
+"Jamaica",2010,0.27186
+"Jamaica",2011,0.19317
+"Jamaica",2012,0.27775
+"Jamaica",2013,0.27674
+"Jordan",2012,0.18014
+"Jordan",2013,0.17289
+"Jordan",2014,0.16133
+"Jordan",2015,0.1474
+"Jordan",2016,0.1383
+"Kazakhstan",2001,0.44651
+"Kazakhstan",2002,0.54581
+"Kazakhstan",2003,0.69878
+"Kazakhstan",2004,0.87202
+"Kazakhstan",2005,0.57596
+"Kazakhstan",2006,0.71082
+"Kazakhstan",2007,0.71784
+"Kazakhstan",2008,0.89196
+"Kazakhstan",2009,0.76745
+"Kazakhstan",2010,1.03488
+"Kazakhstan",2011,0.75733
+"Kazakhstan",2012,0.89551
+"Kazakhstan",2013,0.65814
+"Kazakhstan",2014,0.53794
+"Kazakhstan",2015,0.50872
+"Kazakhstan",2016,0.41288
+"Kazakhstan",2017,0.37893
+"Kenya",2001,0.20065
+"Kenya",2002,0.224
+"Kenya",2003,0.20609
+"Kenya",2004,0.19623
+"Kenya",2005,0.18544
+"Kenya",2006,0.13593
+"Kenya",2007,0.16606
+"Kenya",2008,0.14325
+"Kenya",2009,0.16735
+"Kenya",2010,0.15772
+"Kenya",2011,0.19336
+"Kenya",2012,0.13731
+"Kenya",2013,0.12335
+"Kenya",2014,0.09823
+"Kenya",2015,0.0505
+"Kenya",2016,0.04794
+"Kenya",2017,0.05607
+"Kuwait",2001,1.35925
+"Kuwait",2002,1.3223
+"Kuwait",2003,1.3249
+"Kuwait",2004,1.82835
+"Kuwait",2005,2.19247
+"Kuwait",2012,1.46509
+"Kuwait",2013,1.72986
+"Kuwait",2014,1.12606
+"Kuwait",2015,0.94369
+"Kyrgyzstan",2001,0.13417
+"Kyrgyzstan",2006,0.15715
+"Kyrgyzstan",2007,0.14146
+"Kyrgyzstan",2008,0.12883
+"Kyrgyzstan",2009,0.12968
+"Kyrgyzstan",2010,0.11684
+"Kyrgyzstan",2011,0.1086
+"Kyrgyzstan",2014,0.10254
+"Kyrgyzstan",2015,0.12744
+"Kyrgyzstan",2016,0.13307
+"Landlocked developing countries (LLDCs)",2001,0.22969
+"Landlocked developing countries (LLDCs)",2002,0.28591
+"Landlocked developing countries (LLDCs)",2003,0.26826
+"Landlocked developing countries (LLDCs)",2004,0.30399
+"Landlocked developing countries (LLDCs)",2005,0.33107
+"Landlocked developing countries (LLDCs)",2006,0.38052
+"Landlocked developing countries (LLDCs)",2007,0.38629
+"Landlocked developing countries (LLDCs)",2008,0.42026
+"Landlocked developing countries (LLDCs)",2009,0.38081
+"Landlocked developing countries (LLDCs)",2010,0.3837
+"Landlocked developing countries (LLDCs)",2011,0.42242
+"Landlocked developing countries (LLDCs)",2012,0.34329
+"Landlocked developing countries (LLDCs)",2013,0.33441
+"Landlocked developing countries (LLDCs)",2014,0.33653
+"Landlocked developing countries (LLDCs)",2015,0.35
+"Landlocked developing countries (LLDCs)",2016,0.34158
+"Landlocked developing countries (LLDCs)",2017,0.38231
+"Latin America and the Caribbean",2001,0.27463
+"Latin America and the Caribbean",2002,0.22415
+"Latin America and the Caribbean",2003,0.2263
+"Latin America and the Caribbean",2004,0.21576
+"Latin America and the Caribbean",2005,0.22519
+"Latin America and the Caribbean",2006,0.23466
+"Latin America and the Caribbean",2007,0.31295
+"Latin America and the Caribbean",2008,0.39157
+"Latin America and the Caribbean",2009,0.19672
+"Latin America and the Caribbean",2010,0.17988
+"Latin America and the Caribbean",2011,0.14146
+"Latin America and the Caribbean",2012,0.18893
+"Latin America and the Caribbean",2013,0.24374
+"Latin America and the Caribbean",2014,0.23797
+"Latin America and the Caribbean",2015,0.33179
+"Latin America and the Caribbean",2016,0.29782
+"Latin America and the Caribbean",2017,0.26368
+"Latvia",2007,1.2724
+"Latvia",2008,2.34996
+"Latvia",2009,1.54729
+"Latvia",2010,1.4646
+"Latvia",2011,0.59448
+"Latvia",2012,0.90962
+"Latvia",2013,0.62948
+"Latvia",2014,0.71522
+"Latvia",2015,0.45433
+"Latvia",2016,0.59697
+"Least Developed Countries (LDCs)",2001,0.16379
+"Least Developed Countries (LDCs)",2002,0.1718
+"Least Developed Countries (LDCs)",2003,0.14263
+"Least Developed Countries (LDCs)",2004,0.18137
+"Least Developed Countries (LDCs)",2005,0.24252
+"Least Developed Countries (LDCs)",2006,0.23434
+"Least Developed Countries (LDCs)",2007,0.25513
+"Least Developed Countries (LDCs)",2008,0.25555
+"Least Developed Countries (LDCs)",2009,0.24
+"Least Developed Countries (LDCs)",2010,0.15016
+"Least Developed Countries (LDCs)",2011,0.24449
+"Least Developed Countries (LDCs)",2012,0.22121
+"Least Developed Countries (LDCs)",2013,0.2164
+"Least Developed Countries (LDCs)",2014,0.2006
+"Least Developed Countries (LDCs)",2015,0.22532
+"Least Developed Countries (LDCs)",2016,0.24784
+"Least Developed Countries (LDCs)",2017,0.26302
+"Lebanon",2001,0.06348
+"Lebanon",2002,0.09107
+"Lebanon",2003,0.07206
+"Lebanon",2004,0.10108
+"Lebanon",2005,0.08601
+"Lebanon",2006,0.0472
+"Lebanon",2007,0.05207
+"Lebanon",2008,0.05357
+"Lebanon",2009,0.06012
+"Lebanon",2014,0.07661
+"Lebanon",2015,0.13503
+"Lebanon",2016,0.16713
+"Lesotho",2001,0.48748
+"Lesotho",2002,0.57373
+"Lesotho",2003,0.60686
+"Lesotho",2004,0.6324
+"Lesotho",2005,0.58741
+"Lesotho",2006,0.53333
+"Lesotho",2007,0.63974
+"Lesotho",2008,0.62379
+"Lesotho",2009,0.51877
+"Liberia",2005,0.01444
+"Liberia",2006,0.0353
+"Liberia",2007,0.06095
+"Liberia",2008,0.07101
+"Liberia",2009,0.04467
+"Liberia",2010,0.0427
+"Liberia",2011,0.03509
+"Liberia",2012,0.03522
+"Lithuania",2004,1.14461
+"Lithuania",2005,0.97731
+"Lithuania",2006,1.16113
+"Lithuania",2007,1.38068
+"Lithuania",2008,1.21697
+"Lithuania",2009,1.74132
+"Lithuania",2010,1.22908
+"Lithuania",2011,0.90024
+"Lithuania",2012,0.77098
+"Lithuania",2013,0.8207
+"Lithuania",2014,0.85991
+"Lithuania",2015,1.00983
+"Lithuania",2016,0.96642
+"Luxembourg",2001,2.34005
+"Luxembourg",2002,1.81241
+"Luxembourg",2003,2.99119
+"Luxembourg",2004,2.57801
+"Luxembourg",2005,3.57975
+"Luxembourg",2006,3.58276
+"Luxembourg",2007,3.05099
+"Luxembourg",2008,3.43386
+"Luxembourg",2009,5.19663
+"Luxembourg",2010,4.98297
+"Luxembourg",2011,6.21692
+"Luxembourg",2012,3.91725
+"Luxembourg",2013,4.35917
+"Luxembourg",2014,3.21673
+"Luxembourg",2015,4.41278
+"Luxembourg",2016,3.43772
+"Luxembourg",2017,2.97334
+"Madagascar",2001,0.33536
+"Madagascar",2002,0.12588
+"Madagascar",2003,0.21378
+"Madagascar",2004,0.24607
+"Madagascar",2005,0.32688
+"Madagascar",2006,0.21528
+"Madagascar",2007,0.24378
+"Madagascar",2008,0.24588
+"Malawi",2001,0.12737
+"Malawi",2002,0.17897
+"Malawi",2003,0.19353
+"Malawi",2004,0.20052
+"Malawi",2005,0.33115
+"Malawi",2006,0.20749
+"Malawi",2007,0.63497
+"Malawi",2008,0.56405
+"Malawi",2009,0.56793
+"Malawi",2010,0.56667
+"Malawi",2011,0.48655
+"Malawi",2012,0.40665
+"Malawi",2013,0.61824
+"Malawi",2014,0.56135
+"Malawi",2015,0.68071
+"Malawi",2016,0.53727
+"Malaysia",2001,0.35741
+"Malaysia",2002,0.30572
+"Malaysia",2003,0.32143
+"Malaysia",2004,0.4106
+"Malaysia",2005,0.40861
+"Malaysia",2006,0.60583
+"Malaysia",2007,0.37431
+"Malaysia",2008,0.47692
+"Malaysia",2009,0.52766
+"Malaysia",2010,0.31555
+"Malaysia",2011,0.22715
+"Malaysia",2012,0.2567
+"Malaysia",2013,0.33201
+"Malaysia",2014,0.36323
+"Malaysia",2015,0.36408
+"Malaysia",2016,0.33191
+"Malaysia",2017,0.29338
+"Maldives",2001,0.21797
+"Maldives",2002,0.09496
+"Maldives",2003,0.13888
+"Maldives",2004,0.11941
+"Maldives",2005,0.13908
+"Maldives",2006,0.24033
+"Maldives",2007,0.35049
+"Maldives",2008,0.22472
+"Maldives",2009,0.09804
+"Maldives",2010,0.23679
+"Maldives",2011,0.13687
+"Maldives",2012,0.01178
+"Maldives",2015,0.03521
+"Maldives",2016,0.02426
+"Maldives",2017,0.02028
+"Mali",2001,0.43626
+"Mali",2002,0.4989
+"Mali",2003,0.41603
+"Mali",2004,0.40238
+"Mali",2005,0.56308
+"Mali",2006,0.72143
+"Mali",2007,0.51634
+"Mali",2008,0.61899
+"Mali",2009,0.33309
+"Mali",2011,0.39201
+"Malta",2001,0.64237
+"Malta",2002,0.72525
+"Malta",2003,0.79403
+"Malta",2004,1.20073
+"Malta",2005,1.29287
+"Malta",2006,1.22824
+"Malta",2007,1.1613
+"Malta",2008,1.49016
+"Malta",2009,1.29549
+"Malta",2010,1.19297
+"Malta",2011,1.12226
+"Malta",2012,1.10753
+"Malta",2013,1.05385
+"Malta",2014,1.08478
+"Malta",2015,1.2013
+"Malta",2016,1.04587
+"Marshall Islands",2008,0.12822
+"Marshall Islands",2009,0.1721
+"Marshall Islands",2010,0.15796
+"Marshall Islands",2011,0.12415
+"Marshall Islands",2012,0.17849
+"Marshall Islands",2013,0.12039
+"Marshall Islands",2014,0.17836
+"Marshall Islands",2015,0.17971
+"Marshall Islands",2016,0.16583
+"Marshall Islands",2017,0.10217
+"Mauritius",2001,0.78028
+"Mauritius",2002,0.77677
+"Mauritius",2003,0.676
+"Mauritius",2004,0.76903
+"Mauritius",2005,0.77622
+"Mauritius",2006,0.59323
+"Mauritius",2007,0.6036
+"Mauritius",2008,1.39641
+"Mauritius",2009,1.05116
+"Mauritius",2010,1.09999
+"Mauritius",2011,0.74029
+"Mauritius",2012,0.73032
+"Mauritius",2013,0.74393
+"Mauritius",2014,0.70649
+"Mauritius",2015,0.71647
+"Mauritius",2016,0.70437
+"Mauritius",2017,0.6397
+"Melanesia",2001,0.10108
+"Melanesia",2002,0.06872
+"Melanesia",2005,0.23307
+"Melanesia",2006,0.21519
+"Melanesia",2007,0.22952
+"Melanesia",2008,0.21935
+"Melanesia",2009,0.22056
+"Melanesia",2010,0.2312
+"Melanesia",2011,0.21841
+"Melanesia",2012,0.2753
+"Melanesia",2013,0.33888
+"Melanesia",2014,0.28887
+"Melanesia",2015,0.34261
+"Melanesia",2016,0.35088
+"Mexico",2013,0.8979
+"Mexico",2014,0.90023
+"Mexico",2015,0.81104
+"Mexico",2016,0.68637
+"Mexico",2017,0.50672
+"Micronesia",2008,0.13197
+"Micronesia",2009,0.16519
+"Micronesia",2010,0.15291
+"Micronesia",2011,0.12661
+"Micronesia",2012,0.16266
+"Micronesia",2013,0.12007
+"Micronesia",2014,0.16849
+"Micronesia",2015,0.20128
+"Micronesia",2016,0.16283
+"Micronesia",2017,0.13861
+"Micronesia (Federated States of)",2016,0.21436
+"Micronesia (Federated States of)",2017,0.20812
+"Middle Africa",2001,0.15033
+"Middle Africa",2002,0.08861
+"Middle Africa",2003,0.10404
+"Middle Africa",2004,0.1993
+"Middle Africa",2005,0.32705
+"Middle Africa",2006,0.31297
+"Middle Africa",2007,0.56331
+"Middle Africa",2008,0.4194
+"Middle Africa",2009,0.14663
+"Middle Africa",2010,0.13768
+"Middle Africa",2011,0.19026
+"Middle Africa",2012,0.22273
+"Middle Africa",2013,0.17518
+"Middle Africa",2014,0.15614
+"Middle Africa",2015,0.12236
+"Middle Africa",2016,0.13251
+"Middle Africa",2017,0.23696
+"Mongolia",2001,0.19937
+"Mongolia",2002,0.23972
+"Mongolia",2010,0.47441
+"Mongolia",2011,0.69755
+"Mongolia",2012,0.17966
+"Mongolia",2015,0.11824
+"Montenegro",2006,0.08179
+"Montenegro",2007,0.09642
+"Montenegro",2008,0.11992
+"Montenegro",2009,0.09647
+"Montenegro",2010,0.09262
+"Montenegro",2011,0.07787
+"Montenegro",2012,0.08629
+"Montenegro",2013,0.06695
+"Montenegro",2014,0.06488
+"Montenegro",2015,0.07538
+"Morocco",2006,0.0298
+"Morocco",2007,0.03343
+"Morocco",2008,0.02671
+"Morocco",2009,0.02023
+"Morocco",2010,0.02414
+"Morocco",2011,0.02001
+"Morocco",2012,0.01472
+"Mozambique",2001,0.27425
+"Mozambique",2002,0.26791
+"Mozambique",2003,0.19934
+"Mozambique",2004,0.17983
+"Mozambique",2005,0.19794
+"Mozambique",2006,0.18067
+"Mozambique",2007,0.14793
+"Mozambique",2008,0.14023
+"Mozambique",2009,0.19535
+"Mozambique",2010,0.17
+"Mozambique",2011,0.13572
+"Mozambique",2012,0.05168
+"Mozambique",2013,0.06775
+"Mozambique",2014,0.06231
+"Mozambique",2015,0.0846
+"Mozambique",2016,0.0631
+"Myanmar",2013,0.10413
+"Myanmar",2014,0.12171
+"Myanmar",2015,0.12793
+"Myanmar",2016,0.14534
+"Myanmar",2017,0.10383
+"Namibia",2001,0.53139
+"Namibia",2002,0.51026
+"Namibia",2003,0.47535
+"Namibia",2004,0.52181
+"Namibia",2005,0.48546
+"Namibia",2006,0.44142
+"Namibia",2007,0.54635
+"Namibia",2008,0.34213
+"Namibia",2009,0.40393
+"Namibia",2010,0.38009
+"Namibia",2011,0.49067
+"Namibia",2012,0.40135
+"Namibia",2013,0.44132
+"Namibia",2014,0.33376
+"Namibia",2015,0.34694
+"Namibia",2016,0.72998
+"Namibia",2017,0.57416
+"Nepal",2002,0.16339
+"Nepal",2003,0.13877
+"Nepal",2004,0.13986
+"Nepal",2005,0.24323
+"Nepal",2006,0.14738
+"Nepal",2007,0.1374
+"Nepal",2008,0.13563
+"Nepal",2009,0.21903
+"Nepal",2010,0.26008
+"Nepal",2011,0.31883
+"Nepal",2012,0.23666
+"Nepal",2013,0.25513
+"Nepal",2014,0.30729
+"Nepal",2015,0.30193
+"Nepal",2016,0.32656
+"Nepal",2017,0.39077
+"Netherlands",2001,0.56956
+"Netherlands",2002,0.4947
+"Netherlands",2003,0.54791
+"Netherlands",2004,0.46532
+"Netherlands",2005,0.40995
+"Netherlands",2006,0.42582
+"Netherlands",2007,0.41115
+"Netherlands",2008,0.4519
+"Netherlands",2009,0.44326
+"Netherlands",2010,0.37971
+"Netherlands",2011,0.46393
+"Netherlands",2012,0.41657
+"Netherlands",2013,0.41504
+"Netherlands",2014,0.36228
+"Netherlands",2015,0.31888
+"Netherlands",2016,0.32574
+"Netherlands",2017,0.20456
+"New Zealand",2004,0.26137
+"New Zealand",2005,0.30621
+"Nigeria",2003,0.03946
+"Nigeria",2004,0.12629
+"Nigeria",2005,0.15651
+"Nigeria",2006,0.2109
+"Nigeria",2007,0.20338
+"Nigeria",2008,0.20767
+"Nigeria",2009,0.16306
+"Nigeria",2010,0.10762
+"Nigeria",2011,0.10027
+"Nigeria",2012,0.09639
+"Nigeria",2013,0.089
+"Northern Africa",2001,1.04803
+"Northern Africa",2002,1.13935
+"Northern Africa",2003,0.95494
+"Northern Africa",2004,0.36813
+"Northern Africa",2005,0.25996
+"Northern Africa",2006,0.26383
+"Northern Africa",2007,0.20908
+"Northern Africa",2008,0.30855
+"Northern Africa",2009,0.22424
+"Northern Africa",2010,0.14437
+"Northern Africa",2011,0.12568
+"Northern Africa",2012,0.16639
+"Northern Africa",2013,0.16831
+"Northern Africa",2014,0.14056
+"Northern Africa",2015,0.1294
+"Northern Africa",2016,0.1143
+"Northern Africa",2017,0.12029
+"Northern Africa (exc. Sudan)",2001,1.04803
+"Northern Africa (exc. Sudan)",2002,1.13935
+"Northern Africa (exc. Sudan)",2003,0.95494
+"Northern Africa (exc. Sudan)",2004,0.36813
+"Northern Africa (exc. Sudan)",2005,0.25996
+"Northern Africa (exc. Sudan)",2006,0.26383
+"Northern Africa (exc. Sudan)",2007,0.20908
+"Northern Africa (exc. Sudan)",2008,0.30855
+"Northern Africa (exc. Sudan)",2009,0.22424
+"Northern Africa (exc. Sudan)",2010,0.14437
+"Northern Africa (exc. Sudan)",2011,0.12568
+"Northern Africa (exc. Sudan)",2012,0.16639
+"Northern Africa (exc. Sudan)",2013,0.16831
+"Northern Africa (exc. Sudan)",2014,0.14056
+"Northern Africa (exc. Sudan)",2015,0.1294
+"Northern Africa (exc. Sudan)",2016,0.1143
+"Northern Africa (exc. Sudan)",2017,0.12029
+"Northern Africa and Western Asia",2001,0.58008
+"Northern Africa and Western Asia",2002,0.5707
+"Northern Africa and Western Asia",2003,0.51911
+"Northern Africa and Western Asia",2004,0.43986
+"Northern Africa and Western Asia",2005,0.32925
+"Northern Africa and Western Asia",2006,0.35736
+"Northern Africa and Western Asia",2007,0.39246
+"Northern Africa and Western Asia",2008,0.40937
+"Northern Africa and Western Asia",2009,0.34999
+"Northern Africa and Western Asia",2010,0.31176
+"Northern Africa and Western Asia",2011,0.32234
+"Northern Africa and Western Asia",2012,0.40743
+"Northern Africa and Western Asia",2013,0.45262
+"Northern Africa and Western Asia",2014,0.44695
+"Northern Africa and Western Asia",2015,0.40727
+"Northern Africa and Western Asia",2016,0.38475
+"Northern Africa and Western Asia",2017,0.45423
+"Northern America",2009,1.05063
+"Northern America",2010,1.09927
+"Northern America",2011,0.90804
+"Northern America",2012,0.89689
+"Northern Europe",2001,1.0552
+"Northern Europe",2002,0.86521
+"Northern Europe",2003,0.84358
+"Northern Europe",2004,0.79916
+"Northern Europe",2005,1.0588
+"Northern Europe",2006,1.01333
+"Northern Europe",2007,0.91408
+"Northern Europe",2008,0.93903
+"Northern Europe",2009,0.87341
+"Northern Europe",2010,0.67463
+"Northern Europe",2011,0.70743
+"Northern Europe",2012,0.67694
+"Northern Europe",2013,0.6398
+"Northern Europe",2014,0.6074
+"Northern Europe",2015,0.6105
+"Northern Europe",2016,0.60079
+"Northern Europe",2017,0.5543
+"Norway",2001,1.89326
+"Norway",2002,1.74541
+"Norway",2003,1.90613
+"Norway",2004,1.61741
+"Norway",2005,1.44553
+"Norway",2006,1.35857
+"Norway",2007,1.47677
+"Norway",2008,1.67424
+"Norway",2009,1.41429
+"Norway",2010,1.17373
+"Norway",2011,1.29837
+"Norway",2012,1.5055
+"Norway",2013,1.29353
+"Norway",2014,1.11345
+"Norway",2015,0.99951
+"Norway",2016,0.72113
+"Norway",2017,0.73847
+"Oceania",2001,0.23232
+"Oceania",2002,0.28412
+"Oceania",2003,0.31623
+"Oceania",2004,0.31558
+"Oceania",2005,0.2984
+"Oceania",2006,0.49535
+"Oceania",2007,0.44544
+"Oceania",2008,0.57148
+"Oceania",2009,0.36553
+"Oceania",2010,0.36271
+"Oceania",2011,0.30246
+"Oceania",2012,0.32703
+"Oceania",2013,0.25948
+"Oceania",2014,0.23789
+"Oceania",2015,0.22195
+"Oceania",2016,0.18817
+"Oceania",2017,0.2141
+"Oceania (exc. Australia and New Zealand)",2001,0.10108
+"Oceania (exc. Australia and New Zealand)",2002,0.06872
+"Oceania (exc. Australia and New Zealand)",2005,0.23978
+"Oceania (exc. Australia and New Zealand)",2006,0.22491
+"Oceania (exc. Australia and New Zealand)",2007,0.24162
+"Oceania (exc. Australia and New Zealand)",2008,0.21083
+"Oceania (exc. Australia and New Zealand)",2009,0.21276
+"Oceania (exc. Australia and New Zealand)",2010,0.2181
+"Oceania (exc. Australia and New Zealand)",2011,0.20106
+"Oceania (exc. Australia and New Zealand)",2012,0.25102
+"Oceania (exc. Australia and New Zealand)",2013,0.29253
+"Oceania (exc. Australia and New Zealand)",2014,0.25286
+"Oceania (exc. Australia and New Zealand)",2015,0.32078
+"Oceania (exc. Australia and New Zealand)",2016,0.27221
+"Oceania (exc. Australia and New Zealand)",2017,0.32553
+"Oman",2001,0.33033
+"Oman",2002,0.34936
+"Oman",2003,0.37782
+"Oman",2004,0.41649
+"Oman",2005,0.45367
+"Oman",2006,0.38242
+"Oman",2007,0.36588
+"Oman",2008,0.452
+"Oman",2009,0.52497
+"Oman",2010,0.53835
+"Oman",2011,0.3973
+"Oman",2012,0.32569
+"Oman",2013,0.31369
+"Oman",2014,0.49216
+"Pakistan",2001,0.02256
+"Pakistan",2002,0.02818
+"Pakistan",2003,0.03195
+"Pakistan",2004,0.08983
+"Pakistan",2005,0.01244
+"Pakistan",2006,0.15354
+"Pakistan",2007,0.18721
+"Pakistan",2008,0.31692
+"Pakistan",2009,0.19359
+"Pakistan",2010,0.13141
+"Pakistan",2011,0.04114
+"Pakistan",2012,0.05033
+"Pakistan",2013,0.08067
+"Pakistan",2014,0.026
+"Pakistan",2015,0.02761
+"Pakistan",2016,0.04845
+"Palau",2008,0.1331
+"Palau",2009,0.14117
+"Palau",2010,0.14012
+"Palau",2011,0.14564
+"Palau",2012,0.11549
+"Palau",2013,0.10732
+"Palau",2014,0.11495
+"Palau",2015,0.1591
+"Palau",2016,0.16224
+"Palau",2017,0.16735
+"Panama",2001,0.3924
+"Panama",2002,0.24211
+"Panama",2003,0.18975
+"Panama",2004,0.41646
+"Panama",2005,0.27185
+"Panama",2006,0.33872
+"Panama",2007,0.39105
+"Panama",2008,0.34414
+"Panama",2009,0.33422
+"Panama",2010,0.46399
+"Panama",2011,0.44951
+"Panama",2012,0.36626
+"Panama",2013,0.39376
+"Panama",2014,0.57997
+"Panama",2015,0.68903
+"Panama",2016,0.66626
+"Panama",2017,0.73272
+"Papua New Guinea",2001,0.10108
+"Papua New Guinea",2002,0.06872
+"Paraguay",2009,0.15359
+"Paraguay",2010,0.15094
+"Paraguay",2011,0.10463
+"Paraguay",2012,0.11167
+"Paraguay",2013,0.08747
+"Paraguay",2014,0.10019
+"Paraguay",2015,0.13652
+"Paraguay",2016,0.1541
+"Paraguay",2017,0.13812
+"Philippines",2001,0.33206
+"Philippines",2002,0.27473
+"Philippines",2003,0.31416
+"Philippines",2004,0.24672
+"Philippines",2005,0.3315
+"Philippines",2006,0.29954
+"Philippines",2007,0.4158
+"Philippines",2008,0.54198
+"Philippines",2009,0.43403
+"Philippines",2010,0.47544
+"Philippines",2011,0.27867
+"Philippines",2012,0.40745
+"Philippines",2013,0.41876
+"Philippines",2014,0.37944
+"Philippines",2015,0.40278
+"Philippines",2016,0.41959
+"Philippines",2017,0.33501
+"Poland",2001,0.76506
+"Poland",2002,0.6366
+"Poland",2003,0.98305
+"Poland",2004,0.76809
+"Poland",2005,1.1758
+"Poland",2006,1.25058
+"Poland",2007,0.96623
+"Poland",2008,1.29993
+"Poland",2009,1.15888
+"Poland",2010,1.00818
+"Poland",2011,0.85489
+"Poland",2012,0.83874
+"Poland",2013,0.67193
+"Poland",2014,0.63161
+"Poland",2015,0.68805
+"Poland",2016,0.71293
+"Poland",2017,0.58955
+"Polynesia",2005,0.44482
+"Polynesia",2006,0.57494
+"Polynesia",2007,0.62894
+"Polynesia",2008,0.8428
+"Polynesia",2009,0.644
+"Polynesia",2010,0.28027
+"Polynesia",2011,0.26103
+"Polynesia",2012,0.30231
+"Polynesia",2013,0.28207
+"Polynesia",2014,0.1961
+"Polynesia",2015,0.38393
+"Polynesia",2016,0.22389
+"Polynesia",2017,0.65052
+"Portugal",2001,0.8447
+"Portugal",2002,0.78521
+"Portugal",2003,0.72172
+"Portugal",2004,0.6633
+"Portugal",2005,0.66673
+"Portugal",2006,0.5427
+"Portugal",2007,0.45254
+"Portugal",2008,0.40175
+"Portugal",2009,0.46185
+"Portugal",2010,0.45412
+"Portugal",2011,0.45202
+"Portugal",2012,0.41727
+"Portugal",2013,0.34569
+"Portugal",2014,0.46186
+"Portugal",2015,0.3812
+"Portugal",2016,0.24457
+"Qatar",2004,25.77509
+"Qatar",2005,14.21054
+"Republic of Korea",2001,1.54418
+"Republic of Korea",2002,1.54426
+"Republic of Korea",2003,1.56098
+"Republic of Korea",2004,1.39491
+"Republic of Korea",2005,1.58299
+"Republic of Korea",2006,1.89281
+"Republic of Korea",2007,1.9617
+"Republic of Korea",2008,2.08427
+"Republic of Korea",2009,1.81103
+"Republic of Korea",2010,1.99951
+"Republic of Korea",2011,2.08265
+"Republic of Korea",2012,1.91292
+"Republic of Korea",2013,1.91129
+"Republic of Korea",2014,1.75208
+"Republic of Korea",2015,1.97915
+"Republic of Korea",2016,2.09655
+"Republic of Moldova",2002,0.1104
+"Republic of Moldova",2003,0.12475
+"Republic of Moldova",2004,0.1804
+"Republic of Moldova",2005,0.3871
+"Republic of Moldova",2006,0.38816
+"Republic of Moldova",2007,0.8075
+"Republic of Moldova",2008,0.79466
+"Republic of Moldova",2009,0.69828
+"Republic of Moldova",2010,0.36989
+"Republic of Moldova",2011,0.33785
+"Republic of Moldova",2012,0.51284
+"Republic of Moldova",2013,0.46132
+"Republic of Moldova",2014,0.37987
+"Republic of Moldova",2015,0.5977
+"Republic of Moldova",2016,0.33263
+"Republic of Moldova",2017,0.37244
+"Romania",2011,0.64121
+"Romania",2012,0.74957
+"Romania",2013,0.60452
+"Romania",2014,0.68641
+"Romania",2015,0.6956
+"Romania",2016,0.62173
+"Russian Federation",2001,0.32336
+"Russian Federation",2002,0.2818
+"Russian Federation",2003,0.22309
+"Russian Federation",2004,0.25001
+"Russian Federation",2005,0.24278
+"Russian Federation",2008,0.17891
+"Russian Federation",2009,0.2084
+"Russian Federation",2010,0.10639
+"Russian Federation",2011,0.43038
+"Russian Federation",2012,0.40205
+"Russian Federation",2013,0.53879
+"Russian Federation",2014,0.40916
+"Russian Federation",2015,0.30559
+"Russian Federation",2016,0.37548
+"Russian Federation",2017,0.42821
+"Rwanda",2010,0.13875
+"Rwanda",2011,0.22335
+"Rwanda",2012,0.16058
+"Rwanda",2016,0.10075
+"Rwanda",2017,0.09778
+"Saint Vincent and the Grenadines",2015,0.41279
+"Saint Vincent and the Grenadines",2016,0.32037
+"Saint Vincent and the Grenadines",2017,0.31034
+"Samoa",2010,0.22937
+"Samoa",2011,0.21775
+"Samoa",2012,0.21028
+"Samoa",2013,0.24529
+"Samoa",2014,0.1961
+"Samoa",2015,0.38393
+"Samoa",2016,0.22389
+"Samoa",2017,0.65052
+"San Marino",2002,33.6174
+"San Marino",2003,77.26172
+"San Marino",2004,74.52608
+"Sao Tome and Principe",2007,0.3607
+"Sao Tome and Principe",2008,0.78957
+"Sao Tome and Principe",2009,0.36528
+"Sao Tome and Principe",2010,0.29696
+"Serbia",2003,0.22726
+"Serbia",2004,0.35563
+"Serbia",2005,0.21511
+"Serbia",2006,0.2193
+"Serbia",2007,0.24554
+"Serbia",2008,0.24797
+"Serbia",2009,0.15687
+"Serbia",2010,0.22987
+"Serbia",2011,0.18094
+"Serbia",2012,0.29152
+"Seychelles",2006,1.23391
+"Seychelles",2007,1.86616
+"Seychelles",2008,0.30327
+"Seychelles",2010,0.6716
+"Seychelles",2011,0.33829
+"Seychelles",2012,0.31995
+"Seychelles",2013,0.66863
+"Seychelles",2014,0.68399
+"Seychelles",2015,1.10431
+"Seychelles",2016,1.29898
+"Singapore",2001,2.00305
+"Singapore",2002,3.30053
+"Singapore",2003,4.01931
+"Singapore",2004,3.79124
+"Singapore",2005,3.77718
+"Singapore",2006,3.59055
+"Singapore",2007,6.86939
+"Singapore",2008,5.47791
+"Singapore",2009,5.41839
+"Singapore",2010,6.69026
+"Singapore",2011,7.12024
+"Singapore",2012,8.44926
+"Singapore",2013,8.13198
+"Singapore",2014,7.72679
+"Singapore",2015,8.05596
+"Singapore",2016,10.32919
+"Singapore",2017,11.3635
+"Slovakia",2001,0.94682
+"Slovakia",2002,0.60836
+"Slovakia",2003,0.67328
+"Slovakia",2004,0.80072
+"Slovakia",2005,1.24472
+"Slovakia",2006,1.13093
+"Slovakia",2007,0.99728
+"Slovakia",2008,1.05523
+"Slovakia",2009,1.52239
+"Slovakia",2010,1.69564
+"Slovakia",2011,1.31635
+"Slovakia",2012,0.38176
+"Slovakia",2013,0.36789
+"Slovakia",2014,0.30264
+"Slovakia",2015,0.40611
+"Slovakia",2016,0.38965
+"Slovenia",2001,1.20525
+"Slovenia",2002,1.20172
+"Slovenia",2003,1.68235
+"Slovenia",2004,1.34112
+"Slovenia",2005,0.96942
+"Slovenia",2006,1.22354
+"Slovenia",2007,1.24215
+"Slovenia",2008,1.5301
+"Slovenia",2009,1.25729
+"Slovenia",2010,0.88863
+"Slovenia",2011,0.72788
+"Slovenia",2012,0.97609
+"Slovenia",2013,0.75384
+"Slovenia",2014,0.64744
+"Slovenia",2015,0.84693
+"Slovenia",2016,0.73889
+"Small island developing States (SIDS)",2001,0.4737
+"Small island developing States (SIDS)",2002,0.5127
+"Small island developing States (SIDS)",2003,0.82079
+"Small island developing States (SIDS)",2004,1.158
+"Small island developing States (SIDS)",2005,1.09022
+"Small island developing States (SIDS)",2006,0.96087
+"Small island developing States (SIDS)",2007,1.28524
+"Small island developing States (SIDS)",2008,1.11914
+"Small island developing States (SIDS)",2009,0.9386
+"Small island developing States (SIDS)",2010,1.00687
+"Small island developing States (SIDS)",2011,0.62064
+"Small island developing States (SIDS)",2012,0.69444
+"Small island developing States (SIDS)",2013,0.67641
+"Small island developing States (SIDS)",2014,0.61904
+"Small island developing States (SIDS)",2015,0.4495
+"Small island developing States (SIDS)",2016,0.53309
+"Small island developing States (SIDS)",2017,0.51507
+"Solomon Islands",2011,0.16009
+"Solomon Islands",2012,0.2131
+"Solomon Islands",2013,0.15681
+"Solomon Islands",2014,0.12656
+"Solomon Islands",2015,0.14172
+"South-Eastern Asia",2001,0.50059
+"South-Eastern Asia",2002,0.47731
+"South-Eastern Asia",2003,0.46874
+"South-Eastern Asia",2004,0.33791
+"South-Eastern Asia",2005,0.32513
+"South-Eastern Asia",2006,0.31588
+"South-Eastern Asia",2007,0.31702
+"South-Eastern Asia",2008,0.27527
+"South-Eastern Asia",2009,0.28248
+"South-Eastern Asia",2010,0.21751
+"South-Eastern Asia",2011,0.21679
+"South-Eastern Asia",2012,0.38595
+"South-Eastern Asia",2013,0.26093
+"South-Eastern Asia",2014,0.41766
+"South-Eastern Asia",2015,0.50455
+"South-Eastern Asia",2016,0.49531
+"South-Eastern Asia",2017,0.42332
+"South Africa",2001,0.55609
+"South Africa",2002,0.4624
+"South Africa",2003,0.6696
+"South Africa",2004,0.59236
+"South Africa",2005,0.86596
+"South Africa",2006,0.80144
+"South Africa",2007,0.91514
+"South Africa",2008,0.74723
+"South Africa",2009,0.61821
+"South Africa",2010,0.80328
+"South Africa",2011,0.75859
+"South Africa",2012,0.80135
+"South Africa",2013,0.78601
+"South Africa",2014,0.75342
+"South Africa",2015,0.70126
+"South Africa",2016,0.60307
+"South America",2001,0.25408
+"South America",2002,0.17083
+"South America",2003,0.1584
+"South America",2004,0.17829
+"South America",2005,0.18347
+"South America",2006,0.19491
+"South America",2007,0.2857
+"South America",2008,0.39218
+"South America",2009,0.18084
+"South America",2010,0.15188
+"South America",2011,0.11187
+"South America",2012,0.15368
+"South America",2013,0.11438
+"South America",2014,0.11116
+"South America",2015,0.23762
+"South America",2016,0.22426
+"South America",2017,0.21498
+"Southern Africa",2001,0.59363
+"Southern Africa",2002,0.49916
+"Southern Africa",2003,0.68501
+"Southern Africa",2004,0.62077
+"Southern Africa",2005,0.88957
+"Southern Africa",2006,0.83494
+"Southern Africa",2007,0.90911
+"Southern Africa",2008,0.77699
+"Southern Africa",2009,0.70138
+"Southern Africa",2010,0.80146
+"Southern Africa",2011,0.77051
+"Southern Africa",2012,0.79951
+"Southern Africa",2013,0.80877
+"Southern Africa",2014,0.79145
+"Southern Africa",2015,0.76385
+"Southern Africa",2016,0.77142
+"Southern Africa",2017,0.74346
+"Southern Asia",2001,0.20006
+"Southern Asia",2002,0.21904
+"Southern Asia",2003,0.18631
+"Southern Asia",2004,0.24369
+"Southern Asia",2005,0.27364
+"Southern Asia",2006,0.32385
+"Southern Asia",2007,0.34846
+"Southern Asia",2008,0.51184
+"Southern Asia",2009,0.36849
+"Southern Asia",2010,0.39439
+"Southern Asia",2011,0.37292
+"Southern Asia",2012,0.33614
+"Southern Asia",2013,0.32793
+"Southern Asia",2014,0.31667
+"Southern Asia",2015,0.30311
+"Southern Asia",2016,0.29569
+"Southern Asia",2017,0.55918
+"Southern Europe",2001,0.43866
+"Southern Europe",2002,0.46112
+"Southern Europe",2003,0.34949
+"Southern Europe",2004,0.34471
+"Southern Europe",2005,0.31914
+"Southern Europe",2006,0.37459
+"Southern Europe",2007,0.36522
+"Southern Europe",2008,0.34622
+"Southern Europe",2009,0.32941
+"Southern Europe",2010,0.30553
+"Southern Europe",2011,0.31092
+"Southern Europe",2012,0.23082
+"Southern Europe",2013,0.19579
+"Southern Europe",2014,0.24232
+"Southern Europe",2015,0.20679
+"Southern Europe",2016,0.21923
+"Southern Europe",2017,0.19871
+"Spain",2001,0.20485
+"Spain",2002,0.20285
+"Spain",2003,0.21629
+"Spain",2004,0.2473
+"Spain",2005,0.26255
+"Spain",2006,0.318
+"Spain",2007,0.36222
+"Spain",2008,0.39592
+"Spain",2009,0.18948
+"Spain",2010,0.17325
+"Spain",2011,0.21982
+"Spain",2012,0.14239
+"Spain",2013,0.11912
+"Spain",2014,0.11229
+"Spain",2015,0.1227
+"Spain",2016,0.10881
+"Spain",2017,0.09134
+"Sri Lanka",2001,0.36443
+"Sri Lanka",2002,0.38176
+"Sri Lanka",2003,0.41638
+"Sri Lanka",2004,0.42138
+"Sri Lanka",2005,0.50734
+"Sri Lanka",2006,0.63785
+"Sri Lanka",2007,0.5693
+"Sri Lanka",2008,0.66283
+"Sri Lanka",2009,0.64869
+"Sri Lanka",2010,0.62731
+"Sri Lanka",2011,0.59939
+"Sri Lanka",2012,0.65441
+"Sri Lanka",2013,0.51529
+"Sri Lanka",2014,0.71701
+"Sri Lanka",2015,0.77261
+"Sri Lanka",2016,0.7548
+"Sri Lanka",2017,0.69479
+"State of Palestine",2005,0.14807
+"State of Palestine",2006,0.12336
+"State of Palestine",2007,0.1252
+"State of Palestine",2008,0.12604
+"State of Palestine",2009,0.1019
+"State of Palestine",2010,0.13582
+"State of Palestine",2011,0.12623
+"State of Palestine",2015,0.32196
+"State of Palestine",2016,0.32482
+"State of Palestine",2017,0.27631
+"Sub-Saharan Africa",2001,0.22848
+"Sub-Saharan Africa",2002,0.22748
+"Sub-Saharan Africa",2003,0.1521
+"Sub-Saharan Africa",2004,0.19322
+"Sub-Saharan Africa",2005,0.24868
+"Sub-Saharan Africa",2006,0.23646
+"Sub-Saharan Africa",2007,0.26188
+"Sub-Saharan Africa",2008,0.22789
+"Sub-Saharan Africa",2009,0.18336
+"Sub-Saharan Africa",2010,0.17425
+"Sub-Saharan Africa",2011,0.19158
+"Sub-Saharan Africa",2012,0.1724
+"Sub-Saharan Africa",2013,0.15684
+"Sub-Saharan Africa",2014,0.20835
+"Sub-Saharan Africa",2015,0.19219
+"Sub-Saharan Africa",2016,0.20545
+"Sub-Saharan Africa",2017,0.1957
+"Sub-Saharan Africa (inc. Sudan)",2001,0.22848
+"Sub-Saharan Africa (inc. Sudan)",2002,0.22748
+"Sub-Saharan Africa (inc. Sudan)",2003,0.1521
+"Sub-Saharan Africa (inc. Sudan)",2004,0.19322
+"Sub-Saharan Africa (inc. Sudan)",2005,0.24868
+"Sub-Saharan Africa (inc. Sudan)",2006,0.23646
+"Sub-Saharan Africa (inc. Sudan)",2007,0.26188
+"Sub-Saharan Africa (inc. Sudan)",2008,0.22789
+"Sub-Saharan Africa (inc. Sudan)",2009,0.18336
+"Sub-Saharan Africa (inc. Sudan)",2010,0.17425
+"Sub-Saharan Africa (inc. Sudan)",2011,0.19158
+"Sub-Saharan Africa (inc. Sudan)",2012,0.1724
+"Sub-Saharan Africa (inc. Sudan)",2013,0.15684
+"Sub-Saharan Africa (inc. Sudan)",2014,0.20835
+"Sub-Saharan Africa (inc. Sudan)",2015,0.19219
+"Sub-Saharan Africa (inc. Sudan)",2016,0.20545
+"Sub-Saharan Africa (inc. Sudan)",2017,0.1957
+"Sweden",2001,0.34413
+"Sweden",2002,0.38567
+"Sweden",2003,0.37964
+"Sweden",2004,0.34131
+"Sweden",2005,0.71737
+"Sweden",2006,0.53996
+"Sweden",2007,0.38114
+"Sweden",2008,0.44617
+"Sweden",2009,0.47549
+"Sweden",2010,0.41901
+"Sweden",2011,0.39873
+"Sweden",2012,0.42411
+"Sweden",2013,0.45572
+"Sweden",2014,0.45287
+"Sweden",2015,0.37325
+"Sweden",2016,0.41015
+"Sweden",2017,0.41203
+"Switzerland",2001,8.1353
+"Switzerland",2002,8.12524
+"Switzerland",2003,8.50399
+"Switzerland",2004,7.63487
+"Switzerland",2005,8.25756
+"Switzerland",2006,8.65934
+"Switzerland",2007,7.35405
+"Switzerland",2008,7.07192
+"Switzerland",2009,8.09055
+"Switzerland",2010,8.46381
+"Switzerland",2011,8.07633
+"Switzerland",2012,8.788
+"Switzerland",2013,8.07205
+"Switzerland",2014,7.78117
+"Switzerland",2015,8.42551
+"Switzerland",2016,8.06384
+"Syrian Arab Republic",2007,0.27523
+"Syrian Arab Republic",2008,0.21399
+"Syrian Arab Republic",2009,0.20674
+"Thailand",2001,0.8671
+"Thailand",2002,0.73742
+"Thailand",2003,0.72637
+"Thailand",2004,0.62109
+"Thailand",2005,0.56774
+"Thailand",2006,0.45209
+"Thailand",2007,0.6173
+"Thailand",2008,0.49849
+"Thailand",2009,0.51014
+"Thailand",2010,0.37151
+"Thailand",2011,0.17514
+"Thailand",2012,0.57965
+"Thailand",2013,0.59582
+"Thailand",2014,0.73876
+"Thailand",2015,0.84509
+"Thailand",2016,0.78497
+"Thailand",2017,0.66523
+"Timor-Leste",2008,1.17279
+"Timor-Leste",2009,0.95422
+"Timor-Leste",2010,0.37137
+"Timor-Leste",2011,0.3435
+"Timor-Leste",2012,0.40014
+"Timor-Leste",2013,0.46274
+"Timor-Leste",2014,0.40581
+"Timor-Leste",2015,0.24406
+"Togo",2012,0.24697
+"Togo",2013,0.27884
+"Togo",2015,0.23305
+"Togo",2016,0.20305
+"Trinidad and Tobago",2001,2.90717
+"Trinidad and Tobago",2002,2.75036
+"Trinidad and Tobago",2003,3.72808
+"Trinidad and Tobago",2004,4.94784
+"Trinidad and Tobago",2005,6.5137
+"Trinidad and Tobago",2006,5.72396
+"Trinidad and Tobago",2007,7.52962
+"Trinidad and Tobago",2008,5.40216
+"Trinidad and Tobago",2009,4.11186
+"Trinidad and Tobago",2010,4.05969
+"Trinidad and Tobago",2011,5.18728
+"Trinidad and Tobago",2012,5.87635
+"Trinidad and Tobago",2013,3.05018
+"Trinidad and Tobago",2014,2.46408
+"Tunisia",2001,1.04803
+"Tunisia",2002,1.13935
+"Tunisia",2003,0.95494
+"Tunisia",2004,0.7717
+"Tunisia",2005,0.71831
+"Tunisia",2006,0.70859
+"Tunisia",2007,0.68869
+"Tunisia",2008,0.69168
+"Tunisia",2009,0.6757
+"Tunisia",2010,0.72737
+"Tunisia",2011,0.60168
+"Tunisia",2012,0.59
+"Turkey",2006,0.49818
+"Turkey",2007,0.55785
+"Turkey",2008,0.57564
+"Turkey",2009,0.51295
+"Turkey",2010,0.44979
+"Turkey",2011,0.53509
+"Turkey",2012,0.57083
+"Turkey",2013,0.58768
+"Turkey",2014,0.66515
+"Turkey",2015,0.60704
+"Turkey",2016,0.60885
+"Turkey",2017,0.64048
+"Uganda",2001,0.14577
+"Uganda",2002,0.16697
+"Uganda",2003,0.1559
+"Uganda",2004,0.09288
+"Uganda",2005,0.11469
+"Uganda",2006,0.13321
+"Uganda",2007,0.17264
+"Uganda",2008,0.14824
+"Uganda",2009,0.13798
+"Uganda",2010,0.19541
+"Uganda",2011,0.13833
+"Uganda",2012,0.13121
+"Uganda",2013,0.18509
+"Uganda",2014,0.18037
+"Uganda",2015,0.16221
+"Uganda",2016,0.17047
+"Ukraine",2001,0.17936
+"Ukraine",2002,0.25125
+"Ukraine",2003,0.46622
+"Ukraine",2004,0.35987
+"Ukraine",2005,0.37317
+"Ukraine",2006,0.5117
+"Ukraine",2007,0.6172
+"Ukraine",2008,0.6016
+"Ukraine",2009,0.36945
+"Ukraine",2010,0.31881
+"Ukraine",2011,0.27393
+"Ukraine",2012,0.23891
+"Ukraine",2013,0.21342
+"Ukraine",2014,0.1321
+"Ukraine",2015,0.07095
+"Ukraine",2016,0.05479
+"Ukraine",2017,0.12952
+"United Arab Emirates",2012,0.04168
+"United Arab Emirates",2013,0.07057
+"United Arab Emirates",2014,0.04533
+"United Arab Emirates",2015,0.05485
+"United Kingdom of Great Britain and Northern Ireland",2001,1.25484
+"United Kingdom of Great Britain and Northern Ireland",2002,0.73279
+"United Kingdom of Great Britain and Northern Ireland",2003,0.68529
+"United Kingdom of Great Britain and Northern Ireland",2004,0.70675
+"United Kingdom of Great Britain and Northern Ireland",2005,1.02624
+"United Kingdom of Great Britain and Northern Ireland",2006,0.97609
+"United Kingdom of Great Britain and Northern Ireland",2007,0.87152
+"United Kingdom of Great Britain and Northern Ireland",2008,0.60318
+"United Kingdom of Great Britain and Northern Ireland",2009,0.64224
+"United Kingdom of Great Britain and Northern Ireland",2010,0.53158
+"United Kingdom of Great Britain and Northern Ireland",2011,0.61275
+"United Kingdom of Great Britain and Northern Ireland",2012,0.51759
+"United Kingdom of Great Britain and Northern Ireland",2013,0.46536
+"United Kingdom of Great Britain and Northern Ireland",2014,0.44417
+"United Kingdom of Great Britain and Northern Ireland",2015,0.44939
+"United Kingdom of Great Britain and Northern Ireland",2016,0.45512
+"United Republic of Tanzania",2001,0.09816
+"United Republic of Tanzania",2002,0.10207
+"United Republic of Tanzania",2003,0.17363
+"United Republic of Tanzania",2004,0.15185
+"United Republic of Tanzania",2005,0.1133
+"United Republic of Tanzania",2006,0.14931
+"United Republic of Tanzania",2007,0.11597
+"United Republic of Tanzania",2008,0.16186
+"United Republic of Tanzania",2009,0.1164
+"United Republic of Tanzania",2010,0.08176
+"United Republic of Tanzania",2011,0.06292
+"United Republic of Tanzania",2012,0.05372
+"United Republic of Tanzania",2013,0.06953
+"United Republic of Tanzania",2014,0.05884
+"United Republic of Tanzania",2015,0.03691
+"Uruguay",2003,0.14484
+"Uruguay",2004,0.1492
+"Uruguay",2005,0.25843
+"Uruguay",2006,0.17647
+"Uzbekistan",2011,0.81631
+"Uzbekistan",2012,0.68004
+"Uzbekistan",2013,0.61829
+"Uzbekistan",2014,0.59766
+"Uzbekistan",2015,0.93538
+"Uzbekistan",2016,0.67659
+"Vanuatu",2005,0.12011
+"Vanuatu",2006,0.11781
+"Vanuatu",2007,0.10355
+"Vanuatu",2008,0.0935
+"Vanuatu",2009,0.10116
+"Vanuatu",2010,0.10558
+"Vanuatu",2011,0.09374
+"Vanuatu",2012,0.15497
+"Viet Nam",2006,0.08743
+"Viet Nam",2007,0.0947
+"Viet Nam",2008,0.05532
+"Viet Nam",2009,0.19269
+"Viet Nam",2010,0.12221
+"Viet Nam",2011,0.13485
+"Viet Nam",2012,0.12069
+"Viet Nam",2013,0.20551
+"Viet Nam",2014,0.19019
+"Western Africa",2001,0.17289
+"Western Africa",2002,0.22113
+"Western Africa",2003,0.07052
+"Western Africa",2004,0.14334
+"Western Africa",2005,0.18214
+"Western Africa",2006,0.24111
+"Western Africa",2007,0.22006
+"Western Africa",2008,0.22534
+"Western Africa",2009,0.16246
+"Western Africa",2010,0.10859
+"Western Africa",2011,0.13071
+"Western Africa",2012,0.11761
+"Western Africa",2013,0.10107
+"Western Africa",2014,0.23549
+"Western Africa",2015,0.2197
+"Western Africa",2016,0.21898
+"Western Africa",2017,0.12106
+"Western Asia",2001,0.52845
+"Western Asia",2002,0.48686
+"Western Asia",2003,0.46326
+"Western Asia",2004,0.75069
+"Western Asia",2005,0.55772
+"Western Asia",2006,0.42152
+"Western Asia",2007,0.50855
+"Western Asia",2008,0.4691
+"Western Asia",2009,0.43684
+"Western Asia",2010,0.40759
+"Western Asia",2011,0.45331
+"Western Asia",2012,0.55249
+"Western Asia",2013,0.56458
+"Western Asia",2014,0.58651
+"Western Asia",2015,0.5508
+"Western Asia",2016,0.52857
+"Western Asia",2017,0.61399
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2001,0.33597
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2002,0.36837
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2003,0.38828
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2004,1.32869
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2005,0.9613
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2006,0.4634
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2007,0.52388
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2008,0.49871
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2009,0.45129
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2010,0.43732
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2011,0.50369
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2012,0.60707
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2013,0.63899
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2014,0.65585
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2015,0.61508
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2016,0.57984
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",2017,0.63572
+"Western Europe",2001,0.57357
+"Western Europe",2002,0.57555
+"Western Europe",2003,0.56721
+"Western Europe",2004,0.63811
+"Western Europe",2005,0.64354
+"Western Europe",2006,0.68365
+"Western Europe",2007,0.59602
+"Western Europe",2008,0.60504
+"Western Europe",2009,0.68696
+"Western Europe",2010,0.60703
+"Western Europe",2011,0.6205
+"Western Europe",2012,0.62515
+"Western Europe",2013,0.63214
+"Western Europe",2014,0.61671
+"Western Europe",2015,0.69913
+"Western Europe",2016,0.66344
+"Western Europe",2017,0.23718
+"World",2001,0.42283
+"World",2002,0.40291
+"World",2003,0.36114
+"World",2004,0.36584
+"World",2005,0.38542
+"World",2006,0.41528
+"World",2007,0.34516
+"World",2008,0.35368
+"World",2009,0.30163
+"World",2010,0.27681
+"World",2011,0.28281
+"World",2012,0.27858
+"World",2013,0.25959
+"World",2014,0.26682
+"World",2015,0.27935
+"World",2016,0.27711
+"World",2017,0.26105
+"Zambia",2001,0.08737
+"Zambia",2002,0.10557
+"Zambia",2003,0.1207
+"Zambia",2004,0.24826
+"Zambia",2005,0.31068
+"Zambia",2006,0.45389
+"Zambia",2007,0.55684
+"Zambia",2008,0.53837
+"Zambia",2009,0.72839
+"Zambia",2010,0.70004
+"Zambia",2011,1.33557
+"Zambia",2012,0.62053
+"Zambia",2013,0.78196
+"Zambia",2014,1.26235
+"Zambia",2015,2.05858
+"Zambia",2016,1.08813
+"Zambia",2017,2.31892

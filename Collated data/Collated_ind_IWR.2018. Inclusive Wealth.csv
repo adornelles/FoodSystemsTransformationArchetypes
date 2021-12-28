@@ -1,0 +1,841 @@
+"country","year","value"
+"Afghanistan","1990",177
+"Afghanistan","1995",237
+"Afghanistan","2000",283
+"Afghanistan","2005",353
+"Afghanistan","2010",422
+"Afghanistan","2014",493
+"Albania","1990",118
+"Albania","1995",116
+"Albania","2000",118
+"Albania","2005",125
+"Albania","2010",135
+"Albania","2014",141
+"Algeria","1990",1426
+"Algeria","1995",1509
+"Algeria","2000",1596
+"Algeria","2005",1692
+"Algeria","2010",1853
+"Algeria","2014",2032
+"Argentina","1990",2364
+"Argentina","1995",2497
+"Argentina","2000",2655
+"Argentina","2005",2789
+"Argentina","2010",3046
+"Argentina","2014",3273
+"Armenia","1990",129
+"Armenia","1995",120
+"Armenia","2000",117
+"Armenia","2005",119
+"Armenia","2010",129
+"Armenia","2014",134
+"Australia","1990",6270
+"Australia","1995",6592
+"Australia","2000",7048
+"Australia","2005",7666
+"Australia","2010",8480
+"Australia","2014",9207
+"Austria","1990",1613
+"Austria","1995",1792
+"Austria","2000",1955
+"Austria","2005",2124
+"Austria","2010",2272
+"Austria","2014",2394
+"Bahrain","1990",49
+"Bahrain","1995",57
+"Bahrain","2000",65
+"Bahrain","2005",81
+"Bahrain","2010",121
+"Bahrain","2014",134
+"Bangladesh","1990",9243
+"Bangladesh","1995",10336
+"Bangladesh","2000",11433
+"Bangladesh","2005",12427
+"Bangladesh","2010",13372
+"Bangladesh","2014",14088
+"Barbados","1990",21
+"Barbados","1995",22
+"Barbados","2000",23
+"Barbados","2005",24
+"Barbados","2010",26
+"Barbados","2014",27
+"Belgium","1990",1770
+"Belgium","1995",1946
+"Belgium","2000",2142
+"Belgium","2005",2352
+"Belgium","2010",2609
+"Belgium","2014",2803
+"Belize","1990",17
+"Belize","1995",17
+"Belize","2000",18
+"Belize","2005",18
+"Belize","2010",19
+"Belize","2014",19
+"Benin","1990",2085
+"Benin","1995",2496
+"Benin","2000",2918
+"Benin","2005",3418
+"Benin","2010",4013
+"Benin","2014",4504
+"Bolivia","1990",882
+"Bolivia","1995",888
+"Bolivia","2000",900
+"Bolivia","2005",908
+"Bolivia","2010",918
+"Bolivia","2014",931
+"Botswana","1990",528
+"Botswana","1995",581
+"Botswana","2000",612
+"Botswana","2005",684
+"Botswana","2010",799
+"Botswana","2014",877
+"Brazil","1990",11367
+"Brazil","1995",11624
+"Brazil","2000",11943
+"Brazil","2005",12261
+"Brazil","2010",12731
+"Brazil","2014",13407
+"Bulgaria","1990",2425
+"Bulgaria","1995",2273
+"Bulgaria","2000",2172
+"Bulgaria","2005",2108
+"Bulgaria","2010",2097
+"Bulgaria","2014",2056
+"Burundi","1990",2747
+"Burundi","1995",2915
+"Burundi","2000",3377
+"Burundi","2005",3959
+"Burundi","2010",4715
+"Burundi","2014",5436
+"Cambodia","1990",341
+"Cambodia","1995",346
+"Cambodia","2000",348
+"Cambodia","2005",348
+"Cambodia","2010",357
+"Cambodia","2014",368
+"Cameroon","1990",2240
+"Cameroon","1995",2516
+"Cameroon","2000",2814
+"Cameroon","2005",3195
+"Cameroon","2010",3679
+"Cameroon","2014",3951
+"Canada","1990",9663
+"Canada","1995",10046
+"Canada","2000",10545
+"Canada","2005",11179
+"Canada","2010",11937
+"Canada","2014",11659
+"Central African Republic","1990",681
+"Central African Republic","1995",746
+"Central African Republic","2000",806
+"Central African Republic","2005",861
+"Central African Republic","2010",951
+"Central African Republic","2014",1024
+"Chile","1990",779
+"Chile","1995",847
+"Chile","2000",937
+"Chile","2005",1036
+"Chile","2010",1170
+"Chile","2014",1315
+"China","1990",34176
+"China","1995",37795
+"China","2000",41374
+"China","2005",45731
+"China","2010",52592
+"China","2014",60253
+"Colombia","1990",1797
+"Colombia","1995",1909
+"Colombia","2000",2005
+"Colombia","2005",2085
+"Colombia","2010",2246
+"Colombia","2014",1878
+"Congo","1990",1014
+"Congo","1995",1118
+"Congo","2000",1223
+"Congo","2005",1391
+"Congo","2010",1681
+"Congo","2014",1845
+"Congo, Dem. Rep.","1990",1389
+"Congo, Dem. Rep.","1995",1378
+"Congo, Dem. Rep.","2000",1365
+"Congo, Dem. Rep.","2005",1357
+"Congo, Dem. Rep.","2010",1356
+"Congo, Dem. Rep.","2014",1361
+"Costa Rica","1990",112
+"Costa Rica","1995",120
+"Costa Rica","2000",132
+"Costa Rica","2005",147
+"Costa Rica","2010",168
+"Costa Rica","2014",203
+"Cote d'Ivoire","1990",2263
+"Cote d'Ivoire","1995",2623
+"Cote d'Ivoire","2000",2936
+"Cote d'Ivoire","2005",3234
+"Cote d'Ivoire","2010",3618
+"Cote d'Ivoire","2014",3912
+"Croatia","1990",370
+"Croatia","1995",373
+"Croatia","2000",385
+"Croatia","2005",421
+"Croatia","2010",463
+"Croatia","2014",470
+"Cuba","1990",439
+"Cuba","1995",461
+"Cuba","2000",475
+"Cuba","2005",489
+"Cuba","2010",507
+"Cuba","2014",522
+"Cyprus","1990",77
+"Cyprus","1995",92
+"Cyprus","2000",105
+"Cyprus","2005",120
+"Cyprus","2010",140
+"Cyprus","2014",146
+"Czech Republic","1990",1068
+"Czech Republic","1995",1131
+"Czech Republic","2000",1197
+"Czech Republic","2005",1269
+"Czech Republic","2010",1399
+"Czech Republic","2014",1468
+"Denmark","1990",1168
+"Denmark","1995",1244
+"Denmark","2000",1367
+"Denmark","2005",1492
+"Denmark","2010",1629
+"Denmark","2014",1707
+"Dominican Republic","1990",223
+"Dominican Republic","1995",253
+"Dominican Republic","2000",299
+"Dominican Republic","2005",342
+"Dominican Republic","2010",398
+"Dominican Republic","2014",439
+"Ecuador","1990",538
+"Ecuador","1995",552
+"Ecuador","2000",564
+"Ecuador","2005",581
+"Ecuador","2010",610
+"Ecuador","2014",665
+"Egypt","1990",3737
+"Egypt","1995",4179
+"Egypt","2000",4545
+"Egypt","2005",5090
+"Egypt","2010",5792
+"Egypt","2014",6512
+"El Salvador","1990",150
+"El Salvador","1995",167
+"El Salvador","2000",183
+"El Salvador","2005",199
+"El Salvador","2010",214
+"El Salvador","2014",225
+"Estonia","1990",132
+"Estonia","1995",123
+"Estonia","2000",122
+"Estonia","2005",144
+"Estonia","2010",158
+"Estonia","2014",166
+"Fiji","1990",25
+"Fiji","1995",27
+"Fiji","2000",28
+"Fiji","2005",29
+"Fiji","2010",31
+"Fiji","2014",34
+"Finland","1990",1207
+"Finland","1995",1269
+"Finland","2000",1363
+"Finland","2005",1466
+"Finland","2010",1635
+"Finland","2014",1690
+"France","1990",9425
+"France","1995",10349
+"France","2000",11354
+"France","2005",12592
+"France","2010",13859
+"France","2014",14733
+"Gabon","1990",1176
+"Gabon","1995",1173
+"Gabon","2000",1171
+"Gabon","2005",1170
+"Gabon","2010",1171
+"Gabon","2014",1179
+"Gambia","1990",12
+"Gambia","1995",13
+"Gambia","2000",15
+"Gambia","2005",17
+"Gambia","2010",20
+"Gambia","2014",23
+"Germany","1990",17894
+"Germany","1995",19362
+"Germany","2000",20605
+"Germany","2005",21486
+"Germany","2010",22377
+"Germany","2014",23091
+"Ghana","1990",1349
+"Ghana","1995",1495
+"Ghana","2000",1633
+"Ghana","2005",1832
+"Ghana","2010",2080
+"Ghana","2014",2321
+"Greece","1990",1395
+"Greece","1995",1482
+"Greece","2000",1591
+"Greece","2005",1749
+"Greece","2010",1910
+"Greece","2014",1873
+"Guatemala","1990",1358
+"Guatemala","1995",1518
+"Guatemala","2000",1688
+"Guatemala","2005",1864
+"Guatemala","2010",2072
+"Guatemala","2014",2248
+"Guyana","1990",208
+"Guyana","1995",209
+"Guyana","2000",209
+"Guyana","2005",209
+"Guyana","2010",210
+"Guyana","2014",242
+"Haiti","1990",3038
+"Haiti","1995",3405
+"Haiti","2000",3808
+"Haiti","2005",4201
+"Haiti","2010",3678
+"Haiti","2014",4724
+"Honduras","1990",139
+"Honduras","1995",137
+"Honduras","2000",134
+"Honduras","2005",136
+"Honduras","2010",140
+"Honduras","2014",142
+"Hungary","1990",910
+"Hungary","1995",952
+"Hungary","2000",998
+"Hungary","2005",1063
+"Hungary","2010",1122
+"Hungary","2014",1155
+"Iceland","1990",163
+"Iceland","1995",165
+"Iceland","2000",171
+"Iceland","2005",180
+"Iceland","2010",192
+"Iceland","2014",193
+"India","1990",320231
+"India","1995",341430
+"India","2000",375521
+"India","2005",407938
+"India","2010",440219
+"India","2014",465400
+"Indonesia","1990",5429
+"Indonesia","1995",5769
+"Indonesia","2000",6137
+"Indonesia","2005",6542
+"Indonesia","2010",7035
+"Indonesia","2014",7497
+"Iran","1990",6169
+"Iran","1995",6242
+"Iran","2000",6353
+"Iran","2005",6533
+"Iran","2010",6792
+"Iran","2014",6867
+"Iraq","1990",1908
+"Iraq","1995",1964
+"Iraq","2000",2029
+"Iraq","2005",2111
+"Iraq","2010",2227
+"Iraq","2014",2362
+"Ireland","1990",595
+"Ireland","1995",640
+"Ireland","2000",766
+"Ireland","2005",975
+"Ireland","2010",1186
+"Ireland","2014",1268
+"Israel","1990",477
+"Israel","1995",600
+"Israel","2000",730
+"Israel","2005",826
+"Israel","2010",971
+"Israel","2014",1105
+"Italy","1990",8332
+"Italy","1995",9010
+"Italy","2000",9758
+"Italy","2005",10727
+"Italy","2010",11582
+"Italy","2014",11917
+"Jamaica","1990",109
+"Jamaica","1995",119
+"Jamaica","2000",127
+"Jamaica","2005",134
+"Jamaica","2010",139
+"Jamaica","2014",142
+"Japan","1990",26237
+"Japan","1995",29594
+"Japan","2000",32324
+"Japan","2005",34102
+"Japan","2010",35458
+"Japan","2014",36085
+"Jordan","1990",97
+"Jordan","1995",130
+"Jordan","2000",151
+"Jordan","2005",177
+"Jordan","2010",227
+"Jordan","2014",269
+"Kazakhstan","1990",1761
+"Kazakhstan","1995",1866
+"Kazakhstan","2000",1811
+"Kazakhstan","2005",1815
+"Kazakhstan","2010",1912
+"Kazakhstan","2014",1995
+"Kenya","1990",2606
+"Kenya","1995",2996
+"Kenya","2000",3351
+"Kenya","2005",3917
+"Kenya","2010",4736
+"Kenya","2014",5345
+"Korea, Rep.","1990",2595
+"Korea, Rep.","1995",3444
+"Korea, Rep.","2000",4358
+"Korea, Rep.","2005",5280
+"Korea, Rep.","2010",6249
+"Korea, Rep.","2014",6938
+"Kuwait","1990",2400
+"Kuwait","1995",2224
+"Kuwait","2000",2282
+"Kuwait","2005",2343
+"Kuwait","2010",2469
+"Kuwait","2014",2572
+"Kyrgyz Republic","1990",149
+"Kyrgyz Republic","1995",160
+"Kyrgyz Republic","2000",175
+"Kyrgyz Republic","2005",189
+"Kyrgyz Republic","2010",208
+"Kyrgyz Republic","2014",226
+"Laos","1990",262
+"Laos","1995",278
+"Laos","2000",293
+"Laos","2005",306
+"Laos","2010",325
+"Laos","2014",357
+"Latvia","1990",168
+"Latvia","1995",164
+"Latvia","2000",167
+"Latvia","2005",177
+"Latvia","2010",193
+"Latvia","2014",197
+"Lesotho","1990",1011
+"Lesotho","1995",1057
+"Lesotho","2000",1043
+"Lesotho","2005",994
+"Lesotho","2010",1058
+"Lesotho","2014",1078
+"Liberia","1990",1833
+"Liberia","1995",1691
+"Liberia","2000",2362
+"Liberia","2005",2658
+"Liberia","2010",3366
+"Liberia","2014",3662
+"Lithuania","1990",271
+"Lithuania","1995",278
+"Lithuania","2000",284
+"Lithuania","2005",291
+"Lithuania","2010",303
+"Lithuania","2014",308
+"Luxembourg","1990",100
+"Luxembourg","1995",116
+"Luxembourg","2000",137
+"Luxembourg","2005",163
+"Luxembourg","2010",194
+"Luxembourg","2014",222
+"Malawi","1990",3551
+"Malawi","1995",3653
+"Malawi","2000",4076
+"Malawi","2005",4728
+"Malawi","2010",5882
+"Malawi","2014",6924
+"Malaysia","1990",931
+"Malaysia","1995",1039
+"Malaysia","2000",1148
+"Malaysia","2005",1223
+"Malaysia","2010",1328
+"Malaysia","2014",1481
+"Maldives","1990",9
+"Maldives","1995",11
+"Maldives","2000",12
+"Maldives","2005",14
+"Maldives","2010",17
+"Maldives","2014",19
+"Mali","1990",3695
+"Mali","1995",4174
+"Mali","2000",4787
+"Mali","2005",5611
+"Mali","2010",6580
+"Mali","2014",7417
+"Malta","1990",21
+"Malta","1995",25
+"Malta","2000",30
+"Malta","2005",35
+"Malta","2010",40
+"Malta","2014",43
+"Mauritania","1990",1055
+"Mauritania","1995",1223
+"Mauritania","2000",1371
+"Mauritania","2005",1559
+"Mauritania","2010",1766
+"Mauritania","2014",1945
+"Mauritius","1990",33
+"Mauritius","1995",37
+"Mauritius","2000",43
+"Mauritius","2005",49
+"Mauritius","2010",55
+"Mauritius","2014",60
+"Mexico","1990",4361
+"Mexico","1995",4876
+"Mexico","2000",5483
+"Mexico","2005",6099
+"Mexico","2010",6893
+"Mexico","2014",7581
+"Moldova","1990",129
+"Moldova","1995",134
+"Moldova","2000",132
+"Moldova","2005",132
+"Moldova","2010",133
+"Moldova","2014",125
+"Mongolia","1990",345
+"Mongolia","1995",348
+"Mongolia","2000",365
+"Mongolia","2005",360
+"Mongolia","2010",369
+"Mongolia","2014",393
+"Morocco","1990",3146
+"Morocco","1995",3444
+"Morocco","2000",3727
+"Morocco","2005",4011
+"Morocco","2010",4330
+"Morocco","2014",4596
+"Mozambique","1990",10425
+"Mozambique","1995",12809
+"Mozambique","2000",14617
+"Mozambique","2005",16216
+"Mozambique","2010",18475
+"Mozambique","2014",20599
+"Myanmar","1990",3120
+"Myanmar","1995",3371
+"Myanmar","2000",3623
+"Myanmar","2005",3843
+"Myanmar","2010",4049
+"Myanmar","2014",4226
+"Namibia","1990",141
+"Namibia","1995",157
+"Namibia","2000",175
+"Namibia","2005",190
+"Namibia","2010",217
+"Namibia","2014",240
+"Nepal","1990",2873
+"Nepal","1995",3298
+"Nepal","2000",3646
+"Nepal","2005",3941
+"Nepal","2010",4194
+"Nepal","2014",4467
+"Netherlands","1990",2914
+"Netherlands","1995",3179
+"Netherlands","2000",3542
+"Netherlands","2005",3889
+"Netherlands","2010",4230
+"Netherlands","2014",4413
+"New Zealand","1990",2038
+"New Zealand","1995",2076
+"New Zealand","2000",2131
+"New Zealand","2005",2146
+"New Zealand","2010",2599
+"New Zealand","2014",2495
+"Nicaragua","1990",209
+"Nicaragua","1995",234
+"Nicaragua","2000",253
+"Nicaragua","2005",270
+"Nicaragua","2010",288
+"Nicaragua","2014",307
+"Niger","1990",4024
+"Niger","1995",4719
+"Niger","2000",5603
+"Niger","2005",6733
+"Niger","2010",8174
+"Niger","2014",9482
+"Nigeria","1990",26856
+"Nigeria","1995",30327
+"Nigeria","2000",34102
+"Nigeria","2005",38984
+"Nigeria","2010",44866
+"Nigeria","2014",49966
+"Norway","1990",1868
+"Norway","1995",1886
+"Norway","2000",1934
+"Norway","2005",1981
+"Norway","2010",2124
+"Norway","2014",2263
+"Pakistan","1990",2637
+"Pakistan","1995",2705
+"Pakistan","2000",2784
+"Pakistan","2005",2873
+"Pakistan","2010",3027
+"Pakistan","2014",3172
+"Panama","1990",97
+"Panama","1995",104
+"Panama","2000",116
+"Panama","2005",125
+"Panama","2010",146
+"Panama","2014",183
+"Papua New Guinea","1990",4247
+"Papua New Guinea","1995",4823
+"Papua New Guinea","2000",5473
+"Papua New Guinea","2005",6165
+"Papua New Guinea","2010",6835
+"Papua New Guinea","2014",7452
+"Paraguay","1990",170
+"Paraguay","1995",176
+"Paraguay","2000",188
+"Paraguay","2005",192
+"Paraguay","2010",201
+"Paraguay","2014",205
+"Peru","1990",1696
+"Peru","1995",1716
+"Peru","2000",1756
+"Peru","2005",1780
+"Peru","2010",1849
+"Peru","2014",2031
+"Philippines","1990",1665
+"Philippines","1995",1932
+"Philippines","2000",2221
+"Philippines","2005",2525
+"Philippines","2010",2830
+"Philippines","2014",3092
+"Poland","1990",2471
+"Poland","1995",2552
+"Poland","2000",2718
+"Poland","2005",2857
+"Poland","2010",3097
+"Poland","2014",3306
+"Portugal","1990",804
+"Portugal","1995",900
+"Portugal","2000",1052
+"Portugal","2005",1195
+"Portugal","2010",1301
+"Portugal","2014",1309
+"Qatar","1990",500
+"Qatar","1995",496
+"Qatar","2000",498
+"Qatar","2005",525
+"Qatar","2010",671
+"Qatar","2014",812
+"Romania","1990",1415
+"Romania","1995",1420
+"Romania","2000",1451
+"Romania","2005",1468
+"Romania","2010",1562
+"Romania","2014",1618
+"Russian Federation","1990",26878
+"Russian Federation","1995",29296
+"Russian Federation","2000",28635
+"Russian Federation","2005",28060
+"Russian Federation","2010",28226
+"Russian Federation","2014",28491
+"Rwanda","1990",799
+"Rwanda","1995",635
+"Rwanda","2000",968
+"Rwanda","2005",1134
+"Rwanda","2010",1355
+"Rwanda","2014",1528
+"Saudi Arabia","1990",6746
+"Saudi Arabia","1995",7333
+"Saudi Arabia","2000",7307
+"Saudi Arabia","2005",7402
+"Saudi Arabia","2010",7677
+"Saudi Arabia","2014",8141
+"Senegal","1990",1986
+"Senegal","1995",2254
+"Senegal","2000",2538
+"Senegal","2005",2899
+"Senegal","2010",3341
+"Senegal","2014",3722
+"Serbia","1990",880
+"Serbia","1995",882
+"Serbia","2000",878
+"Serbia","2005",889
+"Serbia","2010",922
+"Serbia","2014",920
+"Sierra Leone","1990",4189
+"Sierra Leone","1995",3856
+"Sierra Leone","2000",3788
+"Sierra Leone","2005",4821
+"Sierra Leone","2010",5517
+"Sierra Leone","2014",5961
+"Singapore","1990",258
+"Singapore","1995",349
+"Singapore","2000",481
+"Singapore","2005",574
+"Singapore","2010",746
+"Singapore","2014",898
+"Slovakia","1990",408
+"Slovakia","1995",428
+"Slovakia","2000",459
+"Slovakia","2005",483
+"Slovakia","2010",521
+"Slovakia","2014",548
+"Slovenia","1990",200
+"Slovenia","1995",209
+"Slovenia","2000",230
+"Slovenia","2005",257
+"Slovenia","2010",289
+"Slovenia","2014",297
+"South Africa","1990",4121
+"South Africa","1995",4449
+"South Africa","2000",4788
+"South Africa","2005",5074
+"South Africa","2010",5609
+"South Africa","2014",6058
+"Spain","1990",4460
+"Spain","1995",5045
+"Spain","2000",5729
+"Spain","2005",6846
+"Spain","2010",7958
+"Spain","2014",8272
+"Sri Lanka","1990",406
+"Sri Lanka","1995",447
+"Sri Lanka","2000",489
+"Sri Lanka","2005",511
+"Sri Lanka","2010",536
+"Sri Lanka","2014",626
+"Sudan (former)","1990",6699
+"Sudan (former)","1995",8211
+"Sudan (former)","2000",9335
+"Sudan (former)","2005",10679
+"Sudan (former)","2010",11151
+"Sudan (former)","2014",11880
+"Swaziland","1990",27
+"Swaziland","1995",33
+"Swaziland","2000",38
+"Swaziland","2005",41
+"Swaziland","2010",44
+"Swaziland","2014",47
+"Sweden","1990",1970
+"Sweden","1995",2105
+"Sweden","2000",2260
+"Sweden","2005",2466
+"Sweden","2010",2726
+"Sweden","2014",2893
+"Switzerland","1990",2068
+"Switzerland","1995",2542
+"Switzerland","2000",2850
+"Switzerland","2005",3009
+"Switzerland","2010",3295
+"Switzerland","2014",3502
+"Syria","1990",460
+"Syria","1995",518
+"Syria","2000",581
+"Syria","2005",648
+"Syria","2010",749
+"Syria","2014",665
+"Tajikistan","1990",160
+"Tajikistan","1995",182
+"Tajikistan","2000",197
+"Tajikistan","2005",218
+"Tajikistan","2010",244
+"Tajikistan","2014",268
+"Tanzania","1990",8561
+"Tanzania","1995",9934
+"Tanzania","2000",11219
+"Tanzania","2005",13092
+"Tanzania","2010",15526
+"Tanzania","2014",17857
+"Thailand","1990",1801
+"Thailand","1995",2116
+"Thailand","2000",2350
+"Thailand","2005",2555
+"Thailand","2010",2759
+"Thailand","2014",2963
+"Togo","1990",289
+"Togo","1995",323
+"Togo","2000",377
+"Togo","2005",431
+"Togo","2010",502
+"Togo","2014",572
+"Trinidad and Tobago","1990",173
+"Trinidad and Tobago","1995",169
+"Trinidad and Tobago","2000",167
+"Trinidad and Tobago","2005",166
+"Trinidad and Tobago","2010",158
+"Trinidad and Tobago","2014",145
+"Tunisia","1990",251
+"Tunisia","1995",287
+"Tunisia","2000",323
+"Tunisia","2005",361
+"Tunisia","2010",415
+"Tunisia","2014",458
+"Turkey","1990",2101
+"Turkey","1995",2381
+"Turkey","2000",2720
+"Turkey","2005",3034
+"Turkey","2010",3453
+"Turkey","2014",3928
+"Uganda","1990",8879
+"Uganda","1995",10463
+"Uganda","2000",12130
+"Uganda","2005",14883
+"Uganda","2010",17941
+"Uganda","2014",20789
+"Ukraine","1990",18805
+"Ukraine","1995",18568
+"Ukraine","2000",17495
+"Ukraine","2005",16637
+"Ukraine","2010",16481
+"Ukraine","2014",16308
+"United Arab Emirates","1990",2599
+"United Arab Emirates","1995",2925
+"United Arab Emirates","2000",3330
+"United Arab Emirates","2005",3868
+"United Arab Emirates","2010",4736
+"United Arab Emirates","2014",5224
+"United Kingdom","1990",8276
+"United Kingdom","1995",8973
+"United Kingdom","2000",9996
+"United Kingdom","2005",11079
+"United Kingdom","2010",12166
+"United Kingdom","2014",12962
+"United States","1990",54549
+"United States","1995",59962
+"United States","2000",67699
+"United States","2005",76021
+"United States","2010",83540
+"United States","2014",88166
+"Uruguay","1990",262
+"Uruguay","1995",277
+"Uruguay","2000",294
+"Uruguay","2005",300
+"Uruguay","2010",315
+"Uruguay","2014",333
+"Venezuela","1990",5599
+"Venezuela","1995",5602
+"Venezuela","2000",5584
+"Venezuela","2005",5567
+"Venezuela","2010",5654
+"Venezuela","2014",5749
+"Vietnam","1990",1000
+"Vietnam","1995",1102
+"Vietnam","2000",1212
+"Vietnam","2005",1328
+"Vietnam","2010",1488
+"Vietnam","2014",1626
+"Yemen","1990",1864
+"Yemen","1995",2288
+"Yemen","2000",2678
+"Yemen","2005",3118
+"Yemen","2010",3663
+"Yemen","2014",4120
+"Zambia","1990",6020
+"Zambia","1995",6770
+"Zambia","2000",7673
+"Zambia","2005",8960
+"Zambia","2010",10895
+"Zambia","2014",12415
+"Zimbabwe","1990",10731
+"Zimbabwe","1995",11113
+"Zimbabwe","2000",10964
+"Zimbabwe","2005",10660
+"Zimbabwe","2010",11562
+"Zimbabwe","2014",14264
