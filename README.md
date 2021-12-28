@@ -1,5 +1,5 @@
 # FoodSystemsTransformationArchetypes
-Public repository for Dornelles et al. Transformation archetypes in global food systems
+Public repository for Dornelles et al. Transformation archetypes in global food systems, published in Sustainability Science
 
 # Structure
 Raw data: contains all raw data files, as collated from the original data sources. <br />
