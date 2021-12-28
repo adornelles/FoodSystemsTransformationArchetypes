@@ -1,0 +1,884 @@
+﻿Area,Area Id,Variable Name,Variable Id,Year,Value,Symbol,Md
+Afghanistan,2,Agricultural water withdrawal,4250,1987,25.85,,
+Afghanistan,2,Agricultural water withdrawal,4250,1998,20,,
+Albania,3,Agricultural water withdrawal,4250,1990,1,,
+Albania,3,Agricultural water withdrawal,4250,1995,0.67,,[1]
+Albania,3,Agricultural water withdrawal,4250,2000,1.06,L,
+Albania,3,Agricultural water withdrawal,4250,2006,0.5176,L,[2]
+Algeria,4,Agricultural water withdrawal,4250,1980,2.22,,
+Algeria,4,Agricultural water withdrawal,4250,1990,2.7,,
+Algeria,4,Agricultural water withdrawal,4250,2001,3.502,L,[3]
+Algeria,4,Agricultural water withdrawal,4250,2012,4.99,I,[4]
+Algeria,4,Agricultural water withdrawal,4250,2016,6.4,,
+Angola,7,Agricultural water withdrawal,4250,1987,0.365,,
+Angola,7,Agricultural water withdrawal,4250,2000,0.21,L,
+Angola,7,Agricultural water withdrawal,4250,2005,0.1467,L,[5]
+Antigua and Barbuda,8,Agricultural water withdrawal,4250,1990,0.001,,
+Antigua and Barbuda,8,Agricultural water withdrawal,4250,1997,0.0013,L,[6]
+Antigua and Barbuda,8,Agricultural water withdrawal,4250,2005,0.0013,L,"[7,8]"
+Antigua and Barbuda,8,Agricultural water withdrawal,4250,2012,0.0018,,
+Argentina,9,Agricultural water withdrawal,4250,1995,21.52,,
+Argentina,9,Agricultural water withdrawal,4250,2000,21.52,L,
+Argentina,9,Agricultural water withdrawal,4250,2011,27.93,,
+Armenia,1,Agricultural water withdrawal,4250,1995,1.94,,
+Armenia,1,Agricultural water withdrawal,4250,2002,1.14,I,
+Armenia,1,Agricultural water withdrawal,4250,2007,1.89,,
+Armenia,1,Agricultural water withdrawal,4250,2012,2.597,,[9]
+Armenia,1,Agricultural water withdrawal,4250,2017,2.38,,[10]
+Australia,10,Agricultural water withdrawal,4250,1996,15.5,E,
+Australia,10,Agricultural water withdrawal,4250,2001,15.03,,
+Australia,10,Agricultural water withdrawal,4250,2005,12.24,,
+Australia,10,Agricultural water withdrawal,4250,2012,9.587,,
+Australia,10,Agricultural water withdrawal,4250,2016,9.604,,
+Austria,11,Agricultural water withdrawal,4250,1980,0.09,E,[11]
+Austria,11,Agricultural water withdrawal,4250,1985,0.2,E,[12]
+Austria,11,Agricultural water withdrawal,4250,1990,0.1,E,[13]
+Austria,11,Agricultural water withdrawal,4250,1997,0.1,E,[14]
+Austria,11,Agricultural water withdrawal,4250,2002,0.1,E,
+Austria,11,Agricultural water withdrawal,4250,2010,0.0771,E,
+Azerbaijan,52,Agricultural water withdrawal,4250,1992,10.93,,
+Azerbaijan,52,Agricultural water withdrawal,4250,1997,9.254,,
+Azerbaijan,52,Agricultural water withdrawal,4250,2002,6.376,,
+Azerbaijan,52,Agricultural water withdrawal,4250,2007,8.581,,
+Azerbaijan,52,Agricultural water withdrawal,4250,2012,8.887,,
+Azerbaijan,52,Agricultural water withdrawal,4250,2017,9.27,,
+Bahrain,13,Agricultural water withdrawal,4250,1990,0.135,,
+Bahrain,13,Agricultural water withdrawal,4250,2000,0.17,L,
+Bahrain,13,Agricultural water withdrawal,4250,2003,0.1592,,
+Bahrain,13,Agricultural water withdrawal,4250,2016,0.1447,,
+Bangladesh,16,Agricultural water withdrawal,4250,2008,31.5,,[15]
+Barbados,14,Agricultural water withdrawal,4250,1989,0.0548,L,[16]
+Barbados,14,Agricultural water withdrawal,4250,1996,0.0548,L,
+Barbados,14,Agricultural water withdrawal,4250,2005,0.0548,L,"[17,18]"
+Belarus,57,Agricultural water withdrawal,4250,1995,0.568,,[19]
+Belarus,57,Agricultural water withdrawal,4250,2000,0.442,,[20]
+Belarus,57,Agricultural water withdrawal,4250,2005,0.409,,[21]
+Belarus,57,Agricultural water withdrawal,4250,2010,0.471,,[22]
+Belarus,57,Agricultural water withdrawal,4250,2016,0.428,,
+Belgium,255,Agricultural water withdrawal,4250,1980,0.3612,,
+Belgium,255,Agricultural water withdrawal,4250,1997,0.016,E,
+Belgium,255,Agricultural water withdrawal,4250,2002,0.0382,E,[23]
+Belgium,255,Agricultural water withdrawal,4250,2007,0.0369,E,[24]
+Belgium,255,Agricultural water withdrawal,4250,2009,0.0402,E,[25]
+Belize,23,Agricultural water withdrawal,4250,1987,0.018,,
+Belize,23,Agricultural water withdrawal,4250,1990,0.019,I,
+Belize,23,Agricultural water withdrawal,4250,1993,0.02,,
+Belize,23,Agricultural water withdrawal,4250,2000,0.0684,I,
+Benin,53,Agricultural water withdrawal,4250,1985,0.064,,
+Benin,53,Agricultural water withdrawal,4250,1990,0.0823,I,
+Benin,53,Agricultural water withdrawal,4250,1994,0.097,,
+Benin,53,Agricultural water withdrawal,4250,2001,0.059,I,
+Bhutan,18,Agricultural water withdrawal,4250,2008,0.318,,
+Bolivia (Plurinational State of),19,Agricultural water withdrawal,4250,1987,1.054,,
+Bolivia (Plurinational State of),19,Agricultural water withdrawal,4250,1999,1.777,L,[26]
+Bolivia (Plurinational State of),19,Agricultural water withdrawal,4250,2008,1.92,I,
+Botswana,20,Agricultural water withdrawal,4250,1992,0.054,,
+Botswana,20,Agricultural water withdrawal,4250,1995,0.0638,I,
+Botswana,20,Agricultural water withdrawal,4250,2000,0.08,,[27]
+Botswana,20,Agricultural water withdrawal,4250,2012,0.0743,,
+Botswana,20,Agricultural water withdrawal,4250,2016,0.081,,
+Brazil,21,Agricultural water withdrawal,4250,1996,33.43,,
+Brazil,21,Agricultural water withdrawal,4250,2006,31.7,,
+Brazil,21,Agricultural water withdrawal,4250,2010,44.9,,
+Brazil,21,Agricultural water withdrawal,4250,2016,35.41,,
+Brunei Darussalam,26,Agricultural water withdrawal,4250,1995,0.0053,L,[28]
+Bulgaria,27,Agricultural water withdrawal,4250,1990,2.225,I,
+Bulgaria,27,Agricultural water withdrawal,4250,2002,0.743,E,[29]
+Bulgaria,27,Agricultural water withdrawal,4250,2006,0.8759,E,[30]
+Bulgaria,27,Agricultural water withdrawal,4250,2012,0.9494,,
+Bulgaria,27,Agricultural water withdrawal,4250,2015,0.8288,,
+Burkina Faso,233,Agricultural water withdrawal,4250,1985,0.23,,
+Burkina Faso,233,Agricultural water withdrawal,4250,1992,0.303,,
+Burkina Faso,233,Agricultural water withdrawal,4250,2001,0.4207,L,[31]
+Burkina Faso,233,Agricultural water withdrawal,4250,2005,0.4207,L,
+Burundi,29,Agricultural water withdrawal,4250,1987,0.064,,
+Burundi,29,Agricultural water withdrawal,4250,2000,0.222,I,
+Cabo Verde,35,Agricultural water withdrawal,4250,1990,0.022,,
+Cabo Verde,35,Agricultural water withdrawal,4250,2000,0.02,L,
+Cabo Verde,35,Agricultural water withdrawal,4250,2004,0.025,L,[32]
+Cambodia,115,Agricultural water withdrawal,4250,2006,2.053,,
+Cameroon,32,Agricultural water withdrawal,4250,1987,0.14,,
+Cameroon,32,Agricultural water withdrawal,4250,1992,0.14,,
+Cameroon,32,Agricultural water withdrawal,4250,2000,0.737,L,[33]
+Canada,33,Agricultural water withdrawal,4250,1991,3.991,E,[34]
+Canada,33,Agricultural water withdrawal,4250,1996,4.104,E,[35]
+Canada,33,Agricultural water withdrawal,4250,2007,2.322,E,
+Canada,33,Agricultural water withdrawal,4250,2010,4.749,L,"[36,37]"
+Canada,33,Agricultural water withdrawal,4250,2015,2.639,,
+Central African Republic,37,Agricultural water withdrawal,4250,1987,4.00E-04,L,[38]
+Central African Republic,37,Agricultural water withdrawal,4250,2000,4.00E-04,L,"[39,40]"
+Central African Republic,37,Agricultural water withdrawal,4250,2005,4.00E-04,L,"[41,42]"
+Chad,39,Agricultural water withdrawal,4250,1987,0.148,,
+Chad,39,Agricultural water withdrawal,4250,2002,0.6722,L,[43]
+Chad,39,Agricultural water withdrawal,4250,2005,0.6722,L,"[44,45]"
+Chile,40,Agricultural water withdrawal,4250,2006,29.42,,
+China,351,Agricultural water withdrawal,4250,1980,391.2,,
+China,351,Agricultural water withdrawal,4250,1985,415.2,I,
+China,351,Agricultural water withdrawal,4250,1990,415,,
+China,351,Agricultural water withdrawal,4250,1993,407.7,,
+China,351,Agricultural water withdrawal,4250,2000,378.4,,
+China,351,Agricultural water withdrawal,4250,2007,360,,
+China,351,Agricultural water withdrawal,4250,2012,388,,
+China,351,Agricultural water withdrawal,4250,2015,385.2,,
+Colombia,44,Agricultural water withdrawal,4250,1996,3.308,,
+Colombia,44,Agricultural water withdrawal,4250,2000,4.92,L,
+Colombia,44,Agricultural water withdrawal,4250,2008,6.391,I,
+Comoros,45,Agricultural water withdrawal,4250,1999,0.0047,,
+Congo,46,Agricultural water withdrawal,4250,1987,0.0044,,
+Congo,46,Agricultural water withdrawal,4250,2002,0.004,I,
+Costa Rica,48,Agricultural water withdrawal,4250,2012,1.673,,
+Costa Rica,48,Agricultural water withdrawal,4250,2015,2.302,,
+Côte d'Ivoire,107,Agricultural water withdrawal,4250,1987,0.475,,
+Côte d'Ivoire,107,Agricultural water withdrawal,4250,1994,0.8,,
+Côte d'Ivoire,107,Agricultural water withdrawal,4250,2000,0.6,L,
+Côte d'Ivoire,107,Agricultural water withdrawal,4250,2005,0.5953,L,"[46,47]"
+Côte d'Ivoire,107,Agricultural water withdrawal,4250,2008,0.5953,L,[48]
+Côte d'Ivoire,107,Agricultural water withdrawal,4250,2014,0.6,,
+Croatia,98,Agricultural water withdrawal,4250,2002,0.0059,,
+Croatia,98,Agricultural water withdrawal,4250,2007,0.0032,E,[49]
+Croatia,98,Agricultural water withdrawal,4250,2010,0.0086,,
+Cuba,49,Agricultural water withdrawal,4250,1995,2.666,,
+Cuba,49,Agricultural water withdrawal,4250,2007,2.476,,
+Cuba,49,Agricultural water withdrawal,4250,2010,3.569,,
+Cuba,49,Agricultural water withdrawal,4250,2013,4.519,,
+Cyprus,50,Agricultural water withdrawal,4250,1975,0.13,,
+Cyprus,50,Agricultural water withdrawal,4250,1980,0.14,,
+Cyprus,50,Agricultural water withdrawal,4250,1985,0.155,,
+Cyprus,50,Agricultural water withdrawal,4250,1990,0.166,,
+Cyprus,50,Agricultural water withdrawal,4250,1993,0.156,,
+Cyprus,50,Agricultural water withdrawal,4250,2002,0.1606,E,[50]
+Cyprus,50,Agricultural water withdrawal,4250,2007,0.143,E,[51]
+Cyprus,50,Agricultural water withdrawal,4250,2012,0.171,E,[52]
+Cyprus,50,Agricultural water withdrawal,4250,2016,0.2,,
+Czechia,167,Agricultural water withdrawal,4250,1985,,,[53]
+Czechia,167,Agricultural water withdrawal,4250,1990,,,[54]
+Czechia,167,Agricultural water withdrawal,4250,1997,0.02,E,[55]
+Czechia,167,Agricultural water withdrawal,4250,2002,0.0187,E,
+Czechia,167,Agricultural water withdrawal,4250,2007,0.0298,E,
+Czechia,167,Agricultural water withdrawal,4250,2012,0.0432,E,[56]
+Czechia,167,Agricultural water withdrawal,4250,2016,0.0475,,
+Democratic People's Republic of Korea,116,Agricultural water withdrawal,4250,1995,6.61,L,
+Democratic People's Republic of Korea,116,Agricultural water withdrawal,4250,2005,6.61,L,
+Democratic Republic of the Congo,250,Agricultural water withdrawal,4250,1995,0.083,,
+Democratic Republic of the Congo,250,Agricultural water withdrawal,4250,2000,0.0719,L,[57]
+Democratic Republic of the Congo,250,Agricultural water withdrawal,4250,2005,0.0719,L,"[58,59]"
+Denmark,54,Agricultural water withdrawal,4250,1970,0.18,E,
+Denmark,54,Agricultural water withdrawal,4250,1975,0.46,E,
+Denmark,54,Agricultural water withdrawal,4250,1980,0.46,E,
+Denmark,54,Agricultural water withdrawal,4250,1985,0.7,E,
+Denmark,54,Agricultural water withdrawal,4250,1990,0.465,E,
+Denmark,54,Agricultural water withdrawal,4250,1997,0.369,E,
+Denmark,54,Agricultural water withdrawal,4250,2002,0.1652,E,[60]
+Denmark,54,Agricultural water withdrawal,4250,2007,0.1175,E,[61]
+Denmark,54,Agricultural water withdrawal,4250,2012,0.164,E,[62]
+Djibouti,72,Agricultural water withdrawal,4250,1985,0.007,,
+Djibouti,72,Agricultural water withdrawal,4250,2000,0.003,,[63]
+Dominica,55,Agricultural water withdrawal,4250,2010,0.001,I,
+Dominican Republic,56,Agricultural water withdrawal,4250,2000,4.2,I,
+Dominican Republic,56,Agricultural water withdrawal,4250,2005,4.487,I,
+Dominican Republic,56,Agricultural water withdrawal,4250,2010,5.715,,
+Dominican Republic,56,Agricultural water withdrawal,4250,2015,7.563,,[64]
+Ecuador,58,Agricultural water withdrawal,4250,2000,8.076,L,[65]
+Ecuador,58,Agricultural water withdrawal,4250,2005,8.076,L,"[66,67]"
+Egypt,59,Agricultural water withdrawal,4250,1995,50.71,I,
+Egypt,59,Agricultural water withdrawal,4250,2000,59,,
+Egypt,59,Agricultural water withdrawal,4250,2012,61.5,,
+Egypt,59,Agricultural water withdrawal,4250,2017,61.35,,
+El Salvador,60,Agricultural water withdrawal,4250,1992,0.336,,
+El Salvador,60,Agricultural water withdrawal,4250,2000,0.76,L,
+El Salvador,60,Agricultural water withdrawal,4250,2005,1.431,,
+Equatorial Guinea,61,Agricultural water withdrawal,4250,1987,6.00E-04,,
+Equatorial Guinea,61,Agricultural water withdrawal,4250,2000,0.001,L,
+Eritrea,178,Agricultural water withdrawal,4250,2000,0.29,L,
+Eritrea,178,Agricultural water withdrawal,4250,2004,0.55,,
+Estonia,63,Agricultural water withdrawal,4250,1995,0.008,,
+Estonia,63,Agricultural water withdrawal,4250,2002,0.03,E,[68]
+Estonia,63,Agricultural water withdrawal,4250,2007,0.0076,E,[69]
+Estonia,63,Agricultural water withdrawal,4250,2012,0.0045,E,
+Estonia,63,Agricultural water withdrawal,4250,2014,0.005,,
+Eswatini,209,Agricultural water withdrawal,4250,1980,0.63,,
+Eswatini,209,Agricultural water withdrawal,4250,2000,1.006,I,[70]
+Ethiopia,238,Agricultural water withdrawal,4250,2002,5.204,I,
+Ethiopia,238,Agricultural water withdrawal,4250,2005,7,I,
+Ethiopia,238,Agricultural water withdrawal,4250,2016,9.687,K,[71]
+Fiji,66,Agricultural water withdrawal,4250,1987,0.018,,
+Fiji,66,Agricultural water withdrawal,4250,2000,0.05,L,
+Fiji,66,Agricultural water withdrawal,4250,2005,0.05,I,
+Finland,67,Agricultural water withdrawal,4250,1990,0.02,E,
+Finland,67,Agricultural water withdrawal,4250,1995,0.05,E,
+Finland,67,Agricultural water withdrawal,4250,2002,0.05,E,[72]
+Finland,67,Agricultural water withdrawal,4250,2005,0.05,E,[73]
+France,68,Agricultural water withdrawal,4250,1992,4.919,E,
+France,68,Agricultural water withdrawal,4250,1997,3.35,E,
+France,68,Agricultural water withdrawal,4250,2002,4.291,E,[74]
+France,68,Agricultural water withdrawal,4250,2007,3.933,E,[75]
+France,68,Agricultural water withdrawal,4250,2012,2.913,,
+France,68,Agricultural water withdrawal,4250,2016,3.111,,
+Gabon,74,Agricultural water withdrawal,4250,1987,0.0036,,
+Gabon,74,Agricultural water withdrawal,4250,2000,0.0403,L,[76]
+Gabon,74,Agricultural water withdrawal,4250,2005,0.0403,L,"[77,78]"
+Gambia,75,Agricultural water withdrawal,4250,1982,0.0182,,
+Gambia,75,Agricultural water withdrawal,4250,1999,0.0392,L,[79]
+Georgia,73,Agricultural water withdrawal,4250,2005,1.055,,[80]
+Germany,79,Agricultural water withdrawal,4250,1991,1.6,E,
+Germany,79,Agricultural water withdrawal,4250,1995,1.6,,
+Germany,79,Agricultural water withdrawal,4250,2000,1.14,E,
+Germany,79,Agricultural water withdrawal,4250,2007,0.1317,E,
+Germany,79,Agricultural water withdrawal,4250,2010,0.2109,E,[81]
+Germany,79,Agricultural water withdrawal,4250,2013,0.597,,
+Ghana,81,Agricultural water withdrawal,4250,1970,0.156,,
+Ghana,81,Agricultural water withdrawal,4250,2000,0.652,I,
+Ghana,81,Agricultural water withdrawal,4250,2016,1.07,,
+Greece,84,Agricultural water withdrawal,4250,1970,2.425,E,[82]
+Greece,84,Agricultural water withdrawal,4250,1975,3.576,E,
+Greece,84,Agricultural water withdrawal,4250,1985,4.6,E,[83]
+Greece,84,Agricultural water withdrawal,4250,1992,7.9,E,[84]
+Greece,84,Agricultural water withdrawal,4250,1997,7.6,E,[85]
+Greece,84,Agricultural water withdrawal,4250,2002,8.42,E,[86]
+Greece,84,Agricultural water withdrawal,4250,2007,8.458,E,[87]
+Greece,84,Agricultural water withdrawal,4250,2011,7.918,E,[88]
+Grenada,86,Agricultural water withdrawal,4250,1997,0.0022,L,[89]
+Grenada,86,Agricultural water withdrawal,4250,2014,0.0021,I,
+Guatemala,89,Agricultural water withdrawal,4250,2001,1.472,,
+Guatemala,89,Agricultural water withdrawal,4250,2006,1.886,,
+Guinea,90,Agricultural water withdrawal,4250,1987,0.644,,
+Guinea,90,Agricultural water withdrawal,4250,2001,0.2929,L,[90]
+Guinea-Bissau,175,Agricultural water withdrawal,4250,1991,0.006,,
+Guinea-Bissau,175,Agricultural water withdrawal,4250,1996,0.144,,
+Guinea-Bissau,175,Agricultural water withdrawal,4250,2000,0.144,,
+Guyana,91,Agricultural water withdrawal,4250,1992,1.438,,
+Guyana,91,Agricultural water withdrawal,4250,2000,1.6,L,
+Guyana,91,Agricultural water withdrawal,4250,2010,1.363,L,[91]
+Haiti,93,Agricultural water withdrawal,4250,1991,0.9246,,
+Haiti,93,Agricultural water withdrawal,4250,1995,1.169,,
+Haiti,93,Agricultural water withdrawal,4250,2009,1.209,L,[92]
+Honduras,95,Agricultural water withdrawal,4250,2003,1.178,,
+Hungary,97,Agricultural water withdrawal,4250,1970,0.665,E,[93]
+Hungary,97,Agricultural water withdrawal,4250,1975,0.8903,E,[94]
+Hungary,97,Agricultural water withdrawal,4250,1985,2.286,,
+Hungary,97,Agricultural water withdrawal,4250,1992,0.949,E,[95]
+Hungary,97,Agricultural water withdrawal,4250,1996,0.4556,E,[96]
+Hungary,97,Agricultural water withdrawal,4250,2002,0.6796,E,[97]
+Hungary,97,Agricultural water withdrawal,4250,2006,0.3054,E,[98]
+Hungary,97,Agricultural water withdrawal,4250,2012,0.322,E,[99]
+Iceland,99,Agricultural water withdrawal,4250,1980,0.004,E,
+Iceland,99,Agricultural water withdrawal,4250,1985,0.004,E,[100]
+Iceland,99,Agricultural water withdrawal,4250,1992,0.07,E,[101]
+Iceland,99,Agricultural water withdrawal,4250,2002,0.07,E,[102]
+Iceland,99,Agricultural water withdrawal,4250,2004,0.07,E,[103]
+Iceland,99,Agricultural water withdrawal,4250,2012,3.00E-04,,
+Iceland,99,Agricultural water withdrawal,4250,2015,3.00E-04,,
+India,100,Agricultural water withdrawal,4250,1975,353.4,,
+India,100,Agricultural water withdrawal,4250,1980,411.7,I,
+India,100,Agricultural water withdrawal,4250,1986,468,I,
+India,100,Agricultural water withdrawal,4250,1990,460,,
+India,100,Agricultural water withdrawal,4250,2000,558.4,L,
+India,100,Agricultural water withdrawal,4250,2010,688,,
+Indonesia,101,Agricultural water withdrawal,4250,1990,69.24,,
+Indonesia,101,Agricultural water withdrawal,4250,2000,92.76,,
+Indonesia,101,Agricultural water withdrawal,4250,2016,189.7,,
+Iran (Islamic Republic of),102,Agricultural water withdrawal,4250,1995,76,,
+Iran (Islamic Republic of),102,Agricultural water withdrawal,4250,2001,83.75,I,
+Iran (Islamic Republic of),102,Agricultural water withdrawal,4250,2004,86,,
+Iraq,103,Agricultural water withdrawal,4250,1975,39.53,,
+Iraq,103,Agricultural water withdrawal,4250,1980,39.77,I,
+Iraq,103,Agricultural water withdrawal,4250,1985,40,,
+Iraq,103,Agricultural water withdrawal,4250,1990,39.38,,
+Iraq,103,Agricultural water withdrawal,4250,1995,45.69,I,
+Iraq,103,Agricultural water withdrawal,4250,2000,52,,
+Iraq,103,Agricultural water withdrawal,4250,2016,35.27,,
+Ireland,104,Agricultural water withdrawal,4250,1970,0.179,E,
+Ireland,104,Agricultural water withdrawal,4250,1980,0.13,E,
+Ireland,104,Agricultural water withdrawal,4250,1994,0.179,E,[104]
+Israel,105,Agricultural water withdrawal,4250,1970,1.249,,
+Israel,105,Agricultural water withdrawal,4250,1975,1.242,I,
+Israel,105,Agricultural water withdrawal,4250,1980,1.235,,
+Israel,105,Agricultural water withdrawal,4250,1990,1.216,,
+Israel,105,Agricultural water withdrawal,4250,2002,1.021,,
+Israel,105,Agricultural water withdrawal,4250,2004,1.129,,
+Israel,105,Agricultural water withdrawal,4250,2009,1.016,,
+Italy,106,Agricultural water withdrawal,4250,1970,25.6,,
+Italy,106,Agricultural water withdrawal,4250,2000,20.01,L,
+Italy,106,Agricultural water withdrawal,4250,2007,12.89,L,[105]
+Italy,106,Agricultural water withdrawal,4250,2013,17,,
+Jamaica,109,Agricultural water withdrawal,4250,1993,0.696,,
+Jamaica,109,Agricultural water withdrawal,4250,2007,0.448,L,
+Jamaica,109,Agricultural water withdrawal,4250,2016,0.114,,
+Japan,110,Agricultural water withdrawal,4250,1980,58,,
+Japan,110,Agricultural water withdrawal,4250,1992,58.6,,
+Japan,110,Agricultural water withdrawal,4250,1997,58.88,E,
+Japan,110,Agricultural water withdrawal,4250,2002,56.05,E,[106]
+Japan,110,Agricultural water withdrawal,4250,2007,54.5,E,[107]
+Japan,110,Agricultural water withdrawal,4250,2009,54.43,E,[108]
+Jordan,112,Agricultural water withdrawal,4250,1975,0.293,,
+Jordan,112,Agricultural water withdrawal,4250,1980,0.377,I,
+Jordan,112,Agricultural water withdrawal,4250,1985,0.461,,
+Jordan,112,Agricultural water withdrawal,4250,1992,0.737,,
+Jordan,112,Agricultural water withdrawal,4250,2002,0.517,,[109]
+Jordan,112,Agricultural water withdrawal,4250,2007,0.589,,[110]
+Jordan,112,Agricultural water withdrawal,4250,2012,0.462,,[111]
+Jordan,112,Agricultural water withdrawal,4250,2016,0.5547,,[112]
+Kazakhstan,108,Agricultural water withdrawal,4250,1995,27.41,,
+Kazakhstan,108,Agricultural water withdrawal,4250,2002,14.8,,
+Kazakhstan,108,Agricultural water withdrawal,4250,2007,14.03,,
+Kazakhstan,108,Agricultural water withdrawal,4250,2012,13.69,,
+Kazakhstan,108,Agricultural water withdrawal,4250,2016,15.19,,
+Kenya,114,Agricultural water withdrawal,4250,1990,1.566,,
+Kenya,114,Agricultural water withdrawal,4250,2000,1.01,L,
+Kenya,114,Agricultural water withdrawal,4250,2003,1.75,,[113]
+Kenya,114,Agricultural water withdrawal,4250,2010,1.907,,[114]
+Kenya,114,Agricultural water withdrawal,4250,2016,3.234,,
+Kuwait,118,Agricultural water withdrawal,4250,1994,0.324,,
+Kuwait,118,Agricultural water withdrawal,4250,2002,0.4919,,
+Kyrgyzstan,113,Agricultural water withdrawal,4250,1994,9.496,,
+Kyrgyzstan,113,Agricultural water withdrawal,4250,2000,9.45,L,
+Kyrgyzstan,113,Agricultural water withdrawal,4250,2006,7.447,,
+Kyrgyzstan,113,Agricultural water withdrawal,4250,2011,7.1,,
+Lao People's Democratic Republic,120,Agricultural water withdrawal,4250,2005,3.193,L,[115]
+Lao People's Democratic Republic,120,Agricultural water withdrawal,4250,2016,7.36,,
+Latvia,119,Agricultural water withdrawal,4250,1995,0.036,,
+Latvia,119,Agricultural water withdrawal,4250,2002,0.0532,E,[116]
+Latvia,119,Agricultural water withdrawal,4250,2007,0.0506,E,[117]
+Latvia,119,Agricultural water withdrawal,4250,2012,0.0408,E,[118]
+Latvia,119,Agricultural water withdrawal,4250,2016,0.0581,,
+Lebanon,121,Agricultural water withdrawal,4250,1975,0.638,,
+Lebanon,121,Agricultural water withdrawal,4250,1994,0.875,,
+Lebanon,121,Agricultural water withdrawal,4250,2000,0.92,L,
+Lebanon,121,Agricultural water withdrawal,4250,2005,0.78,,
+Lebanon,121,Agricultural water withdrawal,4250,2015,0.7,,
+Lesotho,122,Agricultural water withdrawal,4250,1987,0.028,,
+Lesotho,122,Agricultural water withdrawal,4250,1999,0.0038,L,[119]
+Liberia,123,Agricultural water withdrawal,4250,1987,0.078,,
+Liberia,123,Agricultural water withdrawal,4250,2000,0.0123,L,[120]
+Libya,124,Agricultural water withdrawal,4250,1985,1.965,,
+Libya,124,Agricultural water withdrawal,4250,1990,4.28,,
+Libya,124,Agricultural water withdrawal,4250,1994,4,,
+Libya,124,Agricultural water withdrawal,4250,2000,3.584,,
+Libya,124,Agricultural water withdrawal,4250,2012,4.85,,
+Lithuania,126,Agricultural water withdrawal,4250,1995,0.008,,
+Lithuania,126,Agricultural water withdrawal,4250,2001,0.053,E,[121]
+Lithuania,126,Agricultural water withdrawal,4250,2007,0.0818,E,[122]
+Lithuania,126,Agricultural water withdrawal,4250,2009,0.0793,E,[123]
+Lithuania,126,Agricultural water withdrawal,4250,2017,0.0591,,[124]
+Luxembourg,256,Agricultural water withdrawal,4250,1995,2.00E-04,E,
+Luxembourg,256,Agricultural water withdrawal,4250,1999,2.00E-04,E,
+Luxembourg,256,Agricultural water withdrawal,4250,2012,2.00E-04,E,[125]
+Luxembourg,256,Agricultural water withdrawal,4250,2016,3.00E-04,,
+Madagascar,129,Agricultural water withdrawal,4250,1984,16.14,,
+Madagascar,129,Agricultural water withdrawal,4250,2000,13,I,
+Madagascar,129,Agricultural water withdrawal,4250,2005,13,,
+Malawi,130,Agricultural water withdrawal,4250,1994,0.809,,
+Malawi,130,Agricultural water withdrawal,4250,2002,1.166,L,[126]
+Malawi,130,Agricultural water withdrawal,4250,2005,1.166,L,"[127,128]"
+Malaysia,131,Agricultural water withdrawal,4250,1990,8.3,I,
+Malaysia,131,Agricultural water withdrawal,4250,1996,2.505,L,[129]
+Malaysia,131,Agricultural water withdrawal,4250,2000,2.505,L,"[130,131]"
+Malaysia,131,Agricultural water withdrawal,4250,2005,2.505,L,"[132,133]"
+Maldives,132,Agricultural water withdrawal,4250,1987,0,,
+Maldives,132,Agricultural water withdrawal,4250,2008,0,I,
+Mali,133,Agricultural water withdrawal,4250,1987,1.319,,
+Mali,133,Agricultural water withdrawal,4250,1996,3.725,,
+Mali,133,Agricultural water withdrawal,4250,2001,4.99,,
+Mali,133,Agricultural water withdrawal,4250,2006,5.075,,
+Malta,134,Agricultural water withdrawal,4250,1995,0.007,,
+Malta,134,Agricultural water withdrawal,4250,2002,0.0189,E,[134]
+Malta,134,Agricultural water withdrawal,4250,2007,0.0203,E,[135]
+Malta,134,Agricultural water withdrawal,4250,2012,0.0241,E,[136]
+Malta,134,Agricultural water withdrawal,4250,2016,0.0255,,
+Mauritania,136,Agricultural water withdrawal,4250,1980,0.613,,
+Mauritania,136,Agricultural water withdrawal,4250,1985,1.5,,
+Mauritania,136,Agricultural water withdrawal,4250,2000,1.5,L,
+Mauritania,136,Agricultural water withdrawal,4250,2004,1.223,L,[137]
+Mauritius,137,Agricultural water withdrawal,4250,1974,0.2768,,
+Mauritius,137,Agricultural water withdrawal,4250,1995,0.46,,
+Mauritius,137,Agricultural water withdrawal,4250,2003,0.491,,
+Mexico,138,Agricultural water withdrawal,4250,1995,62.5,E,
+Mexico,138,Agricultural water withdrawal,4250,2002,56.1,,
+Mexico,138,Agricultural water withdrawal,4250,2007,60.57,,
+Mexico,138,Agricultural water withdrawal,4250,2012,63.35,,
+Mexico,138,Agricultural water withdrawal,4250,2016,66.05,,
+Monaco,140,Agricultural water withdrawal,4250,1990,0,E,
+Monaco,140,Agricultural water withdrawal,4250,1997,0,E,
+Monaco,140,Agricultural water withdrawal,4250,2002,0,E,
+Monaco,140,Agricultural water withdrawal,4250,2007,0,E,
+Monaco,140,Agricultural water withdrawal,4250,2009,0,E,
+Mongolia,141,Agricultural water withdrawal,4250,1993,0.227,,
+Mongolia,141,Agricultural water withdrawal,4250,2006,0.224,,
+Mongolia,141,Agricultural water withdrawal,4250,2009,0.242,,
+Mongolia,141,Agricultural water withdrawal,4250,2016,0.2509,,
+Montenegro,273,Agricultural water withdrawal,4250,2007,0.0066,E,
+Montenegro,273,Agricultural water withdrawal,4250,2010,0.0017,,
+Morocco,143,Agricultural water withdrawal,4250,1992,10.18,,
+Morocco,143,Agricultural water withdrawal,4250,1995,9.884,I,
+Morocco,143,Agricultural water withdrawal,4250,2002,11.05,,
+Morocco,143,Agricultural water withdrawal,4250,2010,9.156,,
+Mozambique,144,Agricultural water withdrawal,4250,1990,0.54,,
+Mozambique,144,Agricultural water withdrawal,4250,2001,0.69,L,[138]
+Mozambique,144,Agricultural water withdrawal,4250,2015,1.076,,
+Myanmar,28,Agricultural water withdrawal,4250,1987,27.86,I,
+Myanmar,28,Agricultural water withdrawal,4250,2000,29.57,,
+Namibia,147,Agricultural water withdrawal,4250,1985,0.115,,
+Namibia,147,Agricultural water withdrawal,4250,1991,0.17,,
+Namibia,147,Agricultural water withdrawal,4250,1995,0.1915,I,
+Namibia,147,Agricultural water withdrawal,4250,2002,0.201,,
+Nepal,149,Agricultural water withdrawal,4250,2000,9.32,L,"[139,140]"
+Nepal,149,Agricultural water withdrawal,4250,2006,9.32,L,[141]
+Netherlands,150,Agricultural water withdrawal,4250,1991,0.184,E,
+Netherlands,150,Agricultural water withdrawal,4250,1996,0.23,E,[142]
+Netherlands,150,Agricultural water withdrawal,4250,2002,0.0526,E,[143]
+Netherlands,150,Agricultural water withdrawal,4250,2007,0.0719,E,[144]
+Netherlands,150,Agricultural water withdrawal,4250,2012,0.0602,E,[145]
+Netherlands,150,Agricultural water withdrawal,4250,2014,0.0827,,
+New Zealand,156,Agricultural water withdrawal,4250,1985,0.836,,
+New Zealand,156,Agricultural water withdrawal,4250,2006,2.82,E,[146]
+New Zealand,156,Agricultural water withdrawal,4250,2010,3.207,E,[147]
+Nicaragua,157,Agricultural water withdrawal,4250,2001,1.18,,
+Nicaragua,157,Agricultural water withdrawal,4250,2011,1.185,,
+Niger,158,Agricultural water withdrawal,4250,1988,0.41,,
+Niger,158,Agricultural water withdrawal,4250,2005,0.6565,L,[148]
+Niger,158,Agricultural water withdrawal,4250,2016,1.536,,
+Nigeria,159,Agricultural water withdrawal,4250,1987,3.92,L,
+Nigeria,159,Agricultural water withdrawal,4250,2000,5.51,L,
+Nigeria,159,Agricultural water withdrawal,4250,2004,5.51,L,
+Nigeria,159,Agricultural water withdrawal,4250,2010,5.51,L,
+North Macedonia,154,Agricultural water withdrawal,4250,1996,1.066,,
+North Macedonia,154,Agricultural water withdrawal,4250,2002,0.2814,E,[149]
+North Macedonia,154,Agricultural water withdrawal,4250,2007,0.1255,E,[150]
+Norway,162,Agricultural water withdrawal,4250,1996,0.73,E,
+Norway,162,Agricultural water withdrawal,4250,2002,0.808,E,
+Norway,162,Agricultural water withdrawal,4250,2006,0.8449,E,
+Occupied Palestinian Territory,299,Agricultural water withdrawal,4250,2001,0.167,,
+Occupied Palestinian Territory,299,Agricultural water withdrawal,4250,2005,0.189,,
+Oman,221,Agricultural water withdrawal,4250,1991,1.148,,
+Oman,221,Agricultural water withdrawal,4250,2000,1.23,L,
+Oman,221,Agricultural water withdrawal,4250,2003,1.168,,
+Pakistan,165,Agricultural water withdrawal,4250,1975,150.3,,
+Pakistan,165,Agricultural water withdrawal,4250,1991,150.6,,
+Pakistan,165,Agricultural water withdrawal,4250,2000,162.7,L,
+Pakistan,165,Agricultural water withdrawal,4250,2008,172.4,,
+Panama,166,Agricultural water withdrawal,4250,2010,0.446,,
+Panama,166,Agricultural water withdrawal,4250,2016,0.4461,,
+Papua New Guinea,168,Agricultural water withdrawal,4250,2000,0.001,L,
+Papua New Guinea,168,Agricultural water withdrawal,4250,2005,0.001,L,
+Paraguay,169,Agricultural water withdrawal,4250,1987,0.3354,,
+Paraguay,169,Agricultural water withdrawal,4250,2000,0.35,L,
+Paraguay,169,Agricultural water withdrawal,4250,2012,1.897,I,
+Peru,170,Agricultural water withdrawal,4250,2008,12.12,,
+Philippines,171,Agricultural water withdrawal,4250,2006,65.59,,[151]
+Philippines,171,Agricultural water withdrawal,4250,2009,67.07,,
+Philippines,171,Agricultural water withdrawal,4250,2016,67.78,,
+Poland,173,Agricultural water withdrawal,4250,1970,1.681,E,
+Poland,173,Agricultural water withdrawal,4250,1975,1.662,E,[152]
+Poland,173,Agricultural water withdrawal,4250,1980,1.323,E,[153]
+Poland,173,Agricultural water withdrawal,4250,1985,1.606,E,[154]
+Poland,173,Agricultural water withdrawal,4250,1992,1.37,E,[155]
+Poland,173,Agricultural water withdrawal,4250,1997,1.083,E,[156]
+Poland,173,Agricultural water withdrawal,4250,2002,1.108,E,[157]
+Poland,173,Agricultural water withdrawal,4250,2007,1.122,E,[158]
+Poland,173,Agricultural water withdrawal,4250,2012,1.102,E,[159]
+Poland,173,Agricultural water withdrawal,4250,2016,1.053,,
+Portugal,174,Agricultural water withdrawal,4250,1991,5.1,E,
+Portugal,174,Agricultural water withdrawal,4250,1995,10,E,
+Portugal,174,Agricultural water withdrawal,4250,1998,8.767,E,
+Puerto Rico,177,Agricultural water withdrawal,4250,1990,0.2063,,[160]
+Puerto Rico,177,Agricultural water withdrawal,4250,2000,0.1306,,
+Puerto Rico,177,Agricultural water withdrawal,4250,2005,0.0739,,[161]
+Puerto Rico,177,Agricultural water withdrawal,4250,2010,0.0641,,[162]
+Qatar,179,Agricultural water withdrawal,4250,1994,0.2106,,
+Qatar,179,Agricultural water withdrawal,4250,2000,0.21,L,
+Qatar,179,Agricultural water withdrawal,4250,2005,0.262,,[163]
+Qatar,179,Agricultural water withdrawal,4250,2016,0.23,,
+Republic of Korea,117,Agricultural water withdrawal,4250,1990,14.1,E,
+Republic of Korea,117,Agricultural water withdrawal,4250,1997,15.29,E,
+Republic of Korea,117,Agricultural water withdrawal,4250,2002,16.1,E,[164]
+Republic of Korea,117,Agricultural water withdrawal,4250,2003,15.96,E,
+Republic of Moldova,146,Agricultural water withdrawal,4250,1992,0.775,,
+Republic of Moldova,146,Agricultural water withdrawal,4250,1996,0.35,,
+Republic of Moldova,146,Agricultural water withdrawal,4250,2007,0.036,,
+Republic of Moldova,146,Agricultural water withdrawal,4250,2012,0.039,,
+Republic of Moldova,146,Agricultural water withdrawal,4250,2013,0.038,,
+Romania,183,Agricultural water withdrawal,4250,1970,3.4,,
+Romania,183,Agricultural water withdrawal,4250,1975,5.75,,
+Romania,183,Agricultural water withdrawal,4250,1980,6.79,,
+Romania,183,Agricultural water withdrawal,4250,1985,8.49,,
+Romania,183,Agricultural water withdrawal,4250,1990,9.1,,
+Romania,183,Agricultural water withdrawal,4250,1997,2.98,,
+Romania,183,Agricultural water withdrawal,4250,2002,1.192,E,[165]
+Romania,183,Agricultural water withdrawal,4250,2007,1.099,E,[166]
+Romania,183,Agricultural water withdrawal,4250,2012,1.093,E,[167]
+Romania,183,Agricultural water withdrawal,4250,2016,1.243,,
+Russian Federation,185,Agricultural water withdrawal,4250,1994,15.3,,
+Russian Federation,185,Agricultural water withdrawal,4250,2001,13.2,,
+Russian Federation,185,Agricultural water withdrawal,4250,2016,18.24,,
+Rwanda,184,Agricultural water withdrawal,4250,2000,0.102,,
+Saint Kitts and Nevis,188,Agricultural water withdrawal,4250,1997,2.00E-04,L,[168]
+Saint Kitts and Nevis,188,Agricultural water withdrawal,4250,2012,2.00E-04,I,
+Saint Lucia,189,Agricultural water withdrawal,4250,2007,0.0304,I,
+Saint Vincent and the Grenadines,191,Agricultural water withdrawal,4250,1990,0.0101,L,[169]
+Saint Vincent and the Grenadines,191,Agricultural water withdrawal,4250,2013,0,I,
+Sao Tome and Principe,193,Agricultural water withdrawal,4250,2016,0.0256,,
+Saudi Arabia,194,Agricultural water withdrawal,4250,1992,15.31,,
+Saudi Arabia,194,Agricultural water withdrawal,4250,2006,20.83,E,
+Saudi Arabia,194,Agricultural water withdrawal,4250,2012,17.51,,[170]
+Saudi Arabia,194,Agricultural water withdrawal,4250,2017,19.2,,[171]
+Senegal,195,Agricultural water withdrawal,4250,1987,1.251,,
+Senegal,195,Agricultural water withdrawal,4250,2002,2.065,I,
+Serbia,272,Agricultural water withdrawal,4250,2007,0.1282,E,[172]
+Serbia,272,Agricultural water withdrawal,4250,2011,0.0974,E,
+Serbia,272,Agricultural water withdrawal,4250,2016,0.6345,,
+Seychelles,196,Agricultural water withdrawal,4250,1989,9.00E-04,I,
+Seychelles,196,Agricultural water withdrawal,4250,2003,9.00E-04,I,
+Sierra Leone,197,Agricultural water withdrawal,4250,1987,0.329,,
+Sierra Leone,197,Agricultural water withdrawal,4250,1992,0.0457,L,[173]
+Sierra Leone,197,Agricultural water withdrawal,4250,2000,0.0457,L,"[174,175]"
+Sierra Leone,197,Agricultural water withdrawal,4250,2005,0.0457,L,"[176,177]"
+Singapore,200,Agricultural water withdrawal,4250,1975,0.0076,,
+Slovakia,199,Agricultural water withdrawal,4250,1992,,,[178]
+Slovakia,199,Agricultural water withdrawal,4250,1997,0.067,E,[179]
+Slovakia,199,Agricultural water withdrawal,4250,2002,0.056,E,[180]
+Slovakia,199,Agricultural water withdrawal,4250,2007,0.0225,E,[181]
+Slovakia,199,Agricultural water withdrawal,4250,2012,0.0307,E,[182]
+Slovakia,199,Agricultural water withdrawal,4250,2016,0.0208,,
+Slovenia,198,Agricultural water withdrawal,4250,1992,0.0037,E,[183]
+Slovenia,198,Agricultural water withdrawal,4250,1995,0.0048,E,[184]
+Slovenia,198,Agricultural water withdrawal,4250,2002,0.0066,E,
+Slovenia,198,Agricultural water withdrawal,4250,2007,0.0046,E,[185]
+Slovenia,198,Agricultural water withdrawal,4250,2012,0.0023,E,[186]
+Slovenia,198,Agricultural water withdrawal,4250,2016,0.0033,,
+Somalia,201,Agricultural water withdrawal,4250,1987,0.786,,
+Somalia,201,Agricultural water withdrawal,4250,2000,3.28,L,
+Somalia,201,Agricultural water withdrawal,4250,2003,3.281,I,
+South Africa,202,Agricultural water withdrawal,4250,1990,9.58,,
+South Africa,202,Agricultural water withdrawal,4250,1995,8.708,I,
+South Africa,202,Agricultural water withdrawal,4250,2000,7.836,,
+South Africa,202,Agricultural water withdrawal,4250,2013,9.69,,
+South Sudan,277,Agricultural water withdrawal,4250,2011,0.24,,
+Spain,203,Agricultural water withdrawal,4250,1986,28.43,,
+Spain,203,Agricultural water withdrawal,4250,1991,23.7,E,[187]
+Spain,203,Agricultural water withdrawal,4250,1997,23.41,E,[188]
+Spain,203,Agricultural water withdrawal,4250,2002,23.04,E,[189]
+Spain,203,Agricultural water withdrawal,4250,2007,23.18,E,[190]
+Spain,203,Agricultural water withdrawal,4250,2012,25.47,E,[191]
+Spain,203,Agricultural water withdrawal,4250,2014,21.96,,
+Sri Lanka,38,Agricultural water withdrawal,4250,1990,9.379,,
+Sri Lanka,38,Agricultural water withdrawal,4250,2000,12,L,
+Sri Lanka,38,Agricultural water withdrawal,4250,2005,11.31,,
+Sudan,276,Agricultural water withdrawal,4250,2011,25.91,,
+Suriname,207,Agricultural water withdrawal,4250,1987,0.41,,
+Suriname,207,Agricultural water withdrawal,4250,2000,0.62,L,
+Suriname,207,Agricultural water withdrawal,4250,2006,0.4311,L,[192]
+Sweden,210,Agricultural water withdrawal,4250,1970,0.132,E,[193]
+Sweden,210,Agricultural water withdrawal,4250,1975,0.137,E,[194]
+Sweden,210,Agricultural water withdrawal,4250,1980,0.14,E,[195]
+Sweden,210,Agricultural water withdrawal,4250,1992,0.174,E,
+Sweden,210,Agricultural water withdrawal,4250,1997,0.15,E,[196]
+Sweden,210,Agricultural water withdrawal,4250,2002,0.135,E,
+Sweden,210,Agricultural water withdrawal,4250,2007,0.107,E,[197]
+Sweden,210,Agricultural water withdrawal,4250,2010,0.098,E,[198]
+Switzerland,211,Agricultural water withdrawal,4250,2000,0.05,L,
+Switzerland,211,Agricultural water withdrawal,4250,2012,0.1601,E,[199]
+Syrian Arab Republic,212,Agricultural water withdrawal,4250,1997,12.84,,
+Syrian Arab Republic,212,Agricultural water withdrawal,4250,2002,14.41,,
+Syrian Arab Republic,212,Agricultural water withdrawal,4250,2003,14.67,,
+Tajikistan,208,Agricultural water withdrawal,4250,1994,10.96,,
+Tajikistan,208,Agricultural water withdrawal,4250,2000,10.96,L,
+Tajikistan,208,Agricultural water withdrawal,4250,2006,10.44,,
+Thailand,216,Agricultural water withdrawal,4250,2007,51.79,,
+Timor-Leste,176,Agricultural water withdrawal,4250,2004,1.071,,
+Togo,217,Agricultural water withdrawal,4250,1987,0.023,,
+Togo,217,Agricultural water withdrawal,4250,2002,0.076,,
+Trinidad and Tobago,220,Agricultural water withdrawal,4250,1997,0.0156,,
+Trinidad and Tobago,220,Agricultural water withdrawal,4250,2000,0.017,,
+Trinidad and Tobago,220,Agricultural water withdrawal,4250,2005,0.015,I,
+Trinidad and Tobago,220,Agricultural water withdrawal,4250,2011,0.0167,I,
+Tunisia,222,Agricultural water withdrawal,4250,1990,2.728,,
+Tunisia,222,Agricultural water withdrawal,4250,1995,2.446,I,
+Tunisia,222,Agricultural water withdrawal,4250,2000,2.165,,
+Tunisia,222,Agricultural water withdrawal,4250,2011,2.644,I,[200]
+Tunisia,222,Agricultural water withdrawal,4250,2017,3.773,,
+Turkey,223,Agricultural water withdrawal,4250,1992,22.9,,
+Turkey,223,Agricultural water withdrawal,4250,2000,31.5,,
+Turkey,223,Agricultural water withdrawal,4250,2003,29.6,,
+Turkey,223,Agricultural water withdrawal,4250,2008,34,,
+Turkey,223,Agricultural water withdrawal,4250,2016,50.81,,
+Turkmenistan,213,Agricultural water withdrawal,4250,1994,23.29,,
+Turkmenistan,213,Agricultural water withdrawal,4250,2000,24.04,L,
+Turkmenistan,213,Agricultural water withdrawal,4250,2004,26.36,,
+Uganda,226,Agricultural water withdrawal,4250,1970,0.12,,
+Uganda,226,Agricultural water withdrawal,4250,2002,0.12,,
+Uganda,226,Agricultural water withdrawal,4250,2008,0.259,,
+Ukraine,230,Agricultural water withdrawal,4250,1992,7.865,I,
+Ukraine,230,Agricultural water withdrawal,4250,2000,5.485,I,
+Ukraine,230,Agricultural water withdrawal,4250,2005,4.525,I,
+Ukraine,230,Agricultural water withdrawal,4250,2010,4.454,I,
+Ukraine,230,Agricultural water withdrawal,4250,2016,3.166,,
+United Arab Emirates,225,Agricultural water withdrawal,4250,1980,0.72,,
+United Arab Emirates,225,Agricultural water withdrawal,4250,1995,1.408,,
+United Arab Emirates,225,Agricultural water withdrawal,4250,2000,2.279,I,
+United Arab Emirates,225,Agricultural water withdrawal,4250,2005,3.312,I,
+United Kingdom,229,Agricultural water withdrawal,4250,1990,0.6681,E,
+United Kingdom,229,Agricultural water withdrawal,4250,1995,1.723,E,
+United Kingdom,229,Agricultural water withdrawal,4250,2002,1.308,E,"[201,202]"
+United Kingdom,229,Agricultural water withdrawal,4250,2007,1.33,E,[203]
+United Kingdom,229,Agricultural water withdrawal,4250,2012,1.049,E,[204]
+United Kingdom,229,Agricultural water withdrawal,4250,2016,1.183,,
+United Republic of Tanzania,215,Agricultural water withdrawal,4250,1994,1.04,,
+United Republic of Tanzania,215,Agricultural water withdrawal,4250,2002,4.632,K,[205]
+United States of America,231,Agricultural water withdrawal,4250,1969,100.1,,
+United States of America,231,Agricultural water withdrawal,4250,1974,106.5,,
+United States of America,231,Agricultural water withdrawal,4250,1979,117.1,,
+United States of America,231,Agricultural water withdrawal,4250,1990,194.7,,[206]
+United States of America,231,Agricultural water withdrawal,4250,2000,196.5,,"[207,208]"
+United States of America,231,Agricultural water withdrawal,4250,2005,191.9,,"[209,210]"
+United States of America,231,Agricultural water withdrawal,4250,2010,175.1,,"[211,212]"
+United States of America,231,Agricultural water withdrawal,4250,2015,176.2,,
+Uruguay,234,Agricultural water withdrawal,4250,1965,0.5915,,
+Uruguay,234,Agricultural water withdrawal,4250,2000,3.17,,
+Uzbekistan,235,Agricultural water withdrawal,4250,1994,54.37,,
+Uzbekistan,235,Agricultural water withdrawal,4250,2001,54.78,,
+Uzbekistan,235,Agricultural water withdrawal,4250,2005,50.4,,
+Uzbekistan,235,Agricultural water withdrawal,4250,2016,50.01,,
+Venezuela (Bolivarian Republic of),236,Agricultural water withdrawal,4250,1970,1.886,,
+Venezuela (Bolivarian Republic of),236,Agricultural water withdrawal,4250,2000,3.97,L,
+Venezuela (Bolivarian Republic of),236,Agricultural water withdrawal,4250,2007,16.71,I,
+Venezuela (Bolivarian Republic of),236,Agricultural water withdrawal,4250,2008,16.71,L,[213]
+Viet Nam,237,Agricultural water withdrawal,4250,1980,35.04,,
+Viet Nam,237,Agricultural water withdrawal,4250,1985,40.65,,
+Viet Nam,237,Agricultural water withdrawal,4250,1990,47,,
+Viet Nam,237,Agricultural water withdrawal,4250,2005,77.75,,
+Yemen,249,Agricultural water withdrawal,4250,1990,2.7,,
+Yemen,249,Agricultural water withdrawal,4250,2000,3.06,,
+Yemen,249,Agricultural water withdrawal,4250,2005,3.235,,
+Zambia,251,Agricultural water withdrawal,4250,1992,1.339,,
+Zambia,251,Agricultural water withdrawal,4250,1994,1.318,,
+Zambia,251,Agricultural water withdrawal,4250,2002,1.152,L,[214]
+Zimbabwe,181,Agricultural water withdrawal,4250,1987,0.964,,
+Zimbabwe,181,Agricultural water withdrawal,4250,2002,3.318,,[215]
+Zimbabwe,181,Agricultural water withdrawal,4250,2007,2.93,,[216]
+,,,,,,,
+Metadata:,,,,,,,
+[1] [P-Components-N] | 72% of 0.93 total water withdrawal,,,,,,,
+[2] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[3] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+"[4] [P-Overall accuracy-N] | AQUASTAT estimation based on Eurostat data of water withdrawal by source (Med_en42) using Eurostat proportion by sector of water supplied (Med-en44): 59% for agriculture, 36% for municipalities and 5% for industries.",,,,,,,
+[5] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[6] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[7] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[8] [P-Reference period-N] | Data actually from 1997,,,,,,,
+"[9] [P-Adjustment-N] | Total water abstractions in 2012: 2.941 km3 but detail by sector only for water consumption (2.187 km3), so calculation made based on the sectors' resepctive proportion: 88% agriculture, 8% industries and 4% municipal",,,,,,,
+"[10] [P-Adjustment-N] | Total water abstractions in 2017: 2.865 km3 but detail by sector only for water consumption (2.04 km3), so calculation made based on the sectors' resepctive proportion: 84% agriculture, 11% industries and 5% municipal",,,,,,,
+"[11] [P-Observations-N] | Groundwater represents 100% of the agricultural water withdrawal (source: Eurostat, 2016)",,,,,,,
+"[12] [P-Observations-N] | Groundwater represents 100% of the agricultural water withdrawal (source: Eurostat, 2016)",,,,,,,
+"[13] [P-Observations-N] | Groundwater represents 100% of the agricultural water withdrawal (source: Eurostat, 2016)",,,,,,,
+"[14] [P-Observations-N] | Groundwater represents 100% of the agricultural water withdrawal (source: Eurostat, 2016)",,,,,,,
+[15] [P-Components-N] | Surface water 6.62 km3/yr + groundwater 24.88 km3/yr,,,,,,,
+[16] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[17] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[18] [P-Reference period-N] | Data actually from 1989,,,,,,,
+[19] [P-Components-N] | Irrigation and agricultural water supply: 0.286; aquaculture: 0.282,,,,,,,
+[20] [P-Components-N] | Irrigation and agricultural water supply: 0.160; aquaculture: 0.282,,,,,,,
+[21] [P-Components-N] | Irrigation and agricultural water supply: 0.127; aquaculture: 0.282,,,,,,,
+[22] [P-Components-N] | Irrigation and agricultural water supply: 0.114; aquaculture: 0.357,,,,,,,
+"[23] [P-Components-N] | Surface water and groundwater account for 0.003 km3 and 0.035 km3 respectively of agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[24] [P-Components-N] | Surface water and groundwater account for 0.003 km3 and 0.034 km3 respectively of agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[25] [P-Components-N] | Surface water and groundwater account for 0.003 km3 and 0.037 km3 respectively of agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[26] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[27] [P-Components-N] | 0.029 irrigation & forestry + 0.045 livestock + 0.006 wildlife,,,,,,,
+[28] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+"[29] [P-Components-N] | Surface water and groundwater account for 0.733 km3 and 0.010 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[30] [P-Components-N] | Surface water and groundwater account for 0.866 km3 and 0.010 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[31] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[32] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[33] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[34] [P-Components-N] | Surface water accounts for 3.672 km3 and groundwater accounts for 0.319 km3 of the total agricultural withdrawal,,,,,,,
+[35] [P-Components-N] | Surface water accounts for 3.7936 km3 and groundwater accounts for 0.31089 km3 of the total agricultural withdrawal,,,,,,,
+"[36] [P-Overall accuracy-N] | Estimated data by the water balance model used in the 2012 Agricultural water use exercise. Canada Statistics declare 0.838 (2010), but the resulting water requirement ratio was incoherent (304%). This is certainly due to the model using the long-term average precipitations and assuming that crop optimal growth. So estimated value is a maximum value especially if precipitations are higher than the average (supplemental irrigation only).",,,,,,,
+[37] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[38] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[39] [P-Reference period-N] | Data actually from 1987,,,,,,,
+[40] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[41] [P-Reference period-N] | Data actually from 1987,,,,,,,
+[42] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[43] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[44] [P-Reference period-N] | Data actually from 2002,,,,,,,
+[45] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[46] [P-Reference period-N] | Data actually from 2008,,,,,,,
+[47] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[48] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+"[49] [P-Components-N] | Surface water and groundwater account for 0.0029 km3 and 0.0003 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[50] [P-Components-N] | Surface water and groundwater account for 0.0481 km3 and 0.1125 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[51] [P-Components-N] | Surface water and groundwater account for 0.028 km3 and 0.1150 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[52] [P-Components-N] | Surface water and groundwater account for 0.0420 km3 and 0.1290 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[53] [P-Components-N] | Surface water and groundwater account for 0.051 km3 and 0.012 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[54] [P-Components-N] | Surface water and groundwater account for 0.097 km3 and 0.014 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[55] [P-Components-N] | Surface water and groundwater account for 0.014 km3 and 0.006 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[56] [P-Components-N] | Surface water and groundwater account for 0.0311 km3 and 0.0121 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[57] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[58] [P-Reference period-N] | Data actually from 2000,,,,,,,
+[59] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+"[60] [P-Components-N] | Surface water and groundwater account for 0.0031 km3 and 0.1621 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[61] [P-Components-N] | Surface water and groundwater account for 0.0017 km3 and 0.1158 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[62] [P-Components-N] | Surface water accounts for 0.003 km3 and groundwater accounts for 0.161 km3 of the total agricultural withdrawal,,,,,,,
+[63] [P-Components-N] | 0.0025 irrigation + 0.0005 élevage,,,,,,,
+"[64] [P-Overall accuracy-N] | Refered to as ""Water demand"" not abstraction",,,,,,,
+[65] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[66] [P-Reference period-N] | Data actually from 2000,,,,,,,
+[67] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+"[68] [P-Components-N] | Surface water and groundwater account for 0.0262 km3 and 0.0038 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[69] [P-Components-N] | Surface water and groundwater account for 0.0031 km3 and 0.0045 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[70] [P-Components-N] | Irrigation 993 + livestock 13,,,,,,,
+[71] [P-Components-N] | Including 0.687 for livestock,,,,,,,
+"[72] [P-Components-N] | Surface water and groundwater account for 0.04 km3 and 0.01 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[73] [P-Components-N] | Surface water and groundwater account for 0.04 km3 and 0.01 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[74] [P-Components-N] | Surface water and groundwater account for 3.284 km3 and 1.007 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[75] [P-Components-N] | Surface water and groundwater account for 3.135 km3 and 0.798 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[76] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[77] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[78] [P-Reference period-N] | Data actually from 2000,,,,,,,
+[79] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+"[80] [P-Components-N] | Irrigation 0,867 + Agriculture water supply 0,188",,,,,,,
+"[81] [P-Components-N] | Surface water and groundwater account for 0.054 km3 and 0.157 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[82] [P-Components-N] | Surface water and groundwater account for 1.7 km3 and 0.725 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[83] [P-Components-N] | Surface water and groundwater account for 3.1 km3 and 1.5 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[84] [P-Components-N] | Surface water and groundwater account for 4.9 km3 and 3.0 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[85] [P-Components-N] | Surface water accounts for 4.5 km3 and groundwater accounts for 3.1 km3 of the total agricultural withdrawal,,,,,,,
+"[86] [P-Components-N] | Surface water and groundwater account for 5.473 km3 and 2.947 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[87] [P-Components-N] | Surface water and groundwater account for 5.075 km3 and 3.383 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[88] [P-Components-N] | Surface water and groundwater account for 3.577 km3 and 4.341 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[89] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[90] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[91] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[92] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[93] [P-Components-N] | Surface water represents 100% of the total agricultural water withdrawal,,,,,,,
+[94] [P-Components-N] | Surface water represents 100% of the total agricultural water withdrawal,,,,,,,
+"[95] [P-Components-N] | Surface water and groundwater account for 0.904 km3 and 0.045 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[96] [P-Components-N] | Surface water and groundwater account for 0.447 km3 and 0.008 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[97] [P-Components-N] | Surface water and groundwater account for 0.611 km3 and 0.069 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[98] [P-Components-N] | Surface water and groundwater account for 0.265 km3 and 0.04 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[99] [P-Components-N] | Surface water accounts for 0.264 km3 and groundwater accounts for 0.058 km3 of the total agricultural withdrawal,,,,,,,
+"[100] [P-Components-N] | Surface water and groundwater account for 0.001 km3 and 0.003 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[101] [P-Components-N] | Surface water and groundwater account for 0.001 km3 and 0.069 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[102] [P-Components-N] | Surface water and groundwater account for 0.001 km3 and 0.069 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[103] [P-Components-N] | Surface water and groundwater account for 0.001 km3 and 0.069 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[104] [P-Components-N] | Surface water and groundwater account for 0.134 km3 and 0.045 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[105] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[106] [P-Components-N] | Surface water accounts for 52.748 km3 and groundwater accounts for 3.302 km3 of the total agricultural withdrawal,,,,,,,
+[107] [P-Components-N] | Surface water accounts for 51.2 km3 and groundwater accounts for 3.3 km3 of the total agricultural withdrawal,,,,,,,
+[108] [P-Components-N] | Surface water accounts for 51.564 km3 and groundwater accounts for 2.866 km3 of the total agricultural withdrawal,,,,,,,
+[109] [P-Overall accuracy-N] | Official figure for water use,,,,,,,
+[110] [P-Overall accuracy-N] | Official figure for water use,,,,,,,
+[111] [P-Overall accuracy-N] | Official figure for water use,,,,,,,
+[112] [P-Overall accuracy-N] | Official figure for water use,,,,,,,
+[113] [P-Overall accuracy-N] | The previous estimation of 2.165  from 2011 irrigation water use study was reconsidered based on new data available,,,,,,,
+[114] [P-Components-N] | Including 0.008 km3 for wildlife,,,,,,,
+[115] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+"[116] [P-Components-N] | Surface water and groundwater account for 0.050 km3 and 0.004 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[117] [P-Components-N] | Surface water and groundwater account for 0.048 km3 and 0.003 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[118] [P-Components-N] | Surface water and groundwater account for 0.0384 km3 and 0.0024 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[119] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[120] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+"[121] [P-Components-N] | Surface water and groundwater account for 0.048 km3 and 0.005 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[122] [P-Components-N] | Surface water and groundwater account for 0.077 km3 and 0.005 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[123] [P-Components-N] | Surface water and groundwater account for 0.075 km3 and 0.004 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[124] [P-Adjustment-N] | Yearbook indicates only water consumption by sector, so losses distributed to each sector according to their respective weight.",,,,,,,
+[125] [P-Components-N] | Groundwater represents 100 % of total water withdrawal for agriculture,,,,,,,
+[126] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[127] [P-Reference period-N] | Data actually from 2002,,,,,,,
+[128] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[129] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[130] [P-Reference period-N] | Data actually from 1996,,,,,,,
+[131] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[132] [P-Reference period-N] | Data actually from 1996,,,,,,,
+[133] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[134] [P-Components-N] | Groundwater represents 100% of total water withdrawal for agriculture,,,,,,,
+[135] [P-Components-N] | Groundwater represents 100% of total water withdrawal for agriculture,,,,,,,
+[136] [P-Components-N] | Groundwater represents 100% of total water withdrawal for agriculture,,,,,,,
+[137] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[138] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[139] [P-Reference period-N] | Data actually from 2006,,,,,,,
+[140] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[141] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+"[142] [P-Components-N] | Surface water and groundwater account for 0.075 km3 and 0.155 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[143] [P-Components-N] | Surface water and groundwater account for 0.0193 km3 and 0.0333 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[144] [P-Components-N] | Surface water and groundwater account for 0.0179 km3 and 0.0540 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[145] [P-Components-N] | Surface water and groundwater account for 0.0064 km3 and 0.0538 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[146] [P-Components-N] | Surface water accounts for 1.917 km3 and groundwater accounts for 0.903 km3 of the total agricultural withdrawal,,,,,,,
+[147] [P-Components-N] | Surface water accounts for 2.176 km3 and groundwater accounts for 1.031 km3 of the total agricultural withdrawal,,,,,,,
+[148] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+"[149] [P-Components-N] | Surface water and groundwater account for 0.278 km3 and 0.004 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[150] [P-Components-N] | Surface water and groundwater account for 0.1253 km3 and 0.0002 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[151] [P-Components-N] | Irrigation + livestock,,,,,,,
+"[152] [P-Components-N] | Surface water represents 100% of total water withdrawal for agriculture (Source: Eurostat, 2016)",,,,,,,
+"[153] [P-Components-N] | Surface water represents 100% of total water withdrawal for agriculture (Source: Eurostat, 2016)",,,,,,,
+"[154] [P-Components-N] | Surface water represents 100% of total water withdrawal for agriculture (Source: Eurostat, 2016)",,,,,,,
+[155] [P-Components-N] | Surface water represents 100% of the agricultural water withdrawal,,,,,,,
+[156] [P-Components-N] | Surface water represents 100% of the agricultural water withdrawal,,,,,,,
+"[157] [P-Components-N] | Surface water represents 100% of total water withdrawal for agriculture (Source: Eurostat, 2016)",,,,,,,
+"[158] [P-Components-N] | Surface water represents 100% of total water withdrawal for agriculture (Source: Eurostat, 2016)",,,,,,,
+"[159] [P-Components-N] | Surface water represents 100% of total water withdrawal for agriculture (Source: Eurostat, 2016)",,,,,,,
+"[160] [P-Components-N] | it includes 0.195 km3 of withdrawal for irrigation, and 0.011 km3 for livestock. Withdrawal for aquaculture is unknown",,,,,,,
+"[161] [P-Components-N] | this figure includes 0.0624 km3 of withdrawal for irrigation, 0.0108 km3 for livestock and 0.0007 km3 for aquaculture",,,,,,,
+"[162] [P-Components-N] | this figure includes 0.0528 km3 of withdrawal for irrigation, 0.0108 km3 for livestock and 0.0006 km3 for aquaculture",,,,,,,
+[163] [P-Components-N] | Including irrigation of landscape,,,,,,,
+[164] [P-Components-N] | Surface water accounts for 14.5 km3 and groundwater accounts for 1.6 km3 of the total agricultural withdrawal,,,,,,,
+"[165] [P-Components-N] | Surface water and groundwater account for 1.143 km3 and 0.049 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[166] [P-Components-N] | Surface water and groundwater account for 1.056 km3 and 0.043 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[167] [P-Components-N] | Surface water and groundwater account for 1.063 km3 and 0.030 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[168] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[169] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[170] [P-Overall accuracy-N] | Indicated as water consumption by the General Authority for Statistics,,,,,,,
+[171] [P-Overall accuracy-N] | Indicated as water consumption by the General Authority for Statistics,,,,,,,
+"[172] [P-Components-N] | Surface water and groundwater account for 0.127 km3 and 0.001 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[173] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[174] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[175] [P-Reference period-N] | Data actually from 1992,,,,,,,
+[176] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[177] [P-Reference period-N] | Data actually from 1992,,,,,,,
+"[178] [P-Components-N] | Surface water and groundwater account for 0.124 km3 and 0.028 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[179] [P-Components-N] | Surface water and groundwater account for 0.047 km3 and 0.020 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[180] [P-Components-N] | Surface water and groundwater account for 0.043 km3 and 0.014 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[181] [P-Components-N] | Surface water and groundwater account for 0.009 km3 and 0.013 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[182] [P-Components-N] | Surface water and groundwater account for 0.018 km3 and 0.013 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[183] [P-Components-N] | Surface water and groundwater account for 0.0029 km3 and 0.0008 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[184] [P-Components-N] | Surface water and groundwater account for 0.0045 km3 and 0.0003 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[185] [P-Components-N] | Surface water and groundwater account for 0.0045 km3 and 0.0002 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[186] [P-Components-N] | Surface water and groundwater account for 0.0020 km3 and 0.0003 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[187] [P-Components-N] | Surface water and groundwater account for 19.2 km3 and 4.50 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[188] [P-Components-N] | Surface water and groundwater account for 20.501 km3 and 2.931 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[189] [P-Components-N] | Surface water and groundwater account for 18.832 km3 and 4.212 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[190] [P-Components-N] | Surface water and groundwater account for 18.630 km3 and 4.550 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[191] [P-Components-N] | Surface water and groundwater account for 20.375 km3 and 5.094 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[192] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+"[193] [P-Components-N] | Surface water and groundwater account for 0.054 km3 and 0.078 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[194] [P-Components-N] | Surface water and groundwater account for 0.054 km3 and 0.083 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[195] [P-Components-N] | Surface water and groundwater account for 0.054 km3 and 0.086 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[196] [P-Components-N] | Surface water and groundwater account for 0.080 km3 and 0.070 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[197] [P-Components-N] | Surface water and groundwater account for 0.055 km3 and 0.052 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[198] [P-Components-N] | Surface water and groundwater account for 0.050 km3 and 0.048 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[199] [P-Components-N] | Surface water and groundwater account for 0.12 km3 and 0.04 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[200] [P-Overall accuracy-N] | Water withdrawal were known only by sources: estimation by sector were calculated using a 2010 distribution of 80% by agriculture, 14% by municipalities, 5% by iindustries and 1% by tourism from FAO, BPEH (2014, see profile for full reference)",,,,,,,
+"[201] [P-Components-N] | Surface water and groundwater account for 1.099 km3 and 0.209 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[202] [P-Observations-N] | England and Wales only,,,,,,,
+"[203] [P-Components-N] | Surface water and groundwater account for 1.138 km3 and 0.193 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+"[204] [P-Components-N] | Surface water and groundwater account for 0.893 km3 and 0.156 km3 respectively of total agricultural water withdrawal (Source: Eurostat, 2016)",,,,,,,
+[205] [P-Reference Area-N] | Mainlandequals4.624;  Zanzibarequals0.042,,,,,,,
+"[206] [P-Components-N] | This figure includes 188.49 km3 of withdrawal for irrigation, and 6.2 km3 for livestock. Withdrawal for aquaculture is unknown",,,,,,,
+"[207] [P-Components-N] | it includes 189.14 km3 of withdrawal for irrigation, 2.43 km3 for livestock and 5.11 km3 for aquaculture",,,,,,,
+[208] [P-Components-N] | Fresh surface water and groundwater withdrawal for agriculture account for 115.1 km3 and 81.4 km3 respectively,,,,,,,
+"[209] [P-Components-N] | This figure includes 176.77 km3 of withdrawal for irrigation, 2.95 km3 for livestock and 12.13 km3 for aquaculture",,,,,,,
+[210] [P-Components-N] | Fresh surface water and groundwater withdrawal for agriculture account for 110.9 km3 and 80.95 km3 respectively,,,,,,,
+"[211] [P-Components-N] | this figure includes 159.29 km3 of withdrawal for irrigation, 2.75 km3 for livestock and 13.02 km3 for aquaculture",,,,,,,
+[212] [P-Components-N] | Fresh surface water and groundwater withdrawal for agriculture account for 102.58 km3 and 72.48 km3 respectively,,,,,,,
+[213] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[214] [P-Components-N] | Irrigation water withdrawal only,,,,,,,
+[215] [P-Components-N] | Including irrigation and stock watering,,,,,,,
+"[216] [P-Observations-N] | Volume of water allocated to agriculture, not actual withdrawal",,,,,,,
+,,,,,,,
+E - External data,,,,,,,
+I - AQUASTAT estimate,,,,,,,
+K - Aggregate data,,,,,,,
+L - Modelled data,,,,,,,
+(c)  FAO of the UN,,,,,,,
+The information contained in AQUASTAT is provided free of charge to all users. Please quote as follows:,,,,,,,
+FAO. 2016. AQUASTAT Main Database - Food and Agriculture Organization of the United Nations (FAO). Website accessed on[18/07/2019 10:22],,,,,,,
+ ,,,,,,,
