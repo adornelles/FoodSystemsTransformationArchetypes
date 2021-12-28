@@ -7,3 +7,6 @@ Collated data: contains all data files in a standardised format by 'country', 'y
 Country look-up table: contains the file created to consistently compare names of countries across different datasets. <br />
 R scripts: contains all the scripts (.R) for dataset creation and analysis. <br />
 Results: contains the compound annual change rate between 1995 and 2015 of all metrics across 161 countries. <br />
+
+# Folders
+Each folder contains a 'readme.md' file.
